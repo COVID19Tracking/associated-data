@@ -19,6 +19,7 @@ Collections of relevant datasets to combine with testing data.
 
 ## National and local data
 * [Korean datasets](https://www.kaggle.com/kimjihoo/coronavirusdataset) on Kaggle
+* [covid19italy](https://github.com/RamiKrispin/covid19Italy) on GitHub
 
 ## Other catalogs of data
 * [Geoff Hing](https://docs.google.com/document/d/198Boji2CYCEtbQ1OPc3swNnzD5cEudy4f8KKsMUI7F8/edit#)
