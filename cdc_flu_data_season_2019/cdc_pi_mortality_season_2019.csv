@@ -1,0 +1,1145 @@
+seasonid,baseline,threshold,percent_pni,percent_complete,number_influenza,number_pneumonia,all_deaths,total_pni,week,geo_description,age_label,wk_start,wk_end,week_nr,mmwrid,coverage_area,state_name,callout,year,week_yr,state
+59,NA,NA,0.05,0.981,0,48,953,48,40,State,All,2019-09-29,2019-10-05,40,3014,state,Alabama,At or Above Threshold,2019,2019-40,AL
+59,NA,NA,0.038,0.968,0,36,940,36,41,State,All,2019-10-06,2019-10-12,41,3015,state,Alabama,At or Above Threshold,2019,2019-41,AL
+59,NA,NA,0.045,1,0,45,1010,45,42,State,All,2019-10-13,2019-10-19,42,3016,state,Alabama,At or Above Threshold,2019,2019-42,AL
+59,NA,NA,0.044,1,2,42,997,44,43,State,All,2019-10-20,2019-10-26,43,3017,state,Alabama,At or Above Threshold,2019,2019-43,AL
+59,NA,NA,0.056,0.989,2,52,961,54,44,State,All,2019-10-27,2019-11-02,44,3018,state,Alabama,At or Above Threshold,2019,2019-44,AL
+59,NA,NA,0.05,1,0,52,1047,52,45,State,All,2019-11-03,2019-11-09,45,3019,state,Alabama,At or Above Threshold,2019,2019-45,AL
+59,NA,NA,0.061,1,0,67,1096,67,46,State,All,2019-11-10,2019-11-16,46,3020,state,Alabama,At or Above Threshold,2019,2019-46,AL
+59,NA,NA,0.044,1,3,43,1054,46,47,State,All,2019-11-17,2019-11-23,47,3021,state,Alabama,At or Above Threshold,2019,2019-47,AL
+59,NA,NA,0.077,1,2,78,1044,80,48,State,All,2019-11-24,2019-11-30,48,3022,state,Alabama,At or Above Threshold,2019,2019-48,AL
+59,NA,NA,0.054,1,2,55,1065,57,49,State,All,2019-12-01,2019-12-07,49,3023,state,Alabama,At or Above Threshold,2019,2019-49,AL
+59,NA,NA,0.055,1,3,58,1106,61,50,State,All,2019-12-08,2019-12-14,50,3024,state,Alabama,At or Above Threshold,2019,2019-50,AL
+59,NA,NA,0.055,1,2,59,1107,61,51,State,All,2019-12-15,2019-12-21,51,3025,state,Alabama,At or Above Threshold,2019,2019-51,AL
+59,NA,NA,0.054,1,2,55,1046,57,52,State,All,2019-12-22,2019-12-28,52,3026,state,Alabama,At or Above Threshold,2019,2019-52,AL
+59,NA,NA,0.067,1,5,67,1080,72,1,State,All,2019-12-29,2020-01-04,1,3027,state,Alabama,At or Above Threshold,2019,2019-01,AL
+59,NA,NA,0.081,1,8,83,1124,91,2,State,All,2020-01-05,2020-01-11,2,3028,state,Alabama,At or Above Threshold,2020,2020-2,AL
+59,NA,NA,0.066,1,7,62,1045,69,3,State,All,2020-01-12,2020-01-18,3,3029,state,Alabama,At or Above Threshold,2020,2020-3,AL
+59,NA,NA,0.069,1,7,64,1035,71,4,State,All,2020-01-19,2020-01-25,4,3030,state,Alabama,At or Above Threshold,2020,2020-4,AL
+59,NA,NA,0.067,1,15,51,986,66,5,State,All,2020-01-26,2020-02-01,5,3031,state,Alabama,At or Above Threshold,2020,2020-5,AL
+59,NA,NA,0.07,1,11,61,1023,72,6,State,All,2020-02-02,2020-02-08,6,3032,state,Alabama,At or Above Threshold,2020,2020-6,AL
+59,NA,NA,0.08,1,5,73,979,78,7,State,All,2020-02-09,2020-02-15,7,3033,state,Alabama,At or Above Threshold,2020,2020-7,AL
+59,NA,NA,0.073,0.902,3,61,876,64,8,State,All,2020-02-16,2020-02-22,8,3034,state,Alabama,At or Above Threshold,2020,2020-8,AL
+59,NA,NA,0.075,0.751,8,47,730,55,9,State,All,2020-02-23,2020-02-29,9,3035,state,Alabama,At or Above Threshold,2020,2020-9,AL
+59,NA,NA,0.065,1,0,6,93,6,40,State,All,2019-09-29,2019-10-05,40,3014,state,Alaska,At or Above Threshold,2019,2019-40,AK
+59,NA,NA,0.074,1,0,7,94,7,41,State,All,2019-10-06,2019-10-12,41,3015,state,Alaska,At or Above Threshold,2019,2019-41,AK
+59,NA,NA,0.032,1,0,3,95,3,42,State,All,2019-10-13,2019-10-19,42,3016,state,Alaska,At or Above Threshold,2019,2019-42,AK
+59,NA,NA,0.057,0.861,0,4,70,4,43,State,All,2019-10-20,2019-10-26,43,3017,state,Alaska,At or Above Threshold,2019,2019-43,AK
+59,NA,NA,0.058,1,0,5,86,5,44,State,All,2019-10-27,2019-11-02,44,3018,state,Alaska,At or Above Threshold,2019,2019-44,AK
+59,NA,NA,0.072,1,0,7,97,7,45,State,All,2019-11-03,2019-11-09,45,3019,state,Alaska,At or Above Threshold,2019,2019-45,AK
+59,NA,NA,0.011,1,0,1,90,1,46,State,All,2019-11-10,2019-11-16,46,3020,state,Alaska,At or Above Threshold,2019,2019-46,AK
+59,NA,NA,0.043,1,0,4,94,4,47,State,All,2019-11-17,2019-11-23,47,3021,state,Alaska,At or Above Threshold,2019,2019-47,AK
+59,NA,NA,0.047,1,0,5,107,5,48,State,All,2019-11-24,2019-11-30,48,3022,state,Alaska,At or Above Threshold,2019,2019-48,AK
+59,NA,NA,0.071,1,1,6,99,7,49,State,All,2019-12-01,2019-12-07,49,3023,state,Alaska,At or Above Threshold,2019,2019-49,AK
+59,NA,NA,0.032,1,0,3,94,3,50,State,All,2019-12-08,2019-12-14,50,3024,state,Alaska,At or Above Threshold,2019,2019-50,AK
+59,NA,NA,0.035,1,1,2,85,3,51,State,All,2019-12-15,2019-12-21,51,3025,state,Alaska,At or Above Threshold,2019,2019-51,AK
+59,NA,NA,0.127,1,1,12,102,13,52,State,All,2019-12-22,2019-12-28,52,3026,state,Alaska,At or Above Threshold,2019,2019-52,AK
+59,NA,NA,0.057,1,1,4,87,5,1,State,All,2019-12-29,2020-01-04,1,3027,state,Alaska,At or Above Threshold,2019,2019-01,AK
+59,NA,NA,0.038,1,0,4,104,4,2,State,All,2020-01-05,2020-01-11,2,3028,state,Alaska,At or Above Threshold,2020,2020-2,AK
+59,NA,NA,0.041,1,0,4,98,4,3,State,All,2020-01-12,2020-01-18,3,3029,state,Alaska,At or Above Threshold,2020,2020-3,AK
+59,NA,NA,0.022,1,0,2,90,2,4,State,All,2020-01-19,2020-01-25,4,3030,state,Alaska,At or Above Threshold,2020,2020-4,AK
+59,NA,NA,0.053,0.922,1,3,75,4,5,State,All,2020-01-26,2020-02-01,5,3031,state,Alaska,At or Above Threshold,2020,2020-5,AK
+59,NA,NA,0.054,0.91,1,3,74,4,6,State,All,2020-02-02,2020-02-08,6,3032,state,Alaska,At or Above Threshold,2020,2020-6,AK
+59,NA,NA,0,0.861,0,0,70,0,7,State,All,2020-02-09,2020-02-15,7,3033,state,Alaska,At or Above Threshold,2020,2020-7,AK
+59,NA,NA,0.058,0.639,0,3,52,3,8,State,All,2020-02-16,2020-02-22,8,3034,state,Alaska,At or Above Threshold,2020,2020-8,AK
+59,NA,NA,0.029,0.43,1,0,35,1,9,State,All,2020-02-23,2020-02-29,9,3035,state,Alaska,At or Above Threshold,2020,2020-9,AK
+59,NA,NA,0.046,1,0,51,1110,51,40,State,All,2019-09-29,2019-10-05,40,3014,state,Arizona,At or Above Threshold,2019,2019-40,AZ
+59,NA,NA,0.046,1,2,49,1113,51,41,State,All,2019-10-06,2019-10-12,41,3015,state,Arizona,At or Above Threshold,2019,2019-41,AZ
+59,NA,NA,0.046,1,2,51,1140,53,42,State,All,2019-10-13,2019-10-19,42,3016,state,Arizona,At or Above Threshold,2019,2019-42,AZ
+59,NA,NA,0.053,0.977,1,53,1012,54,43,State,All,2019-10-20,2019-10-26,43,3017,state,Arizona,At or Above Threshold,2019,2019-43,AZ
+59,NA,NA,0.057,1,1,63,1131,64,44,State,All,2019-10-27,2019-11-02,44,3018,state,Arizona,At or Above Threshold,2019,2019-44,AZ
+59,NA,NA,0.049,1,0,61,1243,61,45,State,All,2019-11-03,2019-11-09,45,3019,state,Arizona,At or Above Threshold,2019,2019-45,AZ
+59,NA,NA,0.061,1,0,72,1175,72,46,State,All,2019-11-10,2019-11-16,46,3020,state,Arizona,At or Above Threshold,2019,2019-46,AZ
+59,NA,NA,0.053,1,1,62,1190,63,47,State,All,2019-11-17,2019-11-23,47,3021,state,Arizona,At or Above Threshold,2019,2019-47,AZ
+59,NA,NA,0.051,1,2,55,1113,57,48,State,All,2019-11-24,2019-11-30,48,3022,state,Arizona,At or Above Threshold,2019,2019-48,AZ
+59,NA,NA,0.05,1,4,56,1191,60,49,State,All,2019-12-01,2019-12-07,49,3023,state,Arizona,At or Above Threshold,2019,2019-49,AZ
+59,NA,NA,0.07,1,3,78,1158,81,50,State,All,2019-12-08,2019-12-14,50,3024,state,Arizona,At or Above Threshold,2019,2019-50,AZ
+59,NA,NA,0.056,1,2,62,1150,64,51,State,All,2019-12-15,2019-12-21,51,3025,state,Arizona,At or Above Threshold,2019,2019-51,AZ
+59,NA,NA,0.047,1,0,56,1199,56,52,State,All,2019-12-22,2019-12-28,52,3026,state,Arizona,At or Above Threshold,2019,2019-52,AZ
+59,NA,NA,0.067,1,4,81,1266,85,1,State,All,2019-12-29,2020-01-04,1,3027,state,Arizona,At or Above Threshold,2019,2019-01,AZ
+59,NA,NA,0.069,1,8,84,1343,92,2,State,All,2020-01-05,2020-01-11,2,3028,state,Arizona,At or Above Threshold,2020,2020-2,AZ
+59,NA,NA,0.055,1,7,62,1246,69,3,State,All,2020-01-12,2020-01-18,3,3029,state,Arizona,At or Above Threshold,2020,2020-3,AZ
+59,NA,NA,0.079,1,11,85,1220,96,4,State,All,2020-01-19,2020-01-25,4,3030,state,Arizona,At or Above Threshold,2020,2020-4,AZ
+59,NA,NA,0.065,1,11,68,1217,79,5,State,All,2020-01-26,2020-02-01,5,3031,state,Arizona,At or Above Threshold,2020,2020-5,AZ
+59,NA,NA,0.071,1,9,76,1198,85,6,State,All,2020-02-02,2020-02-08,6,3032,state,Arizona,At or Above Threshold,2020,2020-6,AZ
+59,NA,NA,0.077,1,14,80,1223,94,7,State,All,2020-02-09,2020-02-15,7,3033,state,Arizona,At or Above Threshold,2020,2020-7,AZ
+59,NA,NA,0.068,1,5,69,1082,74,8,State,All,2020-02-16,2020-02-22,8,3034,state,Arizona,At or Above Threshold,2020,2020-8,AZ
+59,NA,NA,0.06,0.855,7,46,886,53,9,State,All,2020-02-23,2020-02-29,9,3035,state,Arizona,At or Above Threshold,2020,2020-9,AZ
+59,NA,NA,0.045,0.966,0,26,579,26,40,State,All,2019-09-29,2019-10-05,40,3014,state,Arkansas,At or Above Threshold,2019,2019-40,AR
+59,NA,NA,0.048,1,0,29,601,29,41,State,All,2019-10-06,2019-10-12,41,3015,state,Arkansas,At or Above Threshold,2019,2019-41,AR
+59,NA,NA,0.056,1,0,35,625,35,42,State,All,2019-10-13,2019-10-19,42,3016,state,Arkansas,At or Above Threshold,2019,2019-42,AR
+59,NA,NA,0.064,1,2,39,639,41,43,State,All,2019-10-20,2019-10-26,43,3017,state,Arkansas,At or Above Threshold,2019,2019-43,AR
+59,NA,NA,0.048,1,0,29,606,29,44,State,All,2019-10-27,2019-11-02,44,3018,state,Arkansas,At or Above Threshold,2019,2019-44,AR
+59,NA,NA,0.069,1,0,43,621,43,45,State,All,2019-11-03,2019-11-09,45,3019,state,Arkansas,At or Above Threshold,2019,2019-45,AR
+59,NA,NA,0.064,1,1,42,676,43,46,State,All,2019-11-10,2019-11-16,46,3020,state,Arkansas,At or Above Threshold,2019,2019-46,AR
+59,NA,NA,0.05,1,0,32,645,32,47,State,All,2019-11-17,2019-11-23,47,3021,state,Arkansas,At or Above Threshold,2019,2019-47,AR
+59,NA,NA,0.051,1,0,34,666,34,48,State,All,2019-11-24,2019-11-30,48,3022,state,Arkansas,At or Above Threshold,2019,2019-48,AR
+59,NA,NA,0.064,1,0,40,621,40,49,State,All,2019-12-01,2019-12-07,49,3023,state,Arkansas,At or Above Threshold,2019,2019-49,AR
+59,NA,NA,0.052,1,2,33,670,35,50,State,All,2019-12-08,2019-12-14,50,3024,state,Arkansas,At or Above Threshold,2019,2019-50,AR
+59,NA,NA,0.068,1,2,40,618,42,51,State,All,2019-12-15,2019-12-21,51,3025,state,Arkansas,At or Above Threshold,2019,2019-51,AR
+59,NA,NA,0.069,1,3,46,713,49,52,State,All,2019-12-22,2019-12-28,52,3026,state,Arkansas,At or Above Threshold,2019,2019-52,AR
+59,NA,NA,0.089,1,6,56,693,62,1,State,All,2019-12-29,2020-01-04,1,3027,state,Arkansas,At or Above Threshold,2019,2019-01,AR
+59,NA,NA,0.084,1,4,54,692,58,2,State,All,2020-01-05,2020-01-11,2,3028,state,Arkansas,At or Above Threshold,2020,2020-2,AR
+59,NA,NA,0.072,1,6,41,651,47,3,State,All,2020-01-12,2020-01-18,3,3029,state,Arkansas,At or Above Threshold,2020,2020-3,AR
+59,NA,NA,0.07,1,4,39,613,43,4,State,All,2020-01-19,2020-01-25,4,3030,state,Arkansas,At or Above Threshold,2020,2020-4,AR
+59,NA,NA,0.093,1,6,57,675,63,5,State,All,2020-01-26,2020-02-01,5,3031,state,Arkansas,At or Above Threshold,2020,2020-5,AR
+59,NA,NA,0.08,1,7,46,659,53,6,State,All,2020-02-02,2020-02-08,6,3032,state,Arkansas,At or Above Threshold,2020,2020-6,AR
+59,NA,NA,0.056,1,4,33,666,37,7,State,All,2020-02-09,2020-02-15,7,3033,state,Arkansas,At or Above Threshold,2020,2020-7,AR
+59,NA,NA,0.073,1,7,37,605,44,8,State,All,2020-02-16,2020-02-22,8,3034,state,Arkansas,At or Above Threshold,2020,2020-8,AR
+59,NA,NA,0.051,0.759,2,21,455,23,9,State,All,2020-02-23,2020-02-29,9,3035,state,Arkansas,At or Above Threshold,2020,2020-9,AR
+59,NA,NA,0.053,1,1,262,4954,263,40,State,All,2019-09-29,2019-10-05,40,3014,state,California,At or Above Threshold,2019,2019-40,CA
+59,NA,NA,0.062,0.994,0,305,4886,305,41,State,All,2019-10-06,2019-10-12,41,3015,state,California,At or Above Threshold,2019,2019-41,CA
+59,NA,NA,0.058,1,2,291,5040,293,42,State,All,2019-10-13,2019-10-19,42,3016,state,California,At or Above Threshold,2019,2019-42,CA
+59,NA,NA,0.062,1,2,311,5069,313,43,State,All,2019-10-20,2019-10-26,43,3017,state,California,At or Above Threshold,2019,2019-43,CA
+59,NA,NA,0.063,1,3,320,5095,323,44,State,All,2019-10-27,2019-11-02,44,3018,state,California,At or Above Threshold,2019,2019-44,CA
+59,NA,NA,0.065,1,5,337,5270,342,45,State,All,2019-11-03,2019-11-09,45,3019,state,California,At or Above Threshold,2019,2019-45,CA
+59,NA,NA,0.058,1,2,295,5080,297,46,State,All,2019-11-10,2019-11-16,46,3020,state,California,At or Above Threshold,2019,2019-46,CA
+59,NA,NA,0.061,1,3,310,5119,313,47,State,All,2019-11-17,2019-11-23,47,3021,state,California,At or Above Threshold,2019,2019-47,CA
+59,NA,NA,0.058,1,9,289,5151,298,48,State,All,2019-11-24,2019-11-30,48,3022,state,California,At or Above Threshold,2019,2019-48,CA
+59,NA,NA,0.07,1,14,367,5473,381,49,State,All,2019-12-01,2019-12-07,49,3023,state,California,At or Above Threshold,2019,2019-49,CA
+59,NA,NA,0.068,1,11,351,5310,362,50,State,All,2019-12-08,2019-12-14,50,3024,state,California,At or Above Threshold,2019,2019-50,CA
+59,NA,NA,0.068,1,12,352,5356,364,51,State,All,2019-12-15,2019-12-21,51,3025,state,California,At or Above Threshold,2019,2019-51,CA
+59,NA,NA,0.068,1,20,353,5500,373,52,State,All,2019-12-22,2019-12-28,52,3026,state,California,At or Above Threshold,2019,2019-52,CA
+59,NA,NA,0.085,1,39,455,5825,494,1,State,All,2019-12-29,2020-01-04,1,3027,state,California,At or Above Threshold,2019,2019-01,CA
+59,NA,NA,0.078,1,47,403,5798,450,2,State,All,2020-01-05,2020-01-11,2,3028,state,California,At or Above Threshold,2020,2020-2,CA
+59,NA,NA,0.095,1,58,486,5730,544,3,State,All,2020-01-12,2020-01-18,3,3029,state,California,At or Above Threshold,2020,2020-3,CA
+59,NA,NA,0.087,1,68,429,5737,497,4,State,All,2020-01-19,2020-01-25,4,3030,state,California,At or Above Threshold,2020,2020-4,CA
+59,NA,NA,0.082,1,56,405,5590,461,5,State,All,2020-01-26,2020-02-01,5,3031,state,California,At or Above Threshold,2020,2020-5,CA
+59,NA,NA,0.085,1,60,431,5757,491,6,State,All,2020-02-02,2020-02-08,6,3032,state,California,At or Above Threshold,2020,2020-6,CA
+59,NA,NA,0.086,1,65,395,5331,460,7,State,All,2020-02-09,2020-02-15,7,3033,state,California,At or Above Threshold,2020,2020-7,CA
+59,NA,NA,0.091,1,63,407,5183,470,8,State,All,2020-02-16,2020-02-22,8,3034,state,California,At or Above Threshold,2020,2020-8,CA
+59,NA,NA,0.084,0.829,54,288,4073,342,9,State,All,2020-02-23,2020-02-29,9,3035,state,California,At or Above Threshold,2020,2020-9,CA
+59,NA,NA,0.039,1,0,28,715,28,40,State,All,2019-09-29,2019-10-05,40,3014,state,Colorado,At or Above Threshold,2019,2019-40,CO
+59,NA,NA,0.031,1,0,23,749,23,41,State,All,2019-10-06,2019-10-12,41,3015,state,Colorado,At or Above Threshold,2019,2019-41,CO
+59,NA,NA,0.049,1,0,39,796,39,42,State,All,2019-10-13,2019-10-19,42,3016,state,Colorado,At or Above Threshold,2019,2019-42,CO
+59,NA,NA,0.05,1,1,38,782,39,43,State,All,2019-10-20,2019-10-26,43,3017,state,Colorado,At or Above Threshold,2019,2019-43,CO
+59,NA,NA,0.043,1,3,29,744,32,44,State,All,2019-10-27,2019-11-02,44,3018,state,Colorado,At or Above Threshold,2019,2019-44,CO
+59,NA,NA,0.061,1,0,47,774,47,45,State,All,2019-11-03,2019-11-09,45,3019,state,Colorado,At or Above Threshold,2019,2019-45,CO
+59,NA,NA,0.035,1,1,26,774,27,46,State,All,2019-11-10,2019-11-16,46,3020,state,Colorado,At or Above Threshold,2019,2019-46,CO
+59,NA,NA,0.029,1,2,20,751,22,47,State,All,2019-11-17,2019-11-23,47,3021,state,Colorado,At or Above Threshold,2019,2019-47,CO
+59,NA,NA,0.057,1,0,41,721,41,48,State,All,2019-11-24,2019-11-30,48,3022,state,Colorado,At or Above Threshold,2019,2019-48,CO
+59,NA,NA,0.038,1,0,28,732,28,49,State,All,2019-12-01,2019-12-07,49,3023,state,Colorado,At or Above Threshold,2019,2019-49,CO
+59,NA,NA,0.046,1,1,35,781,36,50,State,All,2019-12-08,2019-12-14,50,3024,state,Colorado,At or Above Threshold,2019,2019-50,CO
+59,NA,NA,0.064,1,7,44,793,51,51,State,All,2019-12-15,2019-12-21,51,3025,state,Colorado,At or Above Threshold,2019,2019-51,CO
+59,NA,NA,0.035,1,1,28,836,29,52,State,All,2019-12-22,2019-12-28,52,3026,state,Colorado,At or Above Threshold,2019,2019-52,CO
+59,NA,NA,0.062,1,5,47,835,52,1,State,All,2019-12-29,2020-01-04,1,3027,state,Colorado,At or Above Threshold,2019,2019-01,CO
+59,NA,NA,0.067,1,7,50,846,57,2,State,All,2020-01-05,2020-01-11,2,3028,state,Colorado,At or Above Threshold,2020,2020-2,CO
+59,NA,NA,0.077,1,9,55,826,64,3,State,All,2020-01-12,2020-01-18,3,3029,state,Colorado,At or Above Threshold,2020,2020-3,CO
+59,NA,NA,0.082,1,21,47,830,68,4,State,All,2020-01-19,2020-01-25,4,3030,state,Colorado,At or Above Threshold,2020,2020-4,CO
+59,NA,NA,0.063,1,6,43,777,49,5,State,All,2020-01-26,2020-02-01,5,3031,state,Colorado,At or Above Threshold,2020,2020-5,CO
+59,NA,NA,0.065,1,10,42,801,52,6,State,All,2020-02-02,2020-02-08,6,3032,state,Colorado,At or Above Threshold,2020,2020-6,CO
+59,NA,NA,0.064,1,7,42,770,49,7,State,All,2020-02-09,2020-02-15,7,3033,state,Colorado,At or Above Threshold,2020,2020-7,CO
+59,NA,NA,0.05,1,3,38,814,41,8,State,All,2020-02-16,2020-02-22,8,3034,state,Colorado,At or Above Threshold,2020,2020-8,CO
+59,NA,NA,0.084,0.864,11,39,598,50,9,State,All,2020-02-23,2020-02-29,9,3035,state,Colorado,At or Above Threshold,2020,2020-9,CO
+59,NA,NA,0.03,0.986,0,17,573,17,40,State,All,2019-09-29,2019-10-05,40,3014,state,Connecticut,At or Above Threshold,2019,2019-40,CT
+59,NA,NA,0.066,0.96,0,37,558,37,41,State,All,2019-10-06,2019-10-12,41,3015,state,Connecticut,At or Above Threshold,2019,2019-41,CT
+59,NA,NA,0.051,1,0,30,591,30,42,State,All,2019-10-13,2019-10-19,42,3016,state,Connecticut,At or Above Threshold,2019,2019-42,CT
+59,NA,NA,0.06,0.948,0,33,551,33,43,State,All,2019-10-20,2019-10-26,43,3017,state,Connecticut,At or Above Threshold,2019,2019-43,CT
+59,NA,NA,0.045,1,1,26,599,27,44,State,All,2019-10-27,2019-11-02,44,3018,state,Connecticut,At or Above Threshold,2019,2019-44,CT
+59,NA,NA,0.055,1,2,31,595,33,45,State,All,2019-11-03,2019-11-09,45,3019,state,Connecticut,At or Above Threshold,2019,2019-45,CT
+59,NA,NA,0.056,1,0,35,623,35,46,State,All,2019-11-10,2019-11-16,46,3020,state,Connecticut,At or Above Threshold,2019,2019-46,CT
+59,NA,NA,0.066,1,0,42,638,42,47,State,All,2019-11-17,2019-11-23,47,3021,state,Connecticut,At or Above Threshold,2019,2019-47,CT
+59,NA,NA,0.046,1,1,28,626,29,48,State,All,2019-11-24,2019-11-30,48,3022,state,Connecticut,At or Above Threshold,2019,2019-48,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,49,State,All,2019-12-01,2019-12-07,49,3023,state,Connecticut,Normal levels,2019,2019-49,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,50,State,All,2019-12-08,2019-12-14,50,3024,state,Connecticut,Normal levels,2019,2019-50,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,51,State,All,2019-12-15,2019-12-21,51,3025,state,Connecticut,Normal levels,2019,2019-51,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,52,State,All,2019-12-22,2019-12-28,52,3026,state,Connecticut,Normal levels,2019,2019-52,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,1,State,All,2019-12-29,2020-01-04,1,3027,state,Connecticut,Normal levels,2019,2019-01,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,2,State,All,2020-01-05,2020-01-11,2,3028,state,Connecticut,Normal levels,2020,2020-2,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,3,State,All,2020-01-12,2020-01-18,3,3029,state,Connecticut,Normal levels,2020,2020-3,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,4,State,All,2020-01-19,2020-01-25,4,3030,state,Connecticut,Normal levels,2020,2020-4,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,5,State,All,2020-01-26,2020-02-01,5,3031,state,Connecticut,Normal levels,2020,2020-5,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,6,State,All,2020-02-02,2020-02-08,6,3032,state,Connecticut,Normal levels,2020,2020-6,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,7,State,All,2020-02-09,2020-02-15,7,3033,state,Connecticut,Normal levels,2020,2020-7,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,8,State,All,2020-02-16,2020-02-22,8,3034,state,Connecticut,Normal levels,2020,2020-8,CT
+59,NA,NA,NA,0.2,NA,NA,NA,NA,9,State,All,2020-02-23,2020-02-29,9,3035,state,Connecticut,Normal levels,2020,2020-9,CT
+59,NA,NA,0.034,1,0,6,177,6,40,State,All,2019-09-29,2019-10-05,40,3014,state,Delaware,At or Above Threshold,2019,2019-40,DE
+59,NA,NA,0.065,1,0,11,169,11,41,State,All,2019-10-06,2019-10-12,41,3015,state,Delaware,At or Above Threshold,2019,2019-41,DE
+59,NA,NA,0.055,1,0,9,165,9,42,State,All,2019-10-13,2019-10-19,42,3016,state,Delaware,At or Above Threshold,2019,2019-42,DE
+59,NA,NA,0.024,1,0,4,170,4,43,State,All,2019-10-20,2019-10-26,43,3017,state,Delaware,At or Above Threshold,2019,2019-43,DE
+59,NA,NA,0.064,0.957,0,10,157,10,44,State,All,2019-10-27,2019-11-02,44,3018,state,Delaware,At or Above Threshold,2019,2019-44,DE
+59,NA,NA,0.053,1,0,9,171,9,45,State,All,2019-11-03,2019-11-09,45,3019,state,Delaware,At or Above Threshold,2019,2019-45,DE
+59,NA,NA,0.043,0.988,0,7,162,7,46,State,All,2019-11-10,2019-11-16,46,3020,state,Delaware,At or Above Threshold,2019,2019-46,DE
+59,NA,NA,0.043,1,0,7,164,7,47,State,All,2019-11-17,2019-11-23,47,3021,state,Delaware,At or Above Threshold,2019,2019-47,DE
+59,NA,NA,0.047,1,0,8,170,8,48,State,All,2019-11-24,2019-11-30,48,3022,state,Delaware,At or Above Threshold,2019,2019-48,DE
+59,NA,NA,0.066,1,0,12,183,12,49,State,All,2019-12-01,2019-12-07,49,3023,state,Delaware,At or Above Threshold,2019,2019-49,DE
+59,NA,NA,0.029,1,0,5,173,5,50,State,All,2019-12-08,2019-12-14,50,3024,state,Delaware,At or Above Threshold,2019,2019-50,DE
+59,NA,NA,0.048,0.884,0,7,145,7,51,State,All,2019-12-15,2019-12-21,51,3025,state,Delaware,At or Above Threshold,2019,2019-51,DE
+59,NA,NA,0.051,1,0,9,178,9,52,State,All,2019-12-22,2019-12-28,52,3026,state,Delaware,At or Above Threshold,2019,2019-52,DE
+59,NA,NA,0.036,1,0,7,195,7,1,State,All,2019-12-29,2020-01-04,1,3027,state,Delaware,At or Above Threshold,2019,2019-01,DE
+59,NA,NA,0.045,1,0,8,176,8,2,State,All,2020-01-05,2020-01-11,2,3028,state,Delaware,At or Above Threshold,2020,2020-2,DE
+59,NA,NA,0.061,1,3,7,164,10,3,State,All,2020-01-12,2020-01-18,3,3029,state,Delaware,At or Above Threshold,2020,2020-3,DE
+59,NA,NA,0.053,1,2,7,171,9,4,State,All,2020-01-19,2020-01-25,4,3030,state,Delaware,At or Above Threshold,2020,2020-4,DE
+59,NA,NA,0.065,0.933,0,10,153,10,5,State,All,2020-01-26,2020-02-01,5,3031,state,Delaware,At or Above Threshold,2020,2020-5,DE
+59,NA,NA,0.033,0.744,1,3,122,4,6,State,All,2020-02-02,2020-02-08,6,3032,state,Delaware,At or Above Threshold,2020,2020-6,DE
+59,NA,NA,0.021,0.872,0,3,143,3,7,State,All,2020-02-09,2020-02-15,7,3033,state,Delaware,At or Above Threshold,2020,2020-7,DE
+59,NA,NA,0.039,0.628,0,4,103,4,8,State,All,2020-02-16,2020-02-22,8,3034,state,Delaware,At or Above Threshold,2020,2020-8,DE
+59,NA,NA,0.039,0.311,0,2,51,2,9,State,All,2020-02-23,2020-02-29,9,3035,state,Delaware,At or Above Threshold,2020,2020-9,DE
+59,NA,NA,0.049,0.881,0,4,82,4,40,State,All,2019-09-29,2019-10-05,40,3014,state,District of Columbia,At or Above Threshold,2019,2019-40,DC
+59,NA,NA,0.058,1,0,6,104,6,41,State,All,2019-10-06,2019-10-12,41,3015,state,District of Columbia,At or Above Threshold,2019,2019-41,DC
+59,NA,NA,0.037,1,0,4,107,4,42,State,All,2019-10-13,2019-10-19,42,3016,state,District of Columbia,At or Above Threshold,2019,2019-42,DC
+59,NA,NA,0.054,1,0,6,111,6,43,State,All,2019-10-20,2019-10-26,43,3017,state,District of Columbia,At or Above Threshold,2019,2019-43,DC
+59,NA,NA,0.099,1,0,11,111,11,44,State,All,2019-10-27,2019-11-02,44,3018,state,District of Columbia,At or Above Threshold,2019,2019-44,DC
+59,NA,NA,0.056,1,0,6,108,6,45,State,All,2019-11-03,2019-11-09,45,3019,state,District of Columbia,At or Above Threshold,2019,2019-45,DC
+59,NA,NA,0.06,0.902,0,5,84,5,46,State,All,2019-11-10,2019-11-16,46,3020,state,District of Columbia,At or Above Threshold,2019,2019-46,DC
+59,NA,NA,0.034,0.934,0,3,87,3,47,State,All,2019-11-17,2019-11-23,47,3021,state,District of Columbia,At or Above Threshold,2019,2019-47,DC
+59,NA,NA,0.054,1,0,6,112,6,48,State,All,2019-11-24,2019-11-30,48,3022,state,District of Columbia,At or Above Threshold,2019,2019-48,DC
+59,NA,NA,0.051,1,0,5,99,5,49,State,All,2019-12-01,2019-12-07,49,3023,state,District of Columbia,At or Above Threshold,2019,2019-49,DC
+59,NA,NA,0.04,1,0,4,99,4,50,State,All,2019-12-08,2019-12-14,50,3024,state,District of Columbia,At or Above Threshold,2019,2019-50,DC
+59,NA,NA,0.055,0.977,0,5,91,5,51,State,All,2019-12-15,2019-12-21,51,3025,state,District of Columbia,At or Above Threshold,2019,2019-51,DC
+59,NA,NA,0.065,1,1,7,124,8,52,State,All,2019-12-22,2019-12-28,52,3026,state,District of Columbia,At or Above Threshold,2019,2019-52,DC
+59,NA,NA,0.086,0.999,1,7,93,8,1,State,All,2019-12-29,2020-01-04,1,3027,state,District of Columbia,At or Above Threshold,2019,2019-01,DC
+59,NA,NA,0.031,1,0,3,96,3,2,State,All,2020-01-05,2020-01-11,2,3028,state,District of Columbia,At or Above Threshold,2020,2020-2,DC
+59,NA,NA,0.095,1,2,7,95,9,3,State,All,2020-01-12,2020-01-18,3,3029,state,District of Columbia,At or Above Threshold,2020,2020-3,DC
+59,NA,NA,0.091,1,0,9,99,9,4,State,All,2020-01-19,2020-01-25,4,3030,state,District of Columbia,At or Above Threshold,2020,2020-4,DC
+59,NA,NA,0.096,1,0,11,114,11,5,State,All,2020-01-26,2020-02-01,5,3031,state,District of Columbia,At or Above Threshold,2020,2020-5,DC
+59,NA,NA,0.076,1,0,8,105,8,6,State,All,2020-02-02,2020-02-08,6,3032,state,District of Columbia,At or Above Threshold,2020,2020-6,DC
+59,NA,NA,0.095,1,0,9,95,9,7,State,All,2020-02-09,2020-02-15,7,3033,state,District of Columbia,At or Above Threshold,2020,2020-7,DC
+59,NA,NA,0.067,0.806,1,4,75,5,8,State,All,2020-02-16,2020-02-22,8,3034,state,District of Columbia,At or Above Threshold,2020,2020-8,DC
+59,NA,NA,0.05,0.859,0,4,80,4,9,State,All,2020-02-23,2020-02-29,9,3035,state,District of Columbia,At or Above Threshold,2020,2020-9,DC
+59,NA,NA,0.048,1,0,183,3837,183,40,State,All,2019-09-29,2019-10-05,40,3014,state,Florida,At or Above Threshold,2019,2019-40,FL
+59,NA,NA,0.046,1,0,178,3868,178,41,State,All,2019-10-06,2019-10-12,41,3015,state,Florida,At or Above Threshold,2019,2019-41,FL
+59,NA,NA,0.052,1,3,192,3782,195,42,State,All,2019-10-13,2019-10-19,42,3016,state,Florida,At or Above Threshold,2019,2019-42,FL
+59,NA,NA,0.058,1,3,214,3721,217,43,State,All,2019-10-20,2019-10-26,43,3017,state,Florida,At or Above Threshold,2019,2019-43,FL
+59,NA,NA,0.059,1,6,222,3873,228,44,State,All,2019-10-27,2019-11-02,44,3018,state,Florida,At or Above Threshold,2019,2019-44,FL
+59,NA,NA,0.06,1,4,232,3958,236,45,State,All,2019-11-03,2019-11-09,45,3019,state,Florida,At or Above Threshold,2019,2019-45,FL
+59,NA,NA,0.051,1,10,196,4035,206,46,State,All,2019-11-10,2019-11-16,46,3020,state,Florida,At or Above Threshold,2019,2019-46,FL
+59,NA,NA,0.05,1,3,197,3981,200,47,State,All,2019-11-17,2019-11-23,47,3021,state,Florida,At or Above Threshold,2019,2019-47,FL
+59,NA,NA,0.051,1,7,198,4015,205,48,State,All,2019-11-24,2019-11-30,48,3022,state,Florida,At or Above Threshold,2019,2019-48,FL
+59,NA,NA,0.059,1,6,239,4181,245,49,State,All,2019-12-01,2019-12-07,49,3023,state,Florida,At or Above Threshold,2019,2019-49,FL
+59,NA,NA,0.056,1,6,229,4233,235,50,State,All,2019-12-08,2019-12-14,50,3024,state,Florida,At or Above Threshold,2019,2019-50,FL
+59,NA,NA,0.057,1,9,221,4068,230,51,State,All,2019-12-15,2019-12-21,51,3025,state,Florida,At or Above Threshold,2019,2019-51,FL
+59,NA,NA,0.064,1,12,260,4239,272,52,State,All,2019-12-22,2019-12-28,52,3026,state,Florida,At or Above Threshold,2019,2019-52,FL
+59,NA,NA,0.064,1,29,242,4231,271,1,State,All,2019-12-29,2020-01-04,1,3027,state,Florida,At or Above Threshold,2019,2019-01,FL
+59,NA,NA,0.066,1,24,259,4284,283,2,State,All,2020-01-05,2020-01-11,2,3028,state,Florida,At or Above Threshold,2020,2020-2,FL
+59,NA,NA,0.066,1,36,244,4254,280,3,State,All,2020-01-12,2020-01-18,3,3029,state,Florida,At or Above Threshold,2020,2020-3,FL
+59,NA,NA,0.062,1,34,229,4234,263,4,State,All,2020-01-19,2020-01-25,4,3030,state,Florida,At or Above Threshold,2020,2020-4,FL
+59,NA,NA,0.062,1,32,231,4262,263,5,State,All,2020-01-26,2020-02-01,5,3031,state,Florida,At or Above Threshold,2020,2020-5,FL
+59,NA,NA,0.068,1,29,257,4199,286,6,State,All,2020-02-02,2020-02-08,6,3032,state,Florida,At or Above Threshold,2020,2020-6,FL
+59,NA,NA,0.067,1,23,254,4142,277,7,State,All,2020-02-09,2020-02-15,7,3033,state,Florida,At or Above Threshold,2020,2020-7,FL
+59,NA,NA,0.065,1,27,232,4004,259,8,State,All,2020-02-16,2020-02-22,8,3034,state,Florida,At or Above Threshold,2020,2020-8,FL
+59,NA,NA,0.059,0.92,20,178,3378,198,9,State,All,2020-02-23,2020-02-29,9,3035,state,Florida,At or Above Threshold,2020,2020-9,FL
+59,NA,NA,0.038,1,0,60,1581,60,40,State,All,2019-09-29,2019-10-05,40,3014,state,Georgia,At or Above Threshold,2019,2019-40,GA
+59,NA,NA,0.043,1,2,66,1565,68,41,State,All,2019-10-06,2019-10-12,41,3015,state,Georgia,At or Above Threshold,2019,2019-41,GA
+59,NA,NA,0.043,1,0,67,1558,67,42,State,All,2019-10-13,2019-10-19,42,3016,state,Georgia,At or Above Threshold,2019,2019-42,GA
+59,NA,NA,0.037,1,2,57,1594,59,43,State,All,2019-10-20,2019-10-26,43,3017,state,Georgia,At or Above Threshold,2019,2019-43,GA
+59,NA,NA,0.035,1,0,57,1634,57,44,State,All,2019-10-27,2019-11-02,44,3018,state,Georgia,At or Above Threshold,2019,2019-44,GA
+59,NA,NA,0.047,1,0,77,1654,77,45,State,All,2019-11-03,2019-11-09,45,3019,state,Georgia,At or Above Threshold,2019,2019-45,GA
+59,NA,NA,0.047,1,0,78,1652,78,46,State,All,2019-11-10,2019-11-16,46,3020,state,Georgia,At or Above Threshold,2019,2019-46,GA
+59,NA,NA,0.043,1,1,75,1776,76,47,State,All,2019-11-17,2019-11-23,47,3021,state,Georgia,At or Above Threshold,2019,2019-47,GA
+59,NA,NA,0.046,1,4,73,1685,77,48,State,All,2019-11-24,2019-11-30,48,3022,state,Georgia,At or Above Threshold,2019,2019-48,GA
+59,NA,NA,0.043,1,3,68,1647,71,49,State,All,2019-12-01,2019-12-07,49,3023,state,Georgia,At or Above Threshold,2019,2019-49,GA
+59,NA,NA,0.052,1,9,77,1667,86,50,State,All,2019-12-08,2019-12-14,50,3024,state,Georgia,At or Above Threshold,2019,2019-50,GA
+59,NA,NA,0.048,1,5,76,1700,81,51,State,All,2019-12-15,2019-12-21,51,3025,state,Georgia,At or Above Threshold,2019,2019-51,GA
+59,NA,NA,0.059,1,13,88,1712,101,52,State,All,2019-12-22,2019-12-28,52,3026,state,Georgia,At or Above Threshold,2019,2019-52,GA
+59,NA,NA,0.073,1,22,107,1759,129,1,State,All,2019-12-29,2020-01-04,1,3027,state,Georgia,At or Above Threshold,2019,2019-01,GA
+59,NA,NA,0.066,1,21,92,1724,113,2,State,All,2020-01-05,2020-01-11,2,3028,state,Georgia,At or Above Threshold,2020,2020-2,GA
+59,NA,NA,0.068,1,20,92,1654,112,3,State,All,2020-01-12,2020-01-18,3,3029,state,Georgia,At or Above Threshold,2020,2020-3,GA
+59,NA,NA,0.072,1,20,102,1691,122,4,State,All,2020-01-19,2020-01-25,4,3030,state,Georgia,At or Above Threshold,2020,2020-4,GA
+59,NA,NA,0.056,1,6,87,1658,93,5,State,All,2020-01-26,2020-02-01,5,3031,state,Georgia,At or Above Threshold,2020,2020-5,GA
+59,NA,NA,0.065,1,8,94,1578,102,6,State,All,2020-02-02,2020-02-08,6,3032,state,Georgia,At or Above Threshold,2020,2020-6,GA
+59,NA,NA,0.062,0.951,15,75,1442,90,7,State,All,2020-02-09,2020-02-15,7,3033,state,Georgia,At or Above Threshold,2020,2020-7,GA
+59,NA,NA,0.056,0.817,18,52,1239,70,8,State,All,2020-02-16,2020-02-22,8,3034,state,Georgia,At or Above Threshold,2020,2020-8,GA
+59,NA,NA,0.053,0.602,6,42,913,48,9,State,All,2020-02-23,2020-02-29,9,3035,state,Georgia,At or Above Threshold,2020,2020-9,GA
+59,NA,NA,0.065,1,0,14,217,14,40,State,All,2019-09-29,2019-10-05,40,3014,state,Hawaii,At or Above Threshold,2019,2019-40,HI
+59,NA,NA,0.046,0.928,0,9,194,9,41,State,All,2019-10-06,2019-10-12,41,3015,state,Hawaii,At or Above Threshold,2019,2019-41,HI
+59,NA,NA,0.084,1,0,19,226,19,42,State,All,2019-10-13,2019-10-19,42,3016,state,Hawaii,At or Above Threshold,2019,2019-42,HI
+59,NA,NA,0.051,0.938,0,10,196,10,43,State,All,2019-10-20,2019-10-26,43,3017,state,Hawaii,At or Above Threshold,2019,2019-43,HI
+59,NA,NA,0.069,0.971,0,14,203,14,44,State,All,2019-10-27,2019-11-02,44,3018,state,Hawaii,At or Above Threshold,2019,2019-44,HI
+59,NA,NA,0.057,1,0,12,212,12,45,State,All,2019-11-03,2019-11-09,45,3019,state,Hawaii,At or Above Threshold,2019,2019-45,HI
+59,NA,NA,0.055,0.952,0,11,199,11,46,State,All,2019-11-10,2019-11-16,46,3020,state,Hawaii,At or Above Threshold,2019,2019-46,HI
+59,NA,NA,0.049,0.981,0,10,205,10,47,State,All,2019-11-17,2019-11-23,47,3021,state,Hawaii,At or Above Threshold,2019,2019-47,HI
+59,NA,NA,0.062,1,0,13,210,13,48,State,All,2019-11-24,2019-11-30,48,3022,state,Hawaii,At or Above Threshold,2019,2019-48,HI
+59,NA,NA,0.075,1,0,16,212,16,49,State,All,2019-12-01,2019-12-07,49,3023,state,Hawaii,At or Above Threshold,2019,2019-49,HI
+59,NA,NA,0.069,1,0,15,218,15,50,State,All,2019-12-08,2019-12-14,50,3024,state,Hawaii,At or Above Threshold,2019,2019-50,HI
+59,NA,NA,0.065,1,0,15,230,15,51,State,All,2019-12-15,2019-12-21,51,3025,state,Hawaii,At or Above Threshold,2019,2019-51,HI
+59,NA,NA,0.059,1,2,12,239,14,52,State,All,2019-12-22,2019-12-28,52,3026,state,Hawaii,At or Above Threshold,2019,2019-52,HI
+59,NA,NA,0.11,1,1,25,237,26,1,State,All,2019-12-29,2020-01-04,1,3027,state,Hawaii,At or Above Threshold,2019,2019-01,HI
+59,NA,NA,0.072,1,1,16,237,17,2,State,All,2020-01-05,2020-01-11,2,3028,state,Hawaii,At or Above Threshold,2020,2020-2,HI
+59,NA,NA,0.101,0.995,1,20,208,21,3,State,All,2020-01-12,2020-01-18,3,3029,state,Hawaii,At or Above Threshold,2020,2020-3,HI
+59,NA,NA,0.052,1,2,10,231,12,4,State,All,2020-01-19,2020-01-25,4,3030,state,Hawaii,At or Above Threshold,2020,2020-4,HI
+59,NA,NA,0.075,1,0,18,241,18,5,State,All,2020-01-26,2020-02-01,5,3031,state,Hawaii,At or Above Threshold,2020,2020-5,HI
+59,NA,NA,0.073,1,0,17,232,17,6,State,All,2020-02-02,2020-02-08,6,3032,state,Hawaii,At or Above Threshold,2020,2020-6,HI
+59,NA,NA,0.086,1,4,19,269,23,7,State,All,2020-02-09,2020-02-15,7,3033,state,Hawaii,At or Above Threshold,2020,2020-7,HI
+59,NA,NA,0.069,1,1,15,233,16,8,State,All,2020-02-16,2020-02-22,8,3034,state,Hawaii,At or Above Threshold,2020,2020-8,HI
+59,NA,NA,0.057,0.923,1,10,193,11,9,State,All,2020-02-23,2020-02-29,9,3035,state,Hawaii,At or Above Threshold,2020,2020-9,HI
+59,NA,NA,0.033,1,0,9,270,9,40,State,All,2019-09-29,2019-10-05,40,3014,state,Idaho,At or Above Threshold,2019,2019-40,ID
+59,NA,NA,0.034,1,0,9,261,9,41,State,All,2019-10-06,2019-10-12,41,3015,state,Idaho,At or Above Threshold,2019,2019-41,ID
+59,NA,NA,0.029,1,0,8,277,8,42,State,All,2019-10-13,2019-10-19,42,3016,state,Idaho,At or Above Threshold,2019,2019-42,ID
+59,NA,NA,0.079,1,0,21,267,21,43,State,All,2019-10-20,2019-10-26,43,3017,state,Idaho,At or Above Threshold,2019,2019-43,ID
+59,NA,NA,0.017,1,0,5,303,5,44,State,All,2019-10-27,2019-11-02,44,3018,state,Idaho,At or Above Threshold,2019,2019-44,ID
+59,NA,NA,0.031,1,0,9,288,9,45,State,All,2019-11-03,2019-11-09,45,3019,state,Idaho,At or Above Threshold,2019,2019-45,ID
+59,NA,NA,0.045,1,0,13,292,13,46,State,All,2019-11-10,2019-11-16,46,3020,state,Idaho,At or Above Threshold,2019,2019-46,ID
+59,NA,NA,0.054,0.966,0,13,242,13,47,State,All,2019-11-17,2019-11-23,47,3021,state,Idaho,At or Above Threshold,2019,2019-47,ID
+59,NA,NA,0.032,1,0,9,279,9,48,State,All,2019-11-24,2019-11-30,48,3022,state,Idaho,At or Above Threshold,2019,2019-48,ID
+59,NA,NA,0.071,1,2,17,267,19,49,State,All,2019-12-01,2019-12-07,49,3023,state,Idaho,At or Above Threshold,2019,2019-49,ID
+59,NA,NA,0.039,1,1,10,285,11,50,State,All,2019-12-08,2019-12-14,50,3024,state,Idaho,At or Above Threshold,2019,2019-50,ID
+59,NA,NA,0.059,1,4,14,307,18,51,State,All,2019-12-15,2019-12-21,51,3025,state,Idaho,At or Above Threshold,2019,2019-51,ID
+59,NA,NA,0.055,1,2,14,290,16,52,State,All,2019-12-22,2019-12-28,52,3026,state,Idaho,At or Above Threshold,2019,2019-52,ID
+59,NA,NA,0.075,1,2,19,279,21,1,State,All,2019-12-29,2020-01-04,1,3027,state,Idaho,At or Above Threshold,2019,2019-01,ID
+59,NA,NA,0.066,1,3,16,288,19,2,State,All,2020-01-05,2020-01-11,2,3028,state,Idaho,At or Above Threshold,2020,2020-2,ID
+59,NA,NA,0.058,1,1,16,292,17,3,State,All,2020-01-12,2020-01-18,3,3029,state,Idaho,At or Above Threshold,2020,2020-3,ID
+59,NA,NA,0.063,1,1,16,272,17,4,State,All,2020-01-19,2020-01-25,4,3030,state,Idaho,At or Above Threshold,2020,2020-4,ID
+59,NA,NA,0.052,1,1,12,252,13,5,State,All,2020-01-26,2020-02-01,5,3031,state,Idaho,At or Above Threshold,2020,2020-5,ID
+59,NA,NA,0.067,1,2,17,284,19,6,State,All,2020-02-02,2020-02-08,6,3032,state,Idaho,At or Above Threshold,2020,2020-6,ID
+59,NA,NA,0.047,1,2,11,276,13,7,State,All,2020-02-09,2020-02-15,7,3033,state,Idaho,At or Above Threshold,2020,2020-7,ID
+59,NA,NA,0.066,1,4,16,305,20,8,State,All,2020-02-16,2020-02-22,8,3034,state,Idaho,At or Above Threshold,2020,2020-8,ID
+59,NA,NA,0.065,0.862,1,13,216,14,9,State,All,2020-02-23,2020-02-29,9,3035,state,Idaho,At or Above Threshold,2020,2020-9,ID
+59,NA,NA,0.063,0.992,0,127,2021,127,40,State,All,2019-09-29,2019-10-05,40,3014,state,Illinois,At or Above Threshold,2019,2019-40,IL
+59,NA,NA,0.057,1,1,119,2105,120,41,State,All,2019-10-06,2019-10-12,41,3015,state,Illinois,At or Above Threshold,2019,2019-41,IL
+59,NA,NA,0.056,1,0,122,2184,122,42,State,All,2019-10-13,2019-10-19,42,3016,state,Illinois,At or Above Threshold,2019,2019-42,IL
+59,NA,NA,0.048,1,0,105,2190,105,43,State,All,2019-10-20,2019-10-26,43,3017,state,Illinois,At or Above Threshold,2019,2019-43,IL
+59,NA,NA,0.055,1,1,112,2067,113,44,State,All,2019-10-27,2019-11-02,44,3018,state,Illinois,At or Above Threshold,2019,2019-44,IL
+59,NA,NA,0.052,1,2,112,2186,114,45,State,All,2019-11-03,2019-11-09,45,3019,state,Illinois,At or Above Threshold,2019,2019-45,IL
+59,NA,NA,0.05,1,1,108,2181,109,46,State,All,2019-11-10,2019-11-16,46,3020,state,Illinois,At or Above Threshold,2019,2019-46,IL
+59,NA,NA,0.053,1,0,110,2080,110,47,State,All,2019-11-17,2019-11-23,47,3021,state,Illinois,At or Above Threshold,2019,2019-47,IL
+59,NA,NA,0.054,1,2,113,2143,115,48,State,All,2019-11-24,2019-11-30,48,3022,state,Illinois,At or Above Threshold,2019,2019-48,IL
+59,NA,NA,0.057,1,1,122,2141,123,49,State,All,2019-12-01,2019-12-07,49,3023,state,Illinois,At or Above Threshold,2019,2019-49,IL
+59,NA,NA,0.059,1,2,126,2178,128,50,State,All,2019-12-08,2019-12-14,50,3024,state,Illinois,At or Above Threshold,2019,2019-50,IL
+59,NA,NA,0.058,1,3,122,2145,125,51,State,All,2019-12-15,2019-12-21,51,3025,state,Illinois,At or Above Threshold,2019,2019-51,IL
+59,NA,NA,0.059,1,3,129,2231,132,52,State,All,2019-12-22,2019-12-28,52,3026,state,Illinois,At or Above Threshold,2019,2019-52,IL
+59,NA,NA,0.066,1,3,145,2250,148,1,State,All,2019-12-29,2020-01-04,1,3027,state,Illinois,At or Above Threshold,2019,2019-01,IL
+59,NA,NA,0.074,1,13,158,2307,171,2,State,All,2020-01-05,2020-01-11,2,3028,state,Illinois,At or Above Threshold,2020,2020-2,IL
+59,NA,NA,0.066,1,7,145,2298,152,3,State,All,2020-01-12,2020-01-18,3,3029,state,Illinois,At or Above Threshold,2020,2020-3,IL
+59,NA,NA,0.078,1,17,159,2261,176,4,State,All,2020-01-19,2020-01-25,4,3030,state,Illinois,At or Above Threshold,2020,2020-4,IL
+59,NA,NA,0.079,1,18,155,2189,173,5,State,All,2020-01-26,2020-02-01,5,3031,state,Illinois,At or Above Threshold,2020,2020-5,IL
+59,NA,NA,0.075,1,10,159,2264,169,6,State,All,2020-02-02,2020-02-08,6,3032,state,Illinois,At or Above Threshold,2020,2020-6,IL
+59,NA,NA,0.067,1,13,135,2204,148,7,State,All,2020-02-09,2020-02-15,7,3033,state,Illinois,At or Above Threshold,2020,2020-7,IL
+59,NA,NA,0.07,1,12,137,2142,149,8,State,All,2020-02-16,2020-02-22,8,3034,state,Illinois,At or Above Threshold,2020,2020-8,IL
+59,NA,NA,0.07,0.91,18,111,1854,129,9,State,All,2020-02-23,2020-02-29,9,3035,state,Illinois,At or Above Threshold,2020,2020-9,IL
+59,NA,NA,0.056,1,0,68,1205,68,40,State,All,2019-09-29,2019-10-05,40,3014,state,Indiana,At or Above Threshold,2019,2019-40,IN
+59,NA,NA,0.063,1,1,77,1231,78,41,State,All,2019-10-06,2019-10-12,41,3015,state,Indiana,At or Above Threshold,2019,2019-41,IN
+59,NA,NA,0.058,1,0,73,1252,73,42,State,All,2019-10-13,2019-10-19,42,3016,state,Indiana,At or Above Threshold,2019,2019-42,IN
+59,NA,NA,0.058,1,1,72,1265,73,43,State,All,2019-10-20,2019-10-26,43,3017,state,Indiana,At or Above Threshold,2019,2019-43,IN
+59,NA,NA,0.056,1,1,73,1317,74,44,State,All,2019-10-27,2019-11-02,44,3018,state,Indiana,At or Above Threshold,2019,2019-44,IN
+59,NA,NA,0.045,1,1,56,1262,57,45,State,All,2019-11-03,2019-11-09,45,3019,state,Indiana,At or Above Threshold,2019,2019-45,IN
+59,NA,NA,0.065,1,0,83,1268,83,46,State,All,2019-11-10,2019-11-16,46,3020,state,Indiana,At or Above Threshold,2019,2019-46,IN
+59,NA,NA,0.048,1,0,63,1308,63,47,State,All,2019-11-17,2019-11-23,47,3021,state,Indiana,At or Above Threshold,2019,2019-47,IN
+59,NA,NA,0.059,1,1,75,1296,76,48,State,All,2019-11-24,2019-11-30,48,3022,state,Indiana,At or Above Threshold,2019,2019-48,IN
+59,NA,NA,0.064,1,1,83,1318,84,49,State,All,2019-12-01,2019-12-07,49,3023,state,Indiana,At or Above Threshold,2019,2019-49,IN
+59,NA,NA,0.065,1,2,83,1298,85,50,State,All,2019-12-08,2019-12-14,50,3024,state,Indiana,At or Above Threshold,2019,2019-50,IN
+59,NA,NA,0.071,1,4,95,1399,99,51,State,All,2019-12-15,2019-12-21,51,3025,state,Indiana,At or Above Threshold,2019,2019-51,IN
+59,NA,NA,0.076,1,5,93,1287,98,52,State,All,2019-12-22,2019-12-28,52,3026,state,Indiana,At or Above Threshold,2019,2019-52,IN
+59,NA,NA,0.092,1,13,118,1423,131,1,State,All,2019-12-29,2020-01-04,1,3027,state,Indiana,At or Above Threshold,2019,2019-01,IN
+59,NA,NA,0.088,1,13,107,1361,120,2,State,All,2020-01-05,2020-01-11,2,3028,state,Indiana,At or Above Threshold,2020,2020-2,IN
+59,NA,NA,0.08,1,6,101,1345,107,3,State,All,2020-01-12,2020-01-18,3,3029,state,Indiana,At or Above Threshold,2020,2020-3,IN
+59,NA,NA,0.074,1,6,94,1344,100,4,State,All,2020-01-19,2020-01-25,4,3030,state,Indiana,At or Above Threshold,2020,2020-4,IN
+59,NA,NA,0.076,1,7,92,1296,99,5,State,All,2020-01-26,2020-02-01,5,3031,state,Indiana,At or Above Threshold,2020,2020-5,IN
+59,NA,NA,0.088,1,11,97,1229,108,6,State,All,2020-02-02,2020-02-08,6,3032,state,Indiana,At or Above Threshold,2020,2020-6,IN
+59,NA,NA,0.072,1,9,81,1245,90,7,State,All,2020-02-09,2020-02-15,7,3033,state,Indiana,At or Above Threshold,2020,2020-7,IN
+59,NA,NA,0.087,0.908,10,85,1089,95,8,State,All,2020-02-16,2020-02-22,8,3034,state,Indiana,At or Above Threshold,2020,2020-8,IN
+59,NA,NA,0.087,0.564,6,53,677,59,9,State,All,2020-02-23,2020-02-29,9,3035,state,Indiana,At or Above Threshold,2020,2020-9,IN
+59,NA,NA,0.052,1,1,31,616,32,40,State,All,2019-09-29,2019-10-05,40,3014,state,Iowa,At or Above Threshold,2019,2019-40,IA
+59,NA,NA,0.064,1,0,38,590,38,41,State,All,2019-10-06,2019-10-12,41,3015,state,Iowa,At or Above Threshold,2019,2019-41,IA
+59,NA,NA,0.065,1,0,39,601,39,42,State,All,2019-10-13,2019-10-19,42,3016,state,Iowa,At or Above Threshold,2019,2019-42,IA
+59,NA,NA,0.063,1,1,37,606,38,43,State,All,2019-10-20,2019-10-26,43,3017,state,Iowa,At or Above Threshold,2019,2019-43,IA
+59,NA,NA,0.05,1,0,31,614,31,44,State,All,2019-10-27,2019-11-02,44,3018,state,Iowa,At or Above Threshold,2019,2019-44,IA
+59,NA,NA,0.06,1,1,35,602,36,45,State,All,2019-11-03,2019-11-09,45,3019,state,Iowa,At or Above Threshold,2019,2019-45,IA
+59,NA,NA,0.06,1,2,35,618,37,46,State,All,2019-11-10,2019-11-16,46,3020,state,Iowa,At or Above Threshold,2019,2019-46,IA
+59,NA,NA,0.069,1,0,44,638,44,47,State,All,2019-11-17,2019-11-23,47,3021,state,Iowa,At or Above Threshold,2019,2019-47,IA
+59,NA,NA,0.072,0.987,0,40,558,40,48,State,All,2019-11-24,2019-11-30,48,3022,state,Iowa,At or Above Threshold,2019,2019-48,IA
+59,NA,NA,0.057,1,3,34,646,37,49,State,All,2019-12-01,2019-12-07,49,3023,state,Iowa,At or Above Threshold,2019,2019-49,IA
+59,NA,NA,0.076,1,4,42,607,46,50,State,All,2019-12-08,2019-12-14,50,3024,state,Iowa,At or Above Threshold,2019,2019-50,IA
+59,NA,NA,0.058,1,1,36,633,37,51,State,All,2019-12-15,2019-12-21,51,3025,state,Iowa,At or Above Threshold,2019,2019-51,IA
+59,NA,NA,0.058,1,1,36,639,37,52,State,All,2019-12-22,2019-12-28,52,3026,state,Iowa,At or Above Threshold,2019,2019-52,IA
+59,NA,NA,0.058,1,3,35,658,38,1,State,All,2019-12-29,2020-01-04,1,3027,state,Iowa,At or Above Threshold,2019,2019-01,IA
+59,NA,NA,0.076,1,1,48,646,49,2,State,All,2020-01-05,2020-01-11,2,3028,state,Iowa,At or Above Threshold,2020,2020-2,IA
+59,NA,NA,0.085,1,1,52,622,53,3,State,All,2020-01-12,2020-01-18,3,3029,state,Iowa,At or Above Threshold,2020,2020-3,IA
+59,NA,NA,0.105,1,5,60,622,65,4,State,All,2020-01-19,2020-01-25,4,3030,state,Iowa,At or Above Threshold,2020,2020-4,IA
+59,NA,NA,0.091,1,2,53,602,55,5,State,All,2020-01-26,2020-02-01,5,3031,state,Iowa,At or Above Threshold,2020,2020-5,IA
+59,NA,NA,0.072,1,3,41,615,44,6,State,All,2020-02-02,2020-02-08,6,3032,state,Iowa,At or Above Threshold,2020,2020-6,IA
+59,NA,NA,0.076,0.995,6,37,563,43,7,State,All,2020-02-09,2020-02-15,7,3033,state,Iowa,At or Above Threshold,2020,2020-7,IA
+59,NA,NA,0.079,1,5,40,568,45,8,State,All,2020-02-16,2020-02-22,8,3034,state,Iowa,At or Above Threshold,2020,2020-8,IA
+59,NA,NA,0.068,0.835,6,26,472,32,9,State,All,2020-02-23,2020-02-29,9,3035,state,Iowa,At or Above Threshold,2020,2020-9,IA
+59,NA,NA,0.043,1,0,22,508,22,40,State,All,2019-09-29,2019-10-05,40,3014,state,Kansas,At or Above Threshold,2019,2019-40,KS
+59,NA,NA,0.042,1,0,21,503,21,41,State,All,2019-10-06,2019-10-12,41,3015,state,Kansas,At or Above Threshold,2019,2019-41,KS
+59,NA,NA,0.053,1,0,28,525,28,42,State,All,2019-10-13,2019-10-19,42,3016,state,Kansas,At or Above Threshold,2019,2019-42,KS
+59,NA,NA,0.038,1,0,21,553,21,43,State,All,2019-10-20,2019-10-26,43,3017,state,Kansas,At or Above Threshold,2019,2019-43,KS
+59,NA,NA,0.049,1,1,24,512,25,44,State,All,2019-10-27,2019-11-02,44,3018,state,Kansas,At or Above Threshold,2019,2019-44,KS
+59,NA,NA,0.039,1,0,21,537,21,45,State,All,2019-11-03,2019-11-09,45,3019,state,Kansas,At or Above Threshold,2019,2019-45,KS
+59,NA,NA,0.048,1,0,26,541,26,46,State,All,2019-11-10,2019-11-16,46,3020,state,Kansas,At or Above Threshold,2019,2019-46,KS
+59,NA,NA,0.05,1,0,28,563,28,47,State,All,2019-11-17,2019-11-23,47,3021,state,Kansas,At or Above Threshold,2019,2019-47,KS
+59,NA,NA,0.061,0.952,0,29,478,29,48,State,All,2019-11-24,2019-11-30,48,3022,state,Kansas,At or Above Threshold,2019,2019-48,KS
+59,NA,NA,0.076,1,2,40,552,42,49,State,All,2019-12-01,2019-12-07,49,3023,state,Kansas,At or Above Threshold,2019,2019-49,KS
+59,NA,NA,0.067,1,1,38,585,39,50,State,All,2019-12-08,2019-12-14,50,3024,state,Kansas,At or Above Threshold,2019,2019-50,KS
+59,NA,NA,0.065,1,0,35,541,35,51,State,All,2019-12-15,2019-12-21,51,3025,state,Kansas,At or Above Threshold,2019,2019-51,KS
+59,NA,NA,0.082,1,2,46,585,48,52,State,All,2019-12-22,2019-12-28,52,3026,state,Kansas,At or Above Threshold,2019,2019-52,KS
+59,NA,NA,0.097,1,9,49,598,58,1,State,All,2019-12-29,2020-01-04,1,3027,state,Kansas,At or Above Threshold,2019,2019-01,KS
+59,NA,NA,0.076,1,5,39,576,44,2,State,All,2020-01-05,2020-01-11,2,3028,state,Kansas,At or Above Threshold,2020,2020-2,KS
+59,NA,NA,0.08,1,8,39,588,47,3,State,All,2020-01-12,2020-01-18,3,3029,state,Kansas,At or Above Threshold,2020,2020-3,KS
+59,NA,NA,0.1,1,10,47,571,57,4,State,All,2020-01-19,2020-01-25,4,3030,state,Kansas,At or Above Threshold,2020,2020-4,KS
+59,NA,NA,0.082,1,8,37,551,45,5,State,All,2020-01-26,2020-02-01,5,3031,state,Kansas,At or Above Threshold,2020,2020-5,KS
+59,NA,NA,0.069,1,8,27,508,35,6,State,All,2020-02-02,2020-02-08,6,3032,state,Kansas,At or Above Threshold,2020,2020-6,KS
+59,NA,NA,0.073,1,6,35,558,41,7,State,All,2020-02-09,2020-02-15,7,3033,state,Kansas,At or Above Threshold,2020,2020-7,KS
+59,NA,NA,0.08,1,9,35,547,44,8,State,All,2020-02-16,2020-02-22,8,3034,state,Kansas,At or Above Threshold,2020,2020-8,KS
+59,NA,NA,0.084,0.904,12,26,454,38,9,State,All,2020-02-23,2020-02-29,9,3035,state,Kansas,At or Above Threshold,2020,2020-9,KS
+59,NA,NA,0.058,0.989,0,51,875,51,40,State,All,2019-09-29,2019-10-05,40,3014,state,Kentucky,At or Above Threshold,2019,2019-40,KY
+59,NA,NA,0.061,1,0,56,921,56,41,State,All,2019-10-06,2019-10-12,41,3015,state,Kentucky,At or Above Threshold,2019,2019-41,KY
+59,NA,NA,0.082,1,0,80,981,80,42,State,All,2019-10-13,2019-10-19,42,3016,state,Kentucky,At or Above Threshold,2019,2019-42,KY
+59,NA,NA,0.071,1,0,66,928,66,43,State,All,2019-10-20,2019-10-26,43,3017,state,Kentucky,At or Above Threshold,2019,2019-43,KY
+59,NA,NA,0.071,1,0,64,901,64,44,State,All,2019-10-27,2019-11-02,44,3018,state,Kentucky,At or Above Threshold,2019,2019-44,KY
+59,NA,NA,0.069,0.976,1,59,864,60,45,State,All,2019-11-03,2019-11-09,45,3019,state,Kentucky,At or Above Threshold,2019,2019-45,KY
+59,NA,NA,0.07,1,0,66,948,66,46,State,All,2019-11-10,2019-11-16,46,3020,state,Kentucky,At or Above Threshold,2019,2019-46,KY
+59,NA,NA,0.078,1,0,78,1000,78,47,State,All,2019-11-17,2019-11-23,47,3021,state,Kentucky,At or Above Threshold,2019,2019-47,KY
+59,NA,NA,0.064,1,0,60,940,60,48,State,All,2019-11-24,2019-11-30,48,3022,state,Kentucky,At or Above Threshold,2019,2019-48,KY
+59,NA,NA,0.091,1,5,81,940,86,49,State,All,2019-12-01,2019-12-07,49,3023,state,Kentucky,At or Above Threshold,2019,2019-49,KY
+59,NA,NA,0.09,1,3,83,952,86,50,State,All,2019-12-08,2019-12-14,50,3024,state,Kentucky,At or Above Threshold,2019,2019-50,KY
+59,NA,NA,0.067,1,4,61,971,65,51,State,All,2019-12-15,2019-12-21,51,3025,state,Kentucky,At or Above Threshold,2019,2019-51,KY
+59,NA,NA,0.075,1,5,74,1052,79,52,State,All,2019-12-22,2019-12-28,52,3026,state,Kentucky,At or Above Threshold,2019,2019-52,KY
+59,NA,NA,0.095,1,9,91,1051,100,1,State,All,2019-12-29,2020-01-04,1,3027,state,Kentucky,At or Above Threshold,2019,2019-01,KY
+59,NA,NA,0.098,1,4,97,1031,101,2,State,All,2020-01-05,2020-01-11,2,3028,state,Kentucky,At or Above Threshold,2020,2020-2,KY
+59,NA,NA,0.11,1,15,95,1001,110,3,State,All,2020-01-12,2020-01-18,3,3029,state,Kentucky,At or Above Threshold,2020,2020-3,KY
+59,NA,NA,0.083,1,8,66,893,74,4,State,All,2020-01-19,2020-01-25,4,3030,state,Kentucky,At or Above Threshold,2020,2020-4,KY
+59,NA,NA,0.103,1,6,87,901,93,5,State,All,2020-01-26,2020-02-01,5,3031,state,Kentucky,At or Above Threshold,2020,2020-5,KY
+59,NA,NA,0.108,0.911,11,76,806,87,6,State,All,2020-02-02,2020-02-08,6,3032,state,Kentucky,At or Above Threshold,2020,2020-6,KY
+59,NA,NA,0.084,0.832,5,57,736,62,7,State,All,2020-02-09,2020-02-15,7,3033,state,Kentucky,At or Above Threshold,2020,2020-7,KY
+59,NA,NA,0.086,0.721,5,50,638,55,8,State,All,2020-02-16,2020-02-22,8,3034,state,Kentucky,At or Above Threshold,2020,2020-8,KY
+59,NA,NA,0.104,0.391,5,31,346,36,9,State,All,2020-02-23,2020-02-29,9,3035,state,Kentucky,At or Above Threshold,2020,2020-9,KY
+59,NA,NA,0.043,0.943,1,33,797,34,40,State,All,2019-09-29,2019-10-05,40,3014,state,Louisiana,At or Above Threshold,2019,2019-40,LA
+59,NA,NA,0.04,1,1,34,867,35,41,State,All,2019-10-06,2019-10-12,41,3015,state,Louisiana,At or Above Threshold,2019,2019-41,LA
+59,NA,NA,0.04,1,0,36,898,36,42,State,All,2019-10-13,2019-10-19,42,3016,state,Louisiana,At or Above Threshold,2019,2019-42,LA
+59,NA,NA,0.037,1,0,32,857,32,43,State,All,2019-10-20,2019-10-26,43,3017,state,Louisiana,At or Above Threshold,2019,2019-43,LA
+59,NA,NA,0.049,0.952,1,38,804,39,44,State,All,2019-10-27,2019-11-02,44,3018,state,Louisiana,At or Above Threshold,2019,2019-44,LA
+59,NA,NA,0.037,1,1,34,951,35,45,State,All,2019-11-03,2019-11-09,45,3019,state,Louisiana,At or Above Threshold,2019,2019-45,LA
+59,NA,NA,0.043,1,1,39,931,40,46,State,All,2019-11-10,2019-11-16,46,3020,state,Louisiana,At or Above Threshold,2019,2019-46,LA
+59,NA,NA,0.037,1,1,32,884,33,47,State,All,2019-11-17,2019-11-23,47,3021,state,Louisiana,At or Above Threshold,2019,2019-47,LA
+59,NA,NA,0.056,1,1,48,875,49,48,State,All,2019-11-24,2019-11-30,48,3022,state,Louisiana,At or Above Threshold,2019,2019-48,LA
+59,NA,NA,0.033,1,1,31,962,32,49,State,All,2019-12-01,2019-12-07,49,3023,state,Louisiana,At or Above Threshold,2019,2019-49,LA
+59,NA,NA,0.042,1,1,36,882,37,50,State,All,2019-12-08,2019-12-14,50,3024,state,Louisiana,At or Above Threshold,2019,2019-50,LA
+59,NA,NA,0.04,1,0,38,950,38,51,State,All,2019-12-15,2019-12-21,51,3025,state,Louisiana,At or Above Threshold,2019,2019-51,LA
+59,NA,NA,0.044,1,2,36,854,38,52,State,All,2019-12-22,2019-12-28,52,3026,state,Louisiana,At or Above Threshold,2019,2019-52,LA
+59,NA,NA,0.061,1,3,52,896,55,1,State,All,2019-12-29,2020-01-04,1,3027,state,Louisiana,At or Above Threshold,2019,2019-01,LA
+59,NA,NA,0.067,1,5,55,899,60,2,State,All,2020-01-05,2020-01-11,2,3028,state,Louisiana,At or Above Threshold,2020,2020-2,LA
+59,NA,NA,0.053,1,4,43,894,47,3,State,All,2020-01-12,2020-01-18,3,3029,state,Louisiana,At or Above Threshold,2020,2020-3,LA
+59,NA,NA,0.054,1,3,44,878,47,4,State,All,2020-01-19,2020-01-25,4,3030,state,Louisiana,At or Above Threshold,2020,2020-4,LA
+59,NA,NA,0.047,1,3,37,855,40,5,State,All,2020-01-26,2020-02-01,5,3031,state,Louisiana,At or Above Threshold,2020,2020-5,LA
+59,NA,NA,0.046,0.929,6,30,785,36,6,State,All,2020-02-02,2020-02-08,6,3032,state,Louisiana,At or Above Threshold,2020,2020-6,LA
+59,NA,NA,0.048,0.843,6,28,712,34,7,State,All,2020-02-09,2020-02-15,7,3033,state,Louisiana,At or Above Threshold,2020,2020-7,LA
+59,NA,NA,0.042,0.698,6,19,590,25,8,State,All,2020-02-16,2020-02-22,8,3034,state,Louisiana,At or Above Threshold,2020,2020-8,LA
+59,NA,NA,0.036,0.526,4,12,444,16,9,State,All,2020-02-23,2020-02-29,9,3035,state,Louisiana,At or Above Threshold,2020,2020-9,LA
+59,NA,NA,0.077,1,0,21,271,21,40,State,All,2019-09-29,2019-10-05,40,3014,state,Maine,At or Above Threshold,2019,2019-40,ME
+59,NA,NA,0.092,1,0,25,273,25,41,State,All,2019-10-06,2019-10-12,41,3015,state,Maine,At or Above Threshold,2019,2019-41,ME
+59,NA,NA,0.086,1,0,24,279,24,42,State,All,2019-10-13,2019-10-19,42,3016,state,Maine,At or Above Threshold,2019,2019-42,ME
+59,NA,NA,0.062,1,0,19,305,19,43,State,All,2019-10-20,2019-10-26,43,3017,state,Maine,At or Above Threshold,2019,2019-43,ME
+59,NA,NA,0.061,1,0,19,314,19,44,State,All,2019-10-27,2019-11-02,44,3018,state,Maine,At or Above Threshold,2019,2019-44,ME
+59,NA,NA,0.061,1,0,17,278,17,45,State,All,2019-11-03,2019-11-09,45,3019,state,Maine,At or Above Threshold,2019,2019-45,ME
+59,NA,NA,0.065,1,0,21,321,21,46,State,All,2019-11-10,2019-11-16,46,3020,state,Maine,At or Above Threshold,2019,2019-46,ME
+59,NA,NA,0.074,1,0,22,296,22,47,State,All,2019-11-17,2019-11-23,47,3021,state,Maine,At or Above Threshold,2019,2019-47,ME
+59,NA,NA,0.077,1,1,21,287,22,48,State,All,2019-11-24,2019-11-30,48,3022,state,Maine,At or Above Threshold,2019,2019-48,ME
+59,NA,NA,0.073,1,0,21,289,21,49,State,All,2019-12-01,2019-12-07,49,3023,state,Maine,At or Above Threshold,2019,2019-49,ME
+59,NA,NA,0.083,1,0,25,303,25,50,State,All,2019-12-08,2019-12-14,50,3024,state,Maine,At or Above Threshold,2019,2019-50,ME
+59,NA,NA,0.076,1,1,20,278,21,51,State,All,2019-12-15,2019-12-21,51,3025,state,Maine,At or Above Threshold,2019,2019-51,ME
+59,NA,NA,0.079,1,5,18,291,23,52,State,All,2019-12-22,2019-12-28,52,3026,state,Maine,At or Above Threshold,2019,2019-52,ME
+59,NA,NA,0.068,1,0,22,325,22,1,State,All,2019-12-29,2020-01-04,1,3027,state,Maine,At or Above Threshold,2019,2019-01,ME
+59,NA,NA,0.067,1,2,20,329,22,2,State,All,2020-01-05,2020-01-11,2,3028,state,Maine,At or Above Threshold,2020,2020-2,ME
+59,NA,NA,0.092,1,0,28,303,28,3,State,All,2020-01-12,2020-01-18,3,3029,state,Maine,At or Above Threshold,2020,2020-3,ME
+59,NA,NA,0.096,1,2,28,314,30,4,State,All,2020-01-19,2020-01-25,4,3030,state,Maine,At or Above Threshold,2020,2020-4,ME
+59,NA,NA,0.084,1,3,22,296,25,5,State,All,2020-01-26,2020-02-01,5,3031,state,Maine,At or Above Threshold,2020,2020-5,ME
+59,NA,NA,0.11,1,7,29,327,36,6,State,All,2020-02-02,2020-02-08,6,3032,state,Maine,At or Above Threshold,2020,2020-6,ME
+59,NA,NA,0.079,1,3,23,330,26,7,State,All,2020-02-09,2020-02-15,7,3033,state,Maine,At or Above Threshold,2020,2020-7,ME
+59,NA,NA,0.066,1,1,19,303,20,8,State,All,2020-02-16,2020-02-22,8,3034,state,Maine,At or Above Threshold,2020,2020-8,ME
+59,NA,NA,0.102,1,5,24,285,29,9,State,All,2020-02-23,2020-02-29,9,3035,state,Maine,At or Above Threshold,2020,2020-9,ME
+59,NA,NA,0.04,0.997,1,35,904,36,40,State,All,2019-09-29,2019-10-05,40,3014,state,Maryland,At or Above Threshold,2019,2019-40,MD
+59,NA,NA,0.046,1,0,43,941,43,41,State,All,2019-10-06,2019-10-12,41,3015,state,Maryland,At or Above Threshold,2019,2019-41,MD
+59,NA,NA,0.045,1,2,42,984,44,42,State,All,2019-10-13,2019-10-19,42,3016,state,Maryland,At or Above Threshold,2019,2019-42,MD
+59,NA,NA,0.06,1,0,59,979,59,43,State,All,2019-10-20,2019-10-26,43,3017,state,Maryland,At or Above Threshold,2019,2019-43,MD
+59,NA,NA,0.048,1,0,46,964,46,44,State,All,2019-10-27,2019-11-02,44,3018,state,Maryland,At or Above Threshold,2019,2019-44,MD
+59,NA,NA,0.068,1,0,69,1021,69,45,State,All,2019-11-03,2019-11-09,45,3019,state,Maryland,At or Above Threshold,2019,2019-45,MD
+59,NA,NA,0.051,1,0,53,1031,53,46,State,All,2019-11-10,2019-11-16,46,3020,state,Maryland,At or Above Threshold,2019,2019-46,MD
+59,NA,NA,0.062,1,1,65,1063,66,47,State,All,2019-11-17,2019-11-23,47,3021,state,Maryland,At or Above Threshold,2019,2019-47,MD
+59,NA,NA,0.055,1,2,54,1023,56,48,State,All,2019-11-24,2019-11-30,48,3022,state,Maryland,At or Above Threshold,2019,2019-48,MD
+59,NA,NA,0.057,1,0,56,979,56,49,State,All,2019-12-01,2019-12-07,49,3023,state,Maryland,At or Above Threshold,2019,2019-49,MD
+59,NA,NA,0.065,1,0,66,1008,66,50,State,All,2019-12-08,2019-12-14,50,3024,state,Maryland,At or Above Threshold,2019,2019-50,MD
+59,NA,NA,0.061,1,0,60,978,60,51,State,All,2019-12-15,2019-12-21,51,3025,state,Maryland,At or Above Threshold,2019,2019-51,MD
+59,NA,NA,0.065,1,3,66,1059,69,52,State,All,2019-12-22,2019-12-28,52,3026,state,Maryland,At or Above Threshold,2019,2019-52,MD
+59,NA,NA,0.093,1,11,88,1062,99,1,State,All,2019-12-29,2020-01-04,1,3027,state,Maryland,At or Above Threshold,2019,2019-01,MD
+59,NA,NA,0.083,1,3,86,1066,89,2,State,All,2020-01-05,2020-01-11,2,3028,state,Maryland,At or Above Threshold,2020,2020-2,MD
+59,NA,NA,0.095,1,3,91,994,94,3,State,All,2020-01-12,2020-01-18,3,3029,state,Maryland,At or Above Threshold,2020,2020-3,MD
+59,NA,NA,0.066,1,8,60,1026,68,4,State,All,2020-01-19,2020-01-25,4,3030,state,Maryland,At or Above Threshold,2020,2020-4,MD
+59,NA,NA,0.072,1,8,66,1025,74,5,State,All,2020-01-26,2020-02-01,5,3031,state,Maryland,At or Above Threshold,2020,2020-5,MD
+59,NA,NA,0.068,1,8,60,1000,68,6,State,All,2020-02-02,2020-02-08,6,3032,state,Maryland,At or Above Threshold,2020,2020-6,MD
+59,NA,NA,0.085,1,12,73,999,85,7,State,All,2020-02-09,2020-02-15,7,3033,state,Maryland,At or Above Threshold,2020,2020-7,MD
+59,NA,NA,0.071,1,5,60,915,65,8,State,All,2020-02-16,2020-02-22,8,3034,state,Maryland,At or Above Threshold,2020,2020-8,MD
+59,NA,NA,0.073,0.952,9,54,863,63,9,State,All,2020-02-23,2020-02-29,9,3035,state,Maryland,At or Above Threshold,2020,2020-9,MD
+59,NA,NA,0.07,1,0,77,1105,77,40,State,All,2019-09-29,2019-10-05,40,3014,state,Massachusetts,At or Above Threshold,2019,2019-40,MA
+59,NA,NA,0.065,1,0,70,1079,70,41,State,All,2019-10-06,2019-10-12,41,3015,state,Massachusetts,At or Above Threshold,2019,2019-41,MA
+59,NA,NA,0.062,1,0,69,1107,69,42,State,All,2019-10-13,2019-10-19,42,3016,state,Massachusetts,At or Above Threshold,2019,2019-42,MA
+59,NA,NA,0.057,1,0,65,1134,65,43,State,All,2019-10-20,2019-10-26,43,3017,state,Massachusetts,At or Above Threshold,2019,2019-43,MA
+59,NA,NA,0.052,0.993,0,56,1070,56,44,State,All,2019-10-27,2019-11-02,44,3018,state,Massachusetts,At or Above Threshold,2019,2019-44,MA
+59,NA,NA,0.061,1,0,66,1087,66,45,State,All,2019-11-03,2019-11-09,45,3019,state,Massachusetts,At or Above Threshold,2019,2019-45,MA
+59,NA,NA,0.063,1,0,70,1113,70,46,State,All,2019-11-10,2019-11-16,46,3020,state,Massachusetts,At or Above Threshold,2019,2019-46,MA
+59,NA,NA,0.067,1,0,82,1222,82,47,State,All,2019-11-17,2019-11-23,47,3021,state,Massachusetts,At or Above Threshold,2019,2019-47,MA
+59,NA,NA,0.053,1,1,61,1178,62,48,State,All,2019-11-24,2019-11-30,48,3022,state,Massachusetts,At or Above Threshold,2019,2019-48,MA
+59,NA,NA,0.071,1,0,87,1233,87,49,State,All,2019-12-01,2019-12-07,49,3023,state,Massachusetts,At or Above Threshold,2019,2019-49,MA
+59,NA,NA,0.057,1,0,66,1168,66,50,State,All,2019-12-08,2019-12-14,50,3024,state,Massachusetts,At or Above Threshold,2019,2019-50,MA
+59,NA,NA,0.07,1,1,77,1119,78,51,State,All,2019-12-15,2019-12-21,51,3025,state,Massachusetts,At or Above Threshold,2019,2019-51,MA
+59,NA,NA,0.061,1,0,73,1193,73,52,State,All,2019-12-22,2019-12-28,52,3026,state,Massachusetts,At or Above Threshold,2019,2019-52,MA
+59,NA,NA,0.08,1,4,93,1209,97,1,State,All,2019-12-29,2020-01-04,1,3027,state,Massachusetts,At or Above Threshold,2019,2019-01,MA
+59,NA,NA,0.062,1,8,68,1227,76,2,State,All,2020-01-05,2020-01-11,2,3028,state,Massachusetts,At or Above Threshold,2020,2020-2,MA
+59,NA,NA,0.087,1,11,89,1155,100,3,State,All,2020-01-12,2020-01-18,3,3029,state,Massachusetts,At or Above Threshold,2020,2020-3,MA
+59,NA,NA,0.072,1,14,79,1284,93,4,State,All,2020-01-19,2020-01-25,4,3030,state,Massachusetts,At or Above Threshold,2020,2020-4,MA
+59,NA,NA,0.097,1,14,99,1169,113,5,State,All,2020-01-26,2020-02-01,5,3031,state,Massachusetts,At or Above Threshold,2020,2020-5,MA
+59,NA,NA,0.084,1,11,90,1207,101,6,State,All,2020-02-02,2020-02-08,6,3032,state,Massachusetts,At or Above Threshold,2020,2020-6,MA
+59,NA,NA,0.08,1,12,85,1206,97,7,State,All,2020-02-09,2020-02-15,7,3033,state,Massachusetts,At or Above Threshold,2020,2020-7,MA
+59,NA,NA,0.089,1,15,84,1111,99,8,State,All,2020-02-16,2020-02-22,8,3034,state,Massachusetts,At or Above Threshold,2020,2020-8,MA
+59,NA,NA,0.089,1,16,81,1085,97,9,State,All,2020-02-23,2020-02-29,9,3035,state,Massachusetts,At or Above Threshold,2020,2020-9,MA
+59,NA,NA,0.057,1,0,104,1830,104,40,State,All,2019-09-29,2019-10-05,40,3014,state,Michigan,At or Above Threshold,2019,2019-40,MI
+59,NA,NA,0.048,1,1,87,1832,88,41,State,All,2019-10-06,2019-10-12,41,3015,state,Michigan,At or Above Threshold,2019,2019-41,MI
+59,NA,NA,0.043,1,0,84,1960,84,42,State,All,2019-10-13,2019-10-19,42,3016,state,Michigan,At or Above Threshold,2019,2019-42,MI
+59,NA,NA,0.047,1,0,90,1922,90,43,State,All,2019-10-20,2019-10-26,43,3017,state,Michigan,At or Above Threshold,2019,2019-43,MI
+59,NA,NA,0.049,1,0,94,1938,94,44,State,All,2019-10-27,2019-11-02,44,3018,state,Michigan,At or Above Threshold,2019,2019-44,MI
+59,NA,NA,0.052,1,0,103,1966,103,45,State,All,2019-11-03,2019-11-09,45,3019,state,Michigan,At or Above Threshold,2019,2019-45,MI
+59,NA,NA,0.06,1,0,119,1975,119,46,State,All,2019-11-10,2019-11-16,46,3020,state,Michigan,At or Above Threshold,2019,2019-46,MI
+59,NA,NA,0.049,1,2,94,1972,96,47,State,All,2019-11-17,2019-11-23,47,3021,state,Michigan,At or Above Threshold,2019,2019-47,MI
+59,NA,NA,0.051,1,0,99,1952,99,48,State,All,2019-11-24,2019-11-30,48,3022,state,Michigan,At or Above Threshold,2019,2019-48,MI
+59,NA,NA,0.045,1,1,89,1984,90,49,State,All,2019-12-01,2019-12-07,49,3023,state,Michigan,At or Above Threshold,2019,2019-49,MI
+59,NA,NA,0.055,1,2,108,2000,110,50,State,All,2019-12-08,2019-12-14,50,3024,state,Michigan,At or Above Threshold,2019,2019-50,MI
+59,NA,NA,0.059,1,2,116,2008,118,51,State,All,2019-12-15,2019-12-21,51,3025,state,Michigan,At or Above Threshold,2019,2019-51,MI
+59,NA,NA,0.061,1,5,112,1911,117,52,State,All,2019-12-22,2019-12-28,52,3026,state,Michigan,At or Above Threshold,2019,2019-52,MI
+59,NA,NA,0.06,1,13,107,1986,120,1,State,All,2019-12-29,2020-01-04,1,3027,state,Michigan,At or Above Threshold,2019,2019-01,MI
+59,NA,NA,0.068,1,11,129,2054,140,2,State,All,2020-01-05,2020-01-11,2,3028,state,Michigan,At or Above Threshold,2020,2020-2,MI
+59,NA,NA,0.063,1,6,115,1929,121,3,State,All,2020-01-12,2020-01-18,3,3029,state,Michigan,At or Above Threshold,2020,2020-3,MI
+59,NA,NA,0.055,1,7,102,1982,109,4,State,All,2020-01-19,2020-01-25,4,3030,state,Michigan,At or Above Threshold,2020,2020-4,MI
+59,NA,NA,0.062,1,11,113,1985,124,5,State,All,2020-01-26,2020-02-01,5,3031,state,Michigan,At or Above Threshold,2020,2020-5,MI
+59,NA,NA,0.073,1,8,131,1916,139,6,State,All,2020-02-02,2020-02-08,6,3032,state,Michigan,At or Above Threshold,2020,2020-6,MI
+59,NA,NA,0.062,1,17,105,1960,122,7,State,All,2020-02-09,2020-02-15,7,3033,state,Michigan,At or Above Threshold,2020,2020-7,MI
+59,NA,NA,0.073,1,23,120,1951,143,8,State,All,2020-02-16,2020-02-22,8,3034,state,Michigan,At or Above Threshold,2020,2020-8,MI
+59,NA,NA,0.06,0.866,21,73,1576,94,9,State,All,2020-02-23,2020-02-29,9,3035,state,Michigan,At or Above Threshold,2020,2020-9,MI
+59,NA,NA,0.054,1,1,47,887,48,40,State,All,2019-09-29,2019-10-05,40,3014,state,Minnesota,At or Above Threshold,2019,2019-40,MN
+59,NA,NA,0.048,1,0,44,914,44,41,State,All,2019-10-06,2019-10-12,41,3015,state,Minnesota,At or Above Threshold,2019,2019-41,MN
+59,NA,NA,0.047,1,0,42,889,42,42,State,All,2019-10-13,2019-10-19,42,3016,state,Minnesota,At or Above Threshold,2019,2019-42,MN
+59,NA,NA,0.073,1,1,61,850,62,43,State,All,2019-10-20,2019-10-26,43,3017,state,Minnesota,At or Above Threshold,2019,2019-43,MN
+59,NA,NA,0.054,1,0,47,865,47,44,State,All,2019-10-27,2019-11-02,44,3018,state,Minnesota,At or Above Threshold,2019,2019-44,MN
+59,NA,NA,0.072,1,0,62,866,62,45,State,All,2019-11-03,2019-11-09,45,3019,state,Minnesota,At or Above Threshold,2019,2019-45,MN
+59,NA,NA,0.057,1,1,53,949,54,46,State,All,2019-11-10,2019-11-16,46,3020,state,Minnesota,At or Above Threshold,2019,2019-46,MN
+59,NA,NA,0.058,1,0,52,899,52,47,State,All,2019-11-17,2019-11-23,47,3021,state,Minnesota,At or Above Threshold,2019,2019-47,MN
+59,NA,NA,0.056,1,0,48,863,48,48,State,All,2019-11-24,2019-11-30,48,3022,state,Minnesota,At or Above Threshold,2019,2019-48,MN
+59,NA,NA,0.058,1,1,53,926,54,49,State,All,2019-12-01,2019-12-07,49,3023,state,Minnesota,At or Above Threshold,2019,2019-49,MN
+59,NA,NA,0.078,1,3,67,898,70,50,State,All,2019-12-08,2019-12-14,50,3024,state,Minnesota,At or Above Threshold,2019,2019-50,MN
+59,NA,NA,0.059,1,2,54,950,56,51,State,All,2019-12-15,2019-12-21,51,3025,state,Minnesota,At or Above Threshold,2019,2019-51,MN
+59,NA,NA,0.049,1,3,46,1000,49,52,State,All,2019-12-22,2019-12-28,52,3026,state,Minnesota,At or Above Threshold,2019,2019-52,MN
+59,NA,NA,0.069,1,6,62,989,68,1,State,All,2019-12-29,2020-01-04,1,3027,state,Minnesota,At or Above Threshold,2019,2019-01,MN
+59,NA,NA,0.072,1,9,59,939,68,2,State,All,2020-01-05,2020-01-11,2,3028,state,Minnesota,At or Above Threshold,2020,2020-2,MN
+59,NA,NA,0.073,1,5,64,939,69,3,State,All,2020-01-12,2020-01-18,3,3029,state,Minnesota,At or Above Threshold,2020,2020-3,MN
+59,NA,NA,0.08,1,5,70,937,75,4,State,All,2020-01-19,2020-01-25,4,3030,state,Minnesota,At or Above Threshold,2020,2020-4,MN
+59,NA,NA,0.081,1,6,68,909,74,5,State,All,2020-01-26,2020-02-01,5,3031,state,Minnesota,At or Above Threshold,2020,2020-5,MN
+59,NA,NA,0.074,1,9,56,876,65,6,State,All,2020-02-02,2020-02-08,6,3032,state,Minnesota,At or Above Threshold,2020,2020-6,MN
+59,NA,NA,0.06,1,6,46,872,52,7,State,All,2020-02-09,2020-02-15,7,3033,state,Minnesota,At or Above Threshold,2020,2020-7,MN
+59,NA,NA,0.087,0.99,9,61,803,70,8,State,All,2020-02-16,2020-02-22,8,3034,state,Minnesota,At or Above Threshold,2020,2020-8,MN
+59,NA,NA,0.089,0.829,14,46,672,60,9,State,All,2020-02-23,2020-02-29,9,3035,state,Minnesota,At or Above Threshold,2020,2020-9,MN
+59,NA,NA,0.049,0.983,0,29,591,29,40,State,All,2019-09-29,2019-10-05,40,3014,state,Mississippi,At or Above Threshold,2019,2019-40,MS
+59,NA,NA,0.079,0.987,1,46,593,47,41,State,All,2019-10-06,2019-10-12,41,3015,state,Mississippi,At or Above Threshold,2019,2019-41,MS
+59,NA,NA,0.057,0.962,1,32,578,33,42,State,All,2019-10-13,2019-10-19,42,3016,state,Mississippi,At or Above Threshold,2019,2019-42,MS
+59,NA,NA,0.065,1,0,39,603,39,43,State,All,2019-10-20,2019-10-26,43,3017,state,Mississippi,At or Above Threshold,2019,2019-43,MS
+59,NA,NA,0.072,1,0,45,624,45,44,State,All,2019-10-27,2019-11-02,44,3018,state,Mississippi,At or Above Threshold,2019,2019-44,MS
+59,NA,NA,0.073,1,0,47,647,47,45,State,All,2019-11-03,2019-11-09,45,3019,state,Mississippi,At or Above Threshold,2019,2019-45,MS
+59,NA,NA,0.057,1,0,36,633,36,46,State,All,2019-11-10,2019-11-16,46,3020,state,Mississippi,At or Above Threshold,2019,2019-46,MS
+59,NA,NA,0.059,1,1,37,649,38,47,State,All,2019-11-17,2019-11-23,47,3021,state,Mississippi,At or Above Threshold,2019,2019-47,MS
+59,NA,NA,0.073,1,2,43,616,45,48,State,All,2019-11-24,2019-11-30,48,3022,state,Mississippi,At or Above Threshold,2019,2019-48,MS
+59,NA,NA,0.076,1,2,48,658,50,49,State,All,2019-12-01,2019-12-07,49,3023,state,Mississippi,At or Above Threshold,2019,2019-49,MS
+59,NA,NA,0.085,1,2,58,702,60,50,State,All,2019-12-08,2019-12-14,50,3024,state,Mississippi,At or Above Threshold,2019,2019-50,MS
+59,NA,NA,0.078,1,2,51,678,53,51,State,All,2019-12-15,2019-12-21,51,3025,state,Mississippi,At or Above Threshold,2019,2019-51,MS
+59,NA,NA,0.072,1,2,43,623,45,52,State,All,2019-12-22,2019-12-28,52,3026,state,Mississippi,At or Above Threshold,2019,2019-52,MS
+59,NA,NA,0.094,1,2,61,670,63,1,State,All,2019-12-29,2020-01-04,1,3027,state,Mississippi,At or Above Threshold,2019,2019-01,MS
+59,NA,NA,0.08,1,1,52,662,53,2,State,All,2020-01-05,2020-01-11,2,3028,state,Mississippi,At or Above Threshold,2020,2020-2,MS
+59,NA,NA,0.074,1,2,45,634,47,3,State,All,2020-01-12,2020-01-18,3,3029,state,Mississippi,At or Above Threshold,2020,2020-3,MS
+59,NA,NA,0.067,1,3,38,610,41,4,State,All,2020-01-19,2020-01-25,4,3030,state,Mississippi,At or Above Threshold,2020,2020-4,MS
+59,NA,NA,0.084,1,2,50,618,52,5,State,All,2020-01-26,2020-02-01,5,3031,state,Mississippi,At or Above Threshold,2020,2020-5,MS
+59,NA,NA,0.086,1,7,54,707,61,6,State,All,2020-02-02,2020-02-08,6,3032,state,Mississippi,At or Above Threshold,2020,2020-6,MS
+59,NA,NA,0.089,1,4,51,615,55,7,State,All,2020-02-09,2020-02-15,7,3033,state,Mississippi,At or Above Threshold,2020,2020-7,MS
+59,NA,NA,0.077,0.949,5,39,570,44,8,State,All,2020-02-16,2020-02-22,8,3034,state,Mississippi,At or Above Threshold,2020,2020-8,MS
+59,NA,NA,0.099,0.894,7,46,537,53,9,State,All,2020-02-23,2020-02-29,9,3035,state,Mississippi,At or Above Threshold,2020,2020-9,MS
+59,NA,NA,0.047,0.975,0,52,1109,52,40,State,All,2019-09-29,2019-10-05,40,3014,state,Missouri,At or Above Threshold,2019,2019-40,MO
+59,NA,NA,0.033,0.966,0,36,1099,36,41,State,All,2019-10-06,2019-10-12,41,3015,state,Missouri,At or Above Threshold,2019,2019-41,MO
+59,NA,NA,0.054,1,1,60,1140,61,42,State,All,2019-10-13,2019-10-19,42,3016,state,Missouri,At or Above Threshold,2019,2019-42,MO
+59,NA,NA,0.043,0.995,0,49,1132,49,43,State,All,2019-10-20,2019-10-26,43,3017,state,Missouri,At or Above Threshold,2019,2019-43,MO
+59,NA,NA,0.055,1,1,66,1211,67,44,State,All,2019-10-27,2019-11-02,44,3018,state,Missouri,At or Above Threshold,2019,2019-44,MO
+59,NA,NA,0.04,1,0,48,1190,48,45,State,All,2019-11-03,2019-11-09,45,3019,state,Missouri,At or Above Threshold,2019,2019-45,MO
+59,NA,NA,0.052,1,0,65,1261,65,46,State,All,2019-11-10,2019-11-16,46,3020,state,Missouri,At or Above Threshold,2019,2019-46,MO
+59,NA,NA,0.046,1,1,57,1264,58,47,State,All,2019-11-17,2019-11-23,47,3021,state,Missouri,At or Above Threshold,2019,2019-47,MO
+59,NA,NA,0.046,1,5,51,1206,56,48,State,All,2019-11-24,2019-11-30,48,3022,state,Missouri,At or Above Threshold,2019,2019-48,MO
+59,NA,NA,0.058,1,1,67,1168,68,49,State,All,2019-12-01,2019-12-07,49,3023,state,Missouri,At or Above Threshold,2019,2019-49,MO
+59,NA,NA,0.061,1,2,70,1189,72,50,State,All,2019-12-08,2019-12-14,50,3024,state,Missouri,At or Above Threshold,2019,2019-50,MO
+59,NA,NA,0.036,1,2,40,1181,42,51,State,All,2019-12-15,2019-12-21,51,3025,state,Missouri,At or Above Threshold,2019,2019-51,MO
+59,NA,NA,0.047,1,1,58,1246,59,52,State,All,2019-12-22,2019-12-28,52,3026,state,Missouri,At or Above Threshold,2019,2019-52,MO
+59,NA,NA,0.065,1,5,75,1228,80,1,State,All,2019-12-29,2020-01-04,1,3027,state,Missouri,At or Above Threshold,2019,2019-01,MO
+59,NA,NA,0.066,1,9,73,1239,82,2,State,All,2020-01-05,2020-01-11,2,3028,state,Missouri,At or Above Threshold,2020,2020-2,MO
+59,NA,NA,0.068,1,2,80,1200,82,3,State,All,2020-01-12,2020-01-18,3,3029,state,Missouri,At or Above Threshold,2020,2020-3,MO
+59,NA,NA,0.065,1,7,73,1235,80,4,State,All,2020-01-19,2020-01-25,4,3030,state,Missouri,At or Above Threshold,2020,2020-4,MO
+59,NA,NA,0.074,1,8,81,1202,89,5,State,All,2020-01-26,2020-02-01,5,3031,state,Missouri,At or Above Threshold,2020,2020-5,MO
+59,NA,NA,0.061,1,4,67,1158,71,6,State,All,2020-02-02,2020-02-08,6,3032,state,Missouri,At or Above Threshold,2020,2020-6,MO
+59,NA,NA,0.056,0.997,6,58,1134,64,7,State,All,2020-02-09,2020-02-15,7,3033,state,Missouri,At or Above Threshold,2020,2020-7,MO
+59,NA,NA,0.07,0.927,22,52,1055,74,8,State,All,2020-02-16,2020-02-22,8,3034,state,Missouri,At or Above Threshold,2020,2020-8,MO
+59,NA,NA,0.075,0.739,15,48,841,63,9,State,All,2020-02-23,2020-02-29,9,3035,state,Missouri,At or Above Threshold,2020,2020-9,MO
+59,NA,NA,0.063,1,0,13,207,13,40,State,All,2019-09-29,2019-10-05,40,3014,state,Montana,At or Above Threshold,2019,2019-40,MT
+59,NA,NA,0.077,1,0,15,195,15,41,State,All,2019-10-06,2019-10-12,41,3015,state,Montana,At or Above Threshold,2019,2019-41,MT
+59,NA,NA,0.034,1,0,7,203,7,42,State,All,2019-10-13,2019-10-19,42,3016,state,Montana,At or Above Threshold,2019,2019-42,MT
+59,NA,NA,0.054,1,0,11,203,11,43,State,All,2019-10-20,2019-10-26,43,3017,state,Montana,At or Above Threshold,2019,2019-43,MT
+59,NA,NA,0.059,0.999,0,11,186,11,44,State,All,2019-10-27,2019-11-02,44,3018,state,Montana,At or Above Threshold,2019,2019-44,MT
+59,NA,NA,0.03,1,0,6,199,6,45,State,All,2019-11-03,2019-11-09,45,3019,state,Montana,At or Above Threshold,2019,2019-45,MT
+59,NA,NA,0.058,1,0,11,191,11,46,State,All,2019-11-10,2019-11-16,46,3020,state,Montana,At or Above Threshold,2019,2019-46,MT
+59,NA,NA,0.048,1,0,9,188,9,47,State,All,2019-11-17,2019-11-23,47,3021,state,Montana,At or Above Threshold,2019,2019-47,MT
+59,NA,NA,0.057,1,1,10,192,11,48,State,All,2019-11-24,2019-11-30,48,3022,state,Montana,At or Above Threshold,2019,2019-48,MT
+59,NA,NA,0.066,1,0,15,226,15,49,State,All,2019-12-01,2019-12-07,49,3023,state,Montana,At or Above Threshold,2019,2019-49,MT
+59,NA,NA,0.054,1,1,10,202,11,50,State,All,2019-12-08,2019-12-14,50,3024,state,Montana,At or Above Threshold,2019,2019-50,MT
+59,NA,NA,0.071,1,1,13,196,14,51,State,All,2019-12-15,2019-12-21,51,3025,state,Montana,At or Above Threshold,2019,2019-51,MT
+59,NA,NA,0.069,0.929,0,12,173,12,52,State,All,2019-12-22,2019-12-28,52,3026,state,Montana,At or Above Threshold,2019,2019-52,MT
+59,NA,NA,0.07,1,1,15,230,16,1,State,All,2019-12-29,2020-01-04,1,3027,state,Montana,At or Above Threshold,2019,2019-01,MT
+59,NA,NA,0.071,1,3,12,211,15,2,State,All,2020-01-05,2020-01-11,2,3028,state,Montana,At or Above Threshold,2020,2020-2,MT
+59,NA,NA,0.057,1,0,12,209,12,3,State,All,2020-01-12,2020-01-18,3,3029,state,Montana,At or Above Threshold,2020,2020-3,MT
+59,NA,NA,0.035,1,0,7,200,7,4,State,All,2020-01-19,2020-01-25,4,3030,state,Montana,At or Above Threshold,2020,2020-4,MT
+59,NA,NA,0.059,1,1,12,219,13,5,State,All,2020-01-26,2020-02-01,5,3031,state,Montana,At or Above Threshold,2020,2020-5,MT
+59,NA,NA,0.057,1,2,9,193,11,6,State,All,2020-02-02,2020-02-08,6,3032,state,Montana,At or Above Threshold,2020,2020-6,MT
+59,NA,NA,0.069,0.94,3,9,175,12,7,State,All,2020-02-09,2020-02-15,7,3033,state,Montana,At or Above Threshold,2020,2020-7,MT
+59,NA,NA,0.078,0.892,2,11,166,13,8,State,All,2020-02-16,2020-02-22,8,3034,state,Montana,At or Above Threshold,2020,2020-8,MT
+59,NA,NA,0.037,0.72,1,4,134,5,9,State,All,2020-02-23,2020-02-29,9,3035,state,Montana,At or Above Threshold,2020,2020-9,MT
+59,NA,NA,0.06,1,0,19,318,19,40,State,All,2019-09-29,2019-10-05,40,3014,state,Nebraska,At or Above Threshold,2019,2019-40,NE
+59,NA,NA,0.065,1,0,23,354,23,41,State,All,2019-10-06,2019-10-12,41,3015,state,Nebraska,At or Above Threshold,2019,2019-41,NE
+59,NA,NA,0.078,1,0,25,319,25,42,State,All,2019-10-13,2019-10-19,42,3016,state,Nebraska,At or Above Threshold,2019,2019-42,NE
+59,NA,NA,0.096,1,0,33,344,33,43,State,All,2019-10-20,2019-10-26,43,3017,state,Nebraska,At or Above Threshold,2019,2019-43,NE
+59,NA,NA,0.054,1,0,17,314,17,44,State,All,2019-10-27,2019-11-02,44,3018,state,Nebraska,At or Above Threshold,2019,2019-44,NE
+59,NA,NA,0.063,0.964,0,19,301,19,45,State,All,2019-11-03,2019-11-09,45,3019,state,Nebraska,At or Above Threshold,2019,2019-45,NE
+59,NA,NA,0.079,1,0,25,317,25,46,State,All,2019-11-10,2019-11-16,46,3020,state,Nebraska,At or Above Threshold,2019,2019-46,NE
+59,NA,NA,0.067,1,0,22,329,22,47,State,All,2019-11-17,2019-11-23,47,3021,state,Nebraska,At or Above Threshold,2019,2019-47,NE
+59,NA,NA,0.063,0.97,0,19,303,19,48,State,All,2019-11-24,2019-11-30,48,3022,state,Nebraska,At or Above Threshold,2019,2019-48,NE
+59,NA,NA,0.072,1,1,24,346,25,49,State,All,2019-12-01,2019-12-07,49,3023,state,Nebraska,At or Above Threshold,2019,2019-49,NE
+59,NA,NA,0.068,1,1,22,337,23,50,State,All,2019-12-08,2019-12-14,50,3024,state,Nebraska,At or Above Threshold,2019,2019-50,NE
+59,NA,NA,0.067,1,2,23,375,25,51,State,All,2019-12-15,2019-12-21,51,3025,state,Nebraska,At or Above Threshold,2019,2019-51,NE
+59,NA,NA,0.074,1,2,24,350,26,52,State,All,2019-12-22,2019-12-28,52,3026,state,Nebraska,At or Above Threshold,2019,2019-52,NE
+59,NA,NA,0.087,1,6,24,344,30,1,State,All,2019-12-29,2020-01-04,1,3027,state,Nebraska,At or Above Threshold,2019,2019-01,NE
+59,NA,NA,0.121,1,9,34,354,43,2,State,All,2020-01-05,2020-01-11,2,3028,state,Nebraska,At or Above Threshold,2020,2020-2,NE
+59,NA,NA,0.113,1,4,32,318,36,3,State,All,2020-01-12,2020-01-18,3,3029,state,Nebraska,At or Above Threshold,2020,2020-3,NE
+59,NA,NA,0.08,1,5,24,362,29,4,State,All,2020-01-19,2020-01-25,4,3030,state,Nebraska,At or Above Threshold,2020,2020-4,NE
+59,NA,NA,0.089,1,6,26,360,32,5,State,All,2020-01-26,2020-02-01,5,3031,state,Nebraska,At or Above Threshold,2020,2020-5,NE
+59,NA,NA,0.074,1,2,22,325,24,6,State,All,2020-02-02,2020-02-08,6,3032,state,Nebraska,At or Above Threshold,2020,2020-6,NE
+59,NA,NA,0.09,0.961,3,24,300,27,7,State,All,2020-02-09,2020-02-15,7,3033,state,Nebraska,At or Above Threshold,2020,2020-7,NE
+59,NA,NA,0.098,0.813,1,24,254,25,8,State,All,2020-02-16,2020-02-22,8,3034,state,Nebraska,At or Above Threshold,2020,2020-8,NE
+59,NA,NA,0.068,0.615,2,11,192,13,9,State,All,2020-02-23,2020-02-29,9,3035,state,Nebraska,At or Above Threshold,2020,2020-9,NE
+59,NA,NA,0.057,1,0,26,460,26,40,State,All,2019-09-29,2019-10-05,40,3014,state,Nevada,At or Above Threshold,2019,2019-40,NV
+59,NA,NA,0.043,1,0,22,510,22,41,State,All,2019-10-06,2019-10-12,41,3015,state,Nevada,At or Above Threshold,2019,2019-41,NV
+59,NA,NA,0.067,0.945,0,28,415,28,42,State,All,2019-10-13,2019-10-19,42,3016,state,Nevada,At or Above Threshold,2019,2019-42,NV
+59,NA,NA,0.069,1,2,29,450,31,43,State,All,2019-10-20,2019-10-26,43,3017,state,Nevada,At or Above Threshold,2019,2019-43,NV
+59,NA,NA,0.063,1,0,30,473,30,44,State,All,2019-10-27,2019-11-02,44,3018,state,Nevada,At or Above Threshold,2019,2019-44,NV
+59,NA,NA,0.065,1,1,31,493,32,45,State,All,2019-11-03,2019-11-09,45,3019,state,Nevada,At or Above Threshold,2019,2019-45,NV
+59,NA,NA,0.074,1,2,33,476,35,46,State,All,2019-11-10,2019-11-16,46,3020,state,Nevada,At or Above Threshold,2019,2019-46,NV
+59,NA,NA,0.066,1,0,32,485,32,47,State,All,2019-11-17,2019-11-23,47,3021,state,Nevada,At or Above Threshold,2019,2019-47,NV
+59,NA,NA,0.059,1,0,28,478,28,48,State,All,2019-11-24,2019-11-30,48,3022,state,Nevada,At or Above Threshold,2019,2019-48,NV
+59,NA,NA,0.055,1,1,26,488,27,49,State,All,2019-12-01,2019-12-07,49,3023,state,Nevada,At or Above Threshold,2019,2019-49,NV
+59,NA,NA,0.06,1,0,30,502,30,50,State,All,2019-12-08,2019-12-14,50,3024,state,Nevada,At or Above Threshold,2019,2019-50,NV
+59,NA,NA,0.05,1,0,25,504,25,51,State,All,2019-12-15,2019-12-21,51,3025,state,Nevada,At or Above Threshold,2019,2019-51,NV
+59,NA,NA,0.057,1,4,25,512,29,52,State,All,2019-12-22,2019-12-28,52,3026,state,Nevada,At or Above Threshold,2019,2019-52,NV
+59,NA,NA,0.082,1,3,38,503,41,1,State,All,2019-12-29,2020-01-04,1,3027,state,Nevada,At or Above Threshold,2019,2019-01,NV
+59,NA,NA,0.061,1,2,30,523,32,2,State,All,2020-01-05,2020-01-11,2,3028,state,Nevada,At or Above Threshold,2020,2020-2,NV
+59,NA,NA,0.066,1,4,34,580,38,3,State,All,2020-01-12,2020-01-18,3,3029,state,Nevada,At or Above Threshold,2020,2020-3,NV
+59,NA,NA,0.075,1,2,39,550,41,4,State,All,2020-01-19,2020-01-25,4,3030,state,Nevada,At or Above Threshold,2020,2020-4,NV
+59,NA,NA,0.059,1,6,23,493,29,5,State,All,2020-01-26,2020-02-01,5,3031,state,Nevada,At or Above Threshold,2020,2020-5,NV
+59,NA,NA,0.082,1,5,39,539,44,6,State,All,2020-02-02,2020-02-08,6,3032,state,Nevada,At or Above Threshold,2020,2020-6,NV
+59,NA,NA,0.058,1,4,24,484,28,7,State,All,2020-02-09,2020-02-15,7,3033,state,Nevada,At or Above Threshold,2020,2020-7,NV
+59,NA,NA,0.048,1,1,22,475,23,8,State,All,2020-02-16,2020-02-22,8,3034,state,Nevada,At or Above Threshold,2020,2020-8,NV
+59,NA,NA,0.079,0.861,1,29,378,30,9,State,All,2020-02-23,2020-02-29,9,3035,state,Nevada,At or Above Threshold,2020,2020-9,NV
+59,NA,NA,0.06,1,0,14,234,14,40,State,All,2019-09-29,2019-10-05,40,3014,state,New Hampshire,At or Above Threshold,2019,2019-40,NH
+59,NA,NA,0.093,1,0,22,236,22,41,State,All,2019-10-06,2019-10-12,41,3015,state,New Hampshire,At or Above Threshold,2019,2019-41,NH
+59,NA,NA,0.055,1,0,14,254,14,42,State,All,2019-10-13,2019-10-19,42,3016,state,New Hampshire,At or Above Threshold,2019,2019-42,NH
+59,NA,NA,0.067,1,0,16,239,16,43,State,All,2019-10-20,2019-10-26,43,3017,state,New Hampshire,At or Above Threshold,2019,2019-43,NH
+59,NA,NA,0.044,1,0,11,250,11,44,State,All,2019-10-27,2019-11-02,44,3018,state,New Hampshire,At or Above Threshold,2019,2019-44,NH
+59,NA,NA,0.037,1,0,9,241,9,45,State,All,2019-11-03,2019-11-09,45,3019,state,New Hampshire,At or Above Threshold,2019,2019-45,NH
+59,NA,NA,0.05,1,0,12,240,12,46,State,All,2019-11-10,2019-11-16,46,3020,state,New Hampshire,At or Above Threshold,2019,2019-46,NH
+59,NA,NA,0.066,1,0,18,273,18,47,State,All,2019-11-17,2019-11-23,47,3021,state,New Hampshire,At or Above Threshold,2019,2019-47,NH
+59,NA,NA,0.049,1,0,12,245,12,48,State,All,2019-11-24,2019-11-30,48,3022,state,New Hampshire,At or Above Threshold,2019,2019-48,NH
+59,NA,NA,0.072,1,0,19,264,19,49,State,All,2019-12-01,2019-12-07,49,3023,state,New Hampshire,At or Above Threshold,2019,2019-49,NH
+59,NA,NA,0.056,1,0,15,268,15,50,State,All,2019-12-08,2019-12-14,50,3024,state,New Hampshire,At or Above Threshold,2019,2019-50,NH
+59,NA,NA,0.052,1,0,15,286,15,51,State,All,2019-12-15,2019-12-21,51,3025,state,New Hampshire,At or Above Threshold,2019,2019-51,NH
+59,NA,NA,0.059,1,0,15,256,15,52,State,All,2019-12-22,2019-12-28,52,3026,state,New Hampshire,At or Above Threshold,2019,2019-52,NH
+59,NA,NA,0.072,1,1,18,265,19,1,State,All,2019-12-29,2020-01-04,1,3027,state,New Hampshire,At or Above Threshold,2019,2019-01,NH
+59,NA,NA,0.075,1,2,18,267,20,2,State,All,2020-01-05,2020-01-11,2,3028,state,New Hampshire,At or Above Threshold,2020,2020-2,NH
+59,NA,NA,0.058,1,1,13,243,14,3,State,All,2020-01-12,2020-01-18,3,3029,state,New Hampshire,At or Above Threshold,2020,2020-3,NH
+59,NA,NA,0.059,1,0,14,238,14,4,State,All,2020-01-19,2020-01-25,4,3030,state,New Hampshire,At or Above Threshold,2020,2020-4,NH
+59,NA,NA,0.061,1,2,13,247,15,5,State,All,2020-01-26,2020-02-01,5,3031,state,New Hampshire,At or Above Threshold,2020,2020-5,NH
+59,NA,NA,0.055,1,4,10,254,14,6,State,All,2020-02-02,2020-02-08,6,3032,state,New Hampshire,At or Above Threshold,2020,2020-6,NH
+59,NA,NA,0.048,1,3,9,248,12,7,State,All,2020-02-09,2020-02-15,7,3033,state,New Hampshire,At or Above Threshold,2020,2020-7,NH
+59,NA,NA,0.085,1,2,22,283,24,8,State,All,2020-02-16,2020-02-22,8,3034,state,New Hampshire,At or Above Threshold,2020,2020-8,NH
+59,NA,NA,0.081,0.929,7,10,210,17,9,State,All,2020-02-23,2020-02-29,9,3035,state,New Hampshire,At or Above Threshold,2020,2020-9,NH
+59,NA,NA,0.055,0.986,0,76,1370,76,40,State,All,2019-09-29,2019-10-05,40,3014,state,New Jersey,At or Above Threshold,2019,2019-40,NJ
+59,NA,NA,0.052,1,0,74,1417,74,41,State,All,2019-10-06,2019-10-12,41,3015,state,New Jersey,At or Above Threshold,2019,2019-41,NJ
+59,NA,NA,0.042,1,2,58,1423,60,42,State,All,2019-10-13,2019-10-19,42,3016,state,New Jersey,At or Above Threshold,2019,2019-42,NJ
+59,NA,NA,0.046,1,1,65,1448,66,43,State,All,2019-10-20,2019-10-26,43,3017,state,New Jersey,At or Above Threshold,2019,2019-43,NJ
+59,NA,NA,0.051,0.955,2,66,1326,68,44,State,All,2019-10-27,2019-11-02,44,3018,state,New Jersey,At or Above Threshold,2019,2019-44,NJ
+59,NA,NA,0.053,1,0,78,1473,78,45,State,All,2019-11-03,2019-11-09,45,3019,state,New Jersey,At or Above Threshold,2019,2019-45,NJ
+59,NA,NA,0.059,1,0,88,1495,88,46,State,All,2019-11-10,2019-11-16,46,3020,state,New Jersey,At or Above Threshold,2019,2019-46,NJ
+59,NA,NA,0.035,1,1,51,1496,52,47,State,All,2019-11-17,2019-11-23,47,3021,state,New Jersey,At or Above Threshold,2019,2019-47,NJ
+59,NA,NA,0.042,1,1,59,1437,60,48,State,All,2019-11-24,2019-11-30,48,3022,state,New Jersey,At or Above Threshold,2019,2019-48,NJ
+59,NA,NA,0.05,1,2,76,1556,78,49,State,All,2019-12-01,2019-12-07,49,3023,state,New Jersey,At or Above Threshold,2019,2019-49,NJ
+59,NA,NA,0.048,1,0,75,1568,75,50,State,All,2019-12-08,2019-12-14,50,3024,state,New Jersey,At or Above Threshold,2019,2019-50,NJ
+59,NA,NA,0.045,1,0,66,1462,66,51,State,All,2019-12-15,2019-12-21,51,3025,state,New Jersey,At or Above Threshold,2019,2019-51,NJ
+59,NA,NA,0.047,1,3,72,1584,75,52,State,All,2019-12-22,2019-12-28,52,3026,state,New Jersey,At or Above Threshold,2019,2019-52,NJ
+59,NA,NA,0.048,1,4,74,1622,78,1,State,All,2019-12-29,2020-01-04,1,3027,state,New Jersey,At or Above Threshold,2019,2019-01,NJ
+59,NA,NA,0.063,1,7,92,1580,99,2,State,All,2020-01-05,2020-01-11,2,3028,state,New Jersey,At or Above Threshold,2020,2020-2,NJ
+59,NA,NA,0.064,1,15,80,1485,95,3,State,All,2020-01-12,2020-01-18,3,3029,state,New Jersey,At or Above Threshold,2020,2020-3,NJ
+59,NA,NA,0.062,1,8,89,1564,97,4,State,All,2020-01-19,2020-01-25,4,3030,state,New Jersey,At or Above Threshold,2020,2020-4,NJ
+59,NA,NA,0.061,1,10,82,1508,92,5,State,All,2020-01-26,2020-02-01,5,3031,state,New Jersey,At or Above Threshold,2020,2020-5,NJ
+59,NA,NA,0.063,1,10,83,1485,93,6,State,All,2020-02-02,2020-02-08,6,3032,state,New Jersey,At or Above Threshold,2020,2020-6,NJ
+59,NA,NA,0.056,1,8,74,1456,82,7,State,All,2020-02-09,2020-02-15,7,3033,state,New Jersey,At or Above Threshold,2020,2020-7,NJ
+59,NA,NA,0.058,1,10,72,1407,82,8,State,All,2020-02-16,2020-02-22,8,3034,state,New Jersey,At or Above Threshold,2020,2020-8,NJ
+59,NA,NA,0.06,0.848,10,61,1178,71,9,State,All,2020-02-23,2020-02-29,9,3035,state,New Jersey,At or Above Threshold,2020,2020-9,NJ
+59,NA,NA,0.05,1,0,19,378,19,40,State,All,2019-09-29,2019-10-05,40,3014,state,New Mexico,At or Above Threshold,2019,2019-40,NM
+59,NA,NA,0.03,1,0,11,362,11,41,State,All,2019-10-06,2019-10-12,41,3015,state,New Mexico,At or Above Threshold,2019,2019-41,NM
+59,NA,NA,0.074,0.994,0,25,339,25,42,State,All,2019-10-13,2019-10-19,42,3016,state,New Mexico,At or Above Threshold,2019,2019-42,NM
+59,NA,NA,0.056,1,0,20,358,20,43,State,All,2019-10-20,2019-10-26,43,3017,state,New Mexico,At or Above Threshold,2019,2019-43,NM
+59,NA,NA,0.025,1,0,9,363,9,44,State,All,2019-10-27,2019-11-02,44,3018,state,New Mexico,At or Above Threshold,2019,2019-44,NM
+59,NA,NA,0.053,1,0,19,357,19,45,State,All,2019-11-03,2019-11-09,45,3019,state,New Mexico,At or Above Threshold,2019,2019-45,NM
+59,NA,NA,0.046,1,0,16,349,16,46,State,All,2019-11-10,2019-11-16,46,3020,state,New Mexico,At or Above Threshold,2019,2019-46,NM
+59,NA,NA,0.041,1,0,15,368,15,47,State,All,2019-11-17,2019-11-23,47,3021,state,New Mexico,At or Above Threshold,2019,2019-47,NM
+59,NA,NA,0.06,1,0,24,398,24,48,State,All,2019-11-24,2019-11-30,48,3022,state,New Mexico,At or Above Threshold,2019,2019-48,NM
+59,NA,NA,0.054,1,2,18,367,20,49,State,All,2019-12-01,2019-12-07,49,3023,state,New Mexico,At or Above Threshold,2019,2019-49,NM
+59,NA,NA,0.063,1,3,21,380,24,50,State,All,2019-12-08,2019-12-14,50,3024,state,New Mexico,At or Above Threshold,2019,2019-50,NM
+59,NA,NA,0.065,1,0,24,369,24,51,State,All,2019-12-15,2019-12-21,51,3025,state,New Mexico,At or Above Threshold,2019,2019-51,NM
+59,NA,NA,0.078,1,2,27,370,29,52,State,All,2019-12-22,2019-12-28,52,3026,state,New Mexico,At or Above Threshold,2019,2019-52,NM
+59,NA,NA,0.089,1,8,28,405,36,1,State,All,2019-12-29,2020-01-04,1,3027,state,New Mexico,At or Above Threshold,2019,2019-01,NM
+59,NA,NA,0.073,1,6,23,396,29,2,State,All,2020-01-05,2020-01-11,2,3028,state,New Mexico,At or Above Threshold,2020,2020-2,NM
+59,NA,NA,0.085,1,8,25,388,33,3,State,All,2020-01-12,2020-01-18,3,3029,state,New Mexico,At or Above Threshold,2020,2020-3,NM
+59,NA,NA,0.091,1,7,27,372,34,4,State,All,2020-01-19,2020-01-25,4,3030,state,New Mexico,At or Above Threshold,2020,2020-4,NM
+59,NA,NA,0.086,1,4,26,350,30,5,State,All,2020-01-26,2020-02-01,5,3031,state,New Mexico,At or Above Threshold,2020,2020-5,NM
+59,NA,NA,0.065,0.985,3,19,336,22,6,State,All,2020-02-02,2020-02-08,6,3032,state,New Mexico,At or Above Threshold,2020,2020-6,NM
+59,NA,NA,0.103,1,3,32,341,35,7,State,All,2020-02-09,2020-02-15,7,3033,state,New Mexico,At or Above Threshold,2020,2020-7,NM
+59,NA,NA,0.065,0.859,1,18,293,19,8,State,All,2020-02-16,2020-02-22,8,3034,state,New Mexico,At or Above Threshold,2020,2020-8,NM
+59,NA,NA,0.073,0.686,0,17,234,17,9,State,All,2020-02-23,2020-02-29,9,3035,state,New Mexico,At or Above Threshold,2020,2020-9,NM
+59,NA,NA,0.069,0.997,0,131,1894,131,40,State,All,2019-09-29,2019-10-05,40,3014,state,New York,At or Above Threshold,2019,2019-40,NY
+59,NA,NA,0.063,1,1,122,1951,123,41,State,All,2019-10-06,2019-10-12,41,3015,state,New York,At or Above Threshold,2019,2019-41,NY
+59,NA,NA,0.074,1,0,145,1951,145,42,State,All,2019-10-13,2019-10-19,42,3016,state,New York,At or Above Threshold,2019,2019-42,NY
+59,NA,NA,0.085,0.97,0,157,1844,157,43,State,All,2019-10-20,2019-10-26,43,3017,state,New York,At or Above Threshold,2019,2019-43,NY
+59,NA,NA,0.072,1,0,140,1955,140,44,State,All,2019-10-27,2019-11-02,44,3018,state,New York,At or Above Threshold,2019,2019-44,NY
+59,NA,NA,0.073,1,1,143,1986,144,45,State,All,2019-11-03,2019-11-09,45,3019,state,New York,At or Above Threshold,2019,2019-45,NY
+59,NA,NA,0.064,1,0,129,2005,129,46,State,All,2019-11-10,2019-11-16,46,3020,state,New York,At or Above Threshold,2019,2019-46,NY
+59,NA,NA,0.079,1,2,157,2002,159,47,State,All,2019-11-17,2019-11-23,47,3021,state,New York,At or Above Threshold,2019,2019-47,NY
+59,NA,NA,0.073,1,0,142,1957,142,48,State,All,2019-11-24,2019-11-30,48,3022,state,New York,At or Above Threshold,2019,2019-48,NY
+59,NA,NA,0.068,1,0,141,2075,141,49,State,All,2019-12-01,2019-12-07,49,3023,state,New York,At or Above Threshold,2019,2019-49,NY
+59,NA,NA,0.084,1,1,166,1996,167,50,State,All,2019-12-08,2019-12-14,50,3024,state,New York,At or Above Threshold,2019,2019-50,NY
+59,NA,NA,0.079,1,0,160,2030,160,51,State,All,2019-12-15,2019-12-21,51,3025,state,New York,At or Above Threshold,2019,2019-51,NY
+59,NA,NA,0.078,1,3,156,2036,159,52,State,All,2019-12-22,2019-12-28,52,3026,state,New York,At or Above Threshold,2019,2019-52,NY
+59,NA,NA,0.098,1,12,201,2175,213,1,State,All,2019-12-29,2020-01-04,1,3027,state,New York,At or Above Threshold,2019,2019-01,NY
+59,NA,NA,0.092,1,14,180,2109,194,2,State,All,2020-01-05,2020-01-11,2,3028,state,New York,At or Above Threshold,2020,2020-2,NY
+59,NA,NA,0.092,1,17,183,2164,200,3,State,All,2020-01-12,2020-01-18,3,3029,state,New York,At or Above Threshold,2020,2020-3,NY
+59,NA,NA,0.088,1,9,171,2041,180,4,State,All,2020-01-19,2020-01-25,4,3030,state,New York,At or Above Threshold,2020,2020-4,NY
+59,NA,NA,0.077,1,15,142,2047,157,5,State,All,2020-01-26,2020-02-01,5,3031,state,New York,At or Above Threshold,2020,2020-5,NY
+59,NA,NA,0.08,1,21,144,2056,165,6,State,All,2020-02-02,2020-02-08,6,3032,state,New York,At or Above Threshold,2020,2020-6,NY
+59,NA,NA,0.089,1,14,163,1998,177,7,State,All,2020-02-09,2020-02-15,7,3033,state,New York,At or Above Threshold,2020,2020-7,NY
+59,NA,NA,0.089,1,22,157,2008,179,8,State,All,2020-02-16,2020-02-22,8,3034,state,New York,At or Above Threshold,2020,2020-8,NY
+59,NA,NA,0.08,1,15,144,1988,159,9,State,All,2020-02-23,2020-02-29,9,3035,state,New York,At or Above Threshold,2020,2020-9,NY
+59,NA,NA,0.056,1,2,101,1844,103,40,State,All,2019-09-29,2019-10-05,40,3014,state,North Carolina,At or Above Threshold,2019,2019-40,NC
+59,NA,NA,0.053,1,0,90,1711,90,41,State,All,2019-10-06,2019-10-12,41,3015,state,North Carolina,At or Above Threshold,2019,2019-41,NC
+59,NA,NA,0.054,1,0,97,1799,97,42,State,All,2019-10-13,2019-10-19,42,3016,state,North Carolina,At or Above Threshold,2019,2019-42,NC
+59,NA,NA,0.048,1,0,89,1868,89,43,State,All,2019-10-20,2019-10-26,43,3017,state,North Carolina,At or Above Threshold,2019,2019-43,NC
+59,NA,NA,0.052,1,0,90,1723,90,44,State,All,2019-10-27,2019-11-02,44,3018,state,North Carolina,At or Above Threshold,2019,2019-44,NC
+59,NA,NA,0.044,1,1,79,1804,80,45,State,All,2019-11-03,2019-11-09,45,3019,state,North Carolina,At or Above Threshold,2019,2019-45,NC
+59,NA,NA,0.055,1,1,102,1858,103,46,State,All,2019-11-10,2019-11-16,46,3020,state,North Carolina,At or Above Threshold,2019,2019-46,NC
+59,NA,NA,0.058,1,3,105,1876,108,47,State,All,2019-11-17,2019-11-23,47,3021,state,North Carolina,At or Above Threshold,2019,2019-47,NC
+59,NA,NA,0.061,1,5,104,1778,109,48,State,All,2019-11-24,2019-11-30,48,3022,state,North Carolina,At or Above Threshold,2019,2019-48,NC
+59,NA,NA,0.057,1,1,111,1957,112,49,State,All,2019-12-01,2019-12-07,49,3023,state,North Carolina,At or Above Threshold,2019,2019-49,NC
+59,NA,NA,0.061,1,5,108,1847,113,50,State,All,2019-12-08,2019-12-14,50,3024,state,North Carolina,At or Above Threshold,2019,2019-50,NC
+59,NA,NA,0.073,1,2,122,1705,124,51,State,All,2019-12-15,2019-12-21,51,3025,state,North Carolina,At or Above Threshold,2019,2019-51,NC
+59,NA,NA,0.058,0.996,6,91,1683,97,52,State,All,2019-12-22,2019-12-28,52,3026,state,North Carolina,At or Above Threshold,2019,2019-52,NC
+59,NA,NA,0.066,0.911,7,95,1539,102,1,State,All,2019-12-29,2020-01-04,1,3027,state,North Carolina,At or Above Threshold,2019,2019-01,NC
+59,NA,NA,0.071,0.714,5,81,1206,86,2,State,All,2020-01-05,2020-01-11,2,3028,state,North Carolina,At or Above Threshold,2020,2020-2,NC
+59,NA,NA,0.066,0.477,6,47,807,53,3,State,All,2020-01-12,2020-01-18,3,3029,state,North Carolina,At or Above Threshold,2020,2020-3,NC
+59,NA,NA,0.078,0.365,3,45,617,48,4,State,All,2020-01-19,2020-01-25,4,3030,state,North Carolina,At or Above Threshold,2020,2020-4,NC
+59,NA,NA,NA,0.2,NA,NA,NA,NA,5,State,All,2020-01-26,2020-02-01,5,3031,state,North Carolina,Normal levels,2020,2020-5,NC
+59,NA,NA,NA,0.2,NA,NA,NA,NA,6,State,All,2020-02-02,2020-02-08,6,3032,state,North Carolina,Normal levels,2020,2020-6,NC
+59,NA,NA,NA,0.2,NA,NA,NA,NA,7,State,All,2020-02-09,2020-02-15,7,3033,state,North Carolina,Normal levels,2020,2020-7,NC
+59,NA,NA,NA,0.2,NA,NA,NA,NA,8,State,All,2020-02-16,2020-02-22,8,3034,state,North Carolina,Normal levels,2020,2020-8,NC
+59,NA,NA,NA,0.2,NA,NA,NA,NA,9,State,All,2020-02-23,2020-02-29,9,3035,state,North Carolina,Normal levels,2020,2020-9,NC
+59,NA,NA,0.059,0.995,0,7,119,7,40,State,All,2019-09-29,2019-10-05,40,3014,state,North Dakota,At or Above Threshold,2019,2019-40,ND
+59,NA,NA,0.044,0.945,0,5,113,5,41,State,All,2019-10-06,2019-10-12,41,3015,state,North Dakota,At or Above Threshold,2019,2019-41,ND
+59,NA,NA,0.116,1,0,17,146,17,42,State,All,2019-10-13,2019-10-19,42,3016,state,North Dakota,At or Above Threshold,2019,2019-42,ND
+59,NA,NA,0.09,1,0,12,134,12,43,State,All,2019-10-20,2019-10-26,43,3017,state,North Dakota,At or Above Threshold,2019,2019-43,ND
+59,NA,NA,0.046,1,0,6,131,6,44,State,All,2019-10-27,2019-11-02,44,3018,state,North Dakota,At or Above Threshold,2019,2019-44,ND
+59,NA,NA,0.119,1,0,16,135,16,45,State,All,2019-11-03,2019-11-09,45,3019,state,North Dakota,At or Above Threshold,2019,2019-45,ND
+59,NA,NA,0.092,1,0,12,131,12,46,State,All,2019-11-10,2019-11-16,46,3020,state,North Dakota,At or Above Threshold,2019,2019-46,ND
+59,NA,NA,0.08,1,0,11,138,11,47,State,All,2019-11-17,2019-11-23,47,3021,state,North Dakota,At or Above Threshold,2019,2019-47,ND
+59,NA,NA,0.043,1,0,6,140,6,48,State,All,2019-11-24,2019-11-30,48,3022,state,North Dakota,At or Above Threshold,2019,2019-48,ND
+59,NA,NA,0.053,1,0,7,132,7,49,State,All,2019-12-01,2019-12-07,49,3023,state,North Dakota,At or Above Threshold,2019,2019-49,ND
+59,NA,NA,0.097,1,0,13,134,13,50,State,All,2019-12-08,2019-12-14,50,3024,state,North Dakota,At or Above Threshold,2019,2019-50,ND
+59,NA,NA,0.086,1,0,12,140,12,51,State,All,2019-12-15,2019-12-21,51,3025,state,North Dakota,At or Above Threshold,2019,2019-51,ND
+59,NA,NA,0.088,1,0,12,137,12,52,State,All,2019-12-22,2019-12-28,52,3026,state,North Dakota,At or Above Threshold,2019,2019-52,ND
+59,NA,NA,0.065,1,1,8,138,9,1,State,All,2019-12-29,2020-01-04,1,3027,state,North Dakota,At or Above Threshold,2019,2019-01,ND
+59,NA,NA,0.098,1,4,9,133,13,2,State,All,2020-01-05,2020-01-11,2,3028,state,North Dakota,At or Above Threshold,2020,2020-2,ND
+59,NA,NA,0.049,1,0,7,142,7,3,State,All,2020-01-12,2020-01-18,3,3029,state,North Dakota,At or Above Threshold,2020,2020-3,ND
+59,NA,NA,0.096,1,1,11,125,12,4,State,All,2020-01-19,2020-01-25,4,3030,state,North Dakota,At or Above Threshold,2020,2020-4,ND
+59,NA,NA,0.073,0.92,1,7,110,8,5,State,All,2020-01-26,2020-02-01,5,3031,state,North Dakota,At or Above Threshold,2020,2020-5,ND
+59,NA,NA,0.053,0.945,1,5,113,6,6,State,All,2020-02-02,2020-02-08,6,3032,state,North Dakota,At or Above Threshold,2020,2020-6,ND
+59,NA,NA,0.058,1,1,6,120,7,7,State,All,2020-02-09,2020-02-15,7,3033,state,North Dakota,At or Above Threshold,2020,2020-7,ND
+59,NA,NA,0.067,0.878,0,7,105,7,8,State,All,2020-02-16,2020-02-22,8,3034,state,North Dakota,At or Above Threshold,2020,2020-8,ND
+59,NA,NA,0.111,0.602,2,6,72,8,9,State,All,2020-02-23,2020-02-29,9,3035,state,North Dakota,At or Above Threshold,2020,2020-9,ND
+59,NA,NA,0.044,1,0,99,2257,99,40,State,All,2019-09-29,2019-10-05,40,3014,state,Ohio,At or Above Threshold,2019,2019-40,OH
+59,NA,NA,0.048,1,1,112,2342,113,41,State,All,2019-10-06,2019-10-12,41,3015,state,Ohio,At or Above Threshold,2019,2019-41,OH
+59,NA,NA,0.038,1,0,88,2304,88,42,State,All,2019-10-13,2019-10-19,42,3016,state,Ohio,At or Above Threshold,2019,2019-42,OH
+59,NA,NA,0.045,1,0,103,2298,103,43,State,All,2019-10-20,2019-10-26,43,3017,state,Ohio,At or Above Threshold,2019,2019-43,OH
+59,NA,NA,0.042,1,0,101,2382,101,44,State,All,2019-10-27,2019-11-02,44,3018,state,Ohio,At or Above Threshold,2019,2019-44,OH
+59,NA,NA,0.043,1,0,106,2488,106,45,State,All,2019-11-03,2019-11-09,45,3019,state,Ohio,At or Above Threshold,2019,2019-45,OH
+59,NA,NA,0.046,1,0,112,2410,112,46,State,All,2019-11-10,2019-11-16,46,3020,state,Ohio,At or Above Threshold,2019,2019-46,OH
+59,NA,NA,0.038,1,3,88,2415,91,47,State,All,2019-11-17,2019-11-23,47,3021,state,Ohio,At or Above Threshold,2019,2019-47,OH
+59,NA,NA,0.042,1,0,100,2393,100,48,State,All,2019-11-24,2019-11-30,48,3022,state,Ohio,At or Above Threshold,2019,2019-48,OH
+59,NA,NA,0.051,1,1,122,2434,123,49,State,All,2019-12-01,2019-12-07,49,3023,state,Ohio,At or Above Threshold,2019,2019-49,OH
+59,NA,NA,0.045,1,1,110,2475,111,50,State,All,2019-12-08,2019-12-14,50,3024,state,Ohio,At or Above Threshold,2019,2019-50,OH
+59,NA,NA,0.043,1,2,104,2450,106,51,State,All,2019-12-15,2019-12-21,51,3025,state,Ohio,At or Above Threshold,2019,2019-51,OH
+59,NA,NA,0.049,1,3,119,2510,122,52,State,All,2019-12-22,2019-12-28,52,3026,state,Ohio,At or Above Threshold,2019,2019-52,OH
+59,NA,NA,0.059,1,15,135,2541,150,1,State,All,2019-12-29,2020-01-04,1,3027,state,Ohio,At or Above Threshold,2019,2019-01,OH
+59,NA,NA,0.064,1,13,154,2606,167,2,State,All,2020-01-05,2020-01-11,2,3028,state,Ohio,At or Above Threshold,2020,2020-2,OH
+59,NA,NA,0.065,1,10,149,2446,159,3,State,All,2020-01-12,2020-01-18,3,3029,state,Ohio,At or Above Threshold,2020,2020-3,OH
+59,NA,NA,0.056,1,19,122,2523,141,4,State,All,2020-01-19,2020-01-25,4,3030,state,Ohio,At or Above Threshold,2020,2020-4,OH
+59,NA,NA,0.059,1,25,120,2442,145,5,State,All,2020-01-26,2020-02-01,5,3031,state,Ohio,At or Above Threshold,2020,2020-5,OH
+59,NA,NA,0.058,1,17,122,2397,139,6,State,All,2020-02-02,2020-02-08,6,3032,state,Ohio,At or Above Threshold,2020,2020-6,OH
+59,NA,NA,0.063,0.957,18,117,2137,135,7,State,All,2020-02-09,2020-02-15,7,3033,state,Ohio,At or Above Threshold,2020,2020-7,OH
+59,NA,NA,0.043,0.704,10,57,1572,67,8,State,All,2020-02-16,2020-02-22,8,3034,state,Ohio,At or Above Threshold,2020,2020-8,OH
+59,NA,NA,0.043,0.354,6,28,791,34,9,State,All,2020-02-23,2020-02-29,9,3035,state,Ohio,At or Above Threshold,2020,2020-9,OH
+59,NA,NA,0.069,0.943,1,48,707,49,40,State,All,2019-09-29,2019-10-05,40,3014,state,Oklahoma,At or Above Threshold,2019,2019-40,OK
+59,NA,NA,0.071,0.973,0,52,729,52,41,State,All,2019-10-06,2019-10-12,41,3015,state,Oklahoma,At or Above Threshold,2019,2019-41,OK
+59,NA,NA,0.075,1,0,61,808,61,42,State,All,2019-10-13,2019-10-19,42,3016,state,Oklahoma,At or Above Threshold,2019,2019-42,OK
+59,NA,NA,0.069,0.971,2,48,728,50,43,State,All,2019-10-20,2019-10-26,43,3017,state,Oklahoma,At or Above Threshold,2019,2019-43,OK
+59,NA,NA,0.071,0.997,1,52,747,53,44,State,All,2019-10-27,2019-11-02,44,3018,state,Oklahoma,At or Above Threshold,2019,2019-44,OK
+59,NA,NA,0.068,1,0,57,843,57,45,State,All,2019-11-03,2019-11-09,45,3019,state,Oklahoma,At or Above Threshold,2019,2019-45,OK
+59,NA,NA,0.084,1,1,68,821,69,46,State,All,2019-11-10,2019-11-16,46,3020,state,Oklahoma,At or Above Threshold,2019,2019-46,OK
+59,NA,NA,0.075,1,1,59,799,60,47,State,All,2019-11-17,2019-11-23,47,3021,state,Oklahoma,At or Above Threshold,2019,2019-47,OK
+59,NA,NA,0.088,1,1,69,794,70,48,State,All,2019-11-24,2019-11-30,48,3022,state,Oklahoma,At or Above Threshold,2019,2019-48,OK
+59,NA,NA,0.104,1,0,81,782,81,49,State,All,2019-12-01,2019-12-07,49,3023,state,Oklahoma,At or Above Threshold,2019,2019-49,OK
+59,NA,NA,0.091,1,1,75,837,76,50,State,All,2019-12-08,2019-12-14,50,3024,state,Oklahoma,At or Above Threshold,2019,2019-50,OK
+59,NA,NA,0.082,1,3,65,834,68,51,State,All,2019-12-15,2019-12-21,51,3025,state,Oklahoma,At or Above Threshold,2019,2019-51,OK
+59,NA,NA,0.094,1,4,71,796,75,52,State,All,2019-12-22,2019-12-28,52,3026,state,Oklahoma,At or Above Threshold,2019,2019-52,OK
+59,NA,NA,0.096,1,7,79,898,86,1,State,All,2019-12-29,2020-01-04,1,3027,state,Oklahoma,At or Above Threshold,2019,2019-01,OK
+59,NA,NA,0.089,1,8,64,805,72,2,State,All,2020-01-05,2020-01-11,2,3028,state,Oklahoma,At or Above Threshold,2020,2020-2,OK
+59,NA,NA,0.094,1,5,68,774,73,3,State,All,2020-01-12,2020-01-18,3,3029,state,Oklahoma,At or Above Threshold,2020,2020-3,OK
+59,NA,NA,0.106,0.91,1,71,682,72,4,State,All,2020-01-19,2020-01-25,4,3030,state,Oklahoma,At or Above Threshold,2020,2020-4,OK
+59,NA,NA,0.099,0.921,6,62,690,68,5,State,All,2020-01-26,2020-02-01,5,3031,state,Oklahoma,At or Above Threshold,2020,2020-5,OK
+59,NA,NA,0.076,1,5,52,751,57,6,State,All,2020-02-02,2020-02-08,6,3032,state,Oklahoma,At or Above Threshold,2020,2020-6,OK
+59,NA,NA,0.101,0.951,5,67,713,72,7,State,All,2020-02-09,2020-02-15,7,3033,state,Oklahoma,At or Above Threshold,2020,2020-7,OK
+59,NA,NA,0.095,0.824,5,54,618,59,8,State,All,2020-02-16,2020-02-22,8,3034,state,Oklahoma,At or Above Threshold,2020,2020-8,OK
+59,NA,NA,0.114,0.667,10,47,500,57,9,State,All,2020-02-23,2020-02-29,9,3035,state,Oklahoma,At or Above Threshold,2020,2020-9,OK
+59,NA,NA,0.043,1,0,31,724,31,40,State,All,2019-09-29,2019-10-05,40,3014,state,Oregon,At or Above Threshold,2019,2019-40,OR
+59,NA,NA,0.049,1,0,33,680,33,41,State,All,2019-10-06,2019-10-12,41,3015,state,Oregon,At or Above Threshold,2019,2019-41,OR
+59,NA,NA,0.043,1,0,32,740,32,42,State,All,2019-10-13,2019-10-19,42,3016,state,Oregon,At or Above Threshold,2019,2019-42,OR
+59,NA,NA,0.047,1,0,34,728,34,43,State,All,2019-10-20,2019-10-26,43,3017,state,Oregon,At or Above Threshold,2019,2019-43,OR
+59,NA,NA,0.036,1,0,26,716,26,44,State,All,2019-10-27,2019-11-02,44,3018,state,Oregon,At or Above Threshold,2019,2019-44,OR
+59,NA,NA,0.05,1,0,38,761,38,45,State,All,2019-11-03,2019-11-09,45,3019,state,Oregon,At or Above Threshold,2019,2019-45,OR
+59,NA,NA,0.043,1,1,31,747,32,46,State,All,2019-11-10,2019-11-16,46,3020,state,Oregon,At or Above Threshold,2019,2019-46,OR
+59,NA,NA,0.037,1,2,24,697,26,47,State,All,2019-11-17,2019-11-23,47,3021,state,Oregon,At or Above Threshold,2019,2019-47,OR
+59,NA,NA,0.037,1,1,26,725,27,48,State,All,2019-11-24,2019-11-30,48,3022,state,Oregon,At or Above Threshold,2019,2019-48,OR
+59,NA,NA,0.047,1,0,33,708,33,49,State,All,2019-12-01,2019-12-07,49,3023,state,Oregon,At or Above Threshold,2019,2019-49,OR
+59,NA,NA,0.046,1,0,35,753,35,50,State,All,2019-12-08,2019-12-14,50,3024,state,Oregon,At or Above Threshold,2019,2019-50,OR
+59,NA,NA,0.046,1,0,34,743,34,51,State,All,2019-12-15,2019-12-21,51,3025,state,Oregon,At or Above Threshold,2019,2019-51,OR
+59,NA,NA,0.053,1,1,38,735,39,52,State,All,2019-12-22,2019-12-28,52,3026,state,Oregon,At or Above Threshold,2019,2019-52,OR
+59,NA,NA,0.073,1,11,42,728,53,1,State,All,2019-12-29,2020-01-04,1,3027,state,Oregon,At or Above Threshold,2019,2019-01,OR
+59,NA,NA,0.057,1,5,38,760,43,2,State,All,2020-01-05,2020-01-11,2,3028,state,Oregon,At or Above Threshold,2020,2020-2,OR
+59,NA,NA,0.075,1,7,51,770,58,3,State,All,2020-01-12,2020-01-18,3,3029,state,Oregon,At or Above Threshold,2020,2020-3,OR
+59,NA,NA,0.052,1,6,33,748,39,4,State,All,2020-01-19,2020-01-25,4,3030,state,Oregon,At or Above Threshold,2020,2020-4,OR
+59,NA,NA,0.052,1,5,31,695,36,5,State,All,2020-01-26,2020-02-01,5,3031,state,Oregon,At or Above Threshold,2020,2020-5,OR
+59,NA,NA,0.058,1,6,34,693,40,6,State,All,2020-02-02,2020-02-08,6,3032,state,Oregon,At or Above Threshold,2020,2020-6,OR
+59,NA,NA,0.048,0.99,1,31,668,32,7,State,All,2020-02-09,2020-02-15,7,3033,state,Oregon,At or Above Threshold,2020,2020-7,OR
+59,NA,NA,0.055,0.75,3,25,506,28,8,State,All,2020-02-16,2020-02-22,8,3034,state,Oregon,At or Above Threshold,2020,2020-8,OR
+59,NA,NA,0.055,0.458,3,14,309,17,9,State,All,2020-02-23,2020-02-29,9,3035,state,Oregon,At or Above Threshold,2020,2020-9,OR
+59,NA,NA,0.047,0.92,2,106,2321,108,40,State,All,2019-09-29,2019-10-05,40,3014,state,Pennsylvania,At or Above Threshold,2019,2019-40,PA
+59,NA,NA,0.041,0.91,0,95,2296,95,41,State,All,2019-10-06,2019-10-12,41,3015,state,Pennsylvania,At or Above Threshold,2019,2019-41,PA
+59,NA,NA,0.056,0.994,0,140,2507,140,42,State,All,2019-10-13,2019-10-19,42,3016,state,Pennsylvania,At or Above Threshold,2019,2019-42,PA
+59,NA,NA,0.052,0.989,0,129,2494,129,43,State,All,2019-10-20,2019-10-26,43,3017,state,Pennsylvania,At or Above Threshold,2019,2019-43,PA
+59,NA,NA,0.045,0.994,3,110,2507,113,44,State,All,2019-10-27,2019-11-02,44,3018,state,Pennsylvania,At or Above Threshold,2019,2019-44,PA
+59,NA,NA,0.046,0.982,0,114,2476,114,45,State,All,2019-11-03,2019-11-09,45,3019,state,Pennsylvania,At or Above Threshold,2019,2019-45,PA
+59,NA,NA,0.053,1,2,136,2620,138,46,State,All,2019-11-10,2019-11-16,46,3020,state,Pennsylvania,At or Above Threshold,2019,2019-46,PA
+59,NA,NA,0.045,0.986,1,112,2488,113,47,State,All,2019-11-17,2019-11-23,47,3021,state,Pennsylvania,At or Above Threshold,2019,2019-47,PA
+59,NA,NA,0.042,1,0,107,2526,107,48,State,All,2019-11-24,2019-11-30,48,3022,state,Pennsylvania,At or Above Threshold,2019,2019-48,PA
+59,NA,NA,0.047,1,0,123,2621,123,49,State,All,2019-12-01,2019-12-07,49,3023,state,Pennsylvania,At or Above Threshold,2019,2019-49,PA
+59,NA,NA,0.048,1,2,129,2706,131,50,State,All,2019-12-08,2019-12-14,50,3024,state,Pennsylvania,At or Above Threshold,2019,2019-50,PA
+59,NA,NA,0.049,1,4,128,2694,132,51,State,All,2019-12-15,2019-12-21,51,3025,state,Pennsylvania,At or Above Threshold,2019,2019-51,PA
+59,NA,NA,0.051,1,3,131,2629,134,52,State,All,2019-12-22,2019-12-28,52,3026,state,Pennsylvania,At or Above Threshold,2019,2019-52,PA
+59,NA,NA,0.066,0.938,12,145,2367,157,1,State,All,2019-12-29,2020-01-04,1,3027,state,Pennsylvania,At or Above Threshold,2019,2019-01,PA
+59,NA,NA,0.057,0.833,11,109,2101,120,2,State,All,2020-01-05,2020-01-11,2,3028,state,Pennsylvania,At or Above Threshold,2020,2020-2,PA
+59,NA,NA,0.06,0.79,12,107,1993,119,3,State,All,2020-01-12,2020-01-18,3,3029,state,Pennsylvania,At or Above Threshold,2020,2020-3,PA
+59,NA,NA,0.067,0.78,19,113,1967,132,4,State,All,2020-01-19,2020-01-25,4,3030,state,Pennsylvania,At or Above Threshold,2020,2020-4,PA
+59,NA,NA,0.06,0.763,9,107,1925,116,5,State,All,2020-01-26,2020-02-01,5,3031,state,Pennsylvania,At or Above Threshold,2020,2020-5,PA
+59,NA,NA,0.052,0.772,14,88,1948,102,6,State,All,2020-02-02,2020-02-08,6,3032,state,Pennsylvania,At or Above Threshold,2020,2020-6,PA
+59,NA,NA,0.068,0.749,15,113,1890,128,7,State,All,2020-02-09,2020-02-15,7,3033,state,Pennsylvania,At or Above Threshold,2020,2020-7,PA
+59,NA,NA,0.059,0.728,12,96,1837,108,8,State,All,2020-02-16,2020-02-22,8,3034,state,Pennsylvania,At or Above Threshold,2020,2020-8,PA
+59,NA,NA,0.054,0.637,9,78,1607,87,9,State,All,2020-02-23,2020-02-29,9,3035,state,Pennsylvania,At or Above Threshold,2020,2020-9,PA
+59,NA,NA,0.033,0.969,0,6,184,6,40,State,All,2019-09-29,2019-10-05,40,3014,state,Rhode Island,At or Above Threshold,2019,2019-40,RI
+59,NA,NA,0.068,1,0,13,192,13,41,State,All,2019-10-06,2019-10-12,41,3015,state,Rhode Island,At or Above Threshold,2019,2019-41,RI
+59,NA,NA,0.051,1,0,10,196,10,42,State,All,2019-10-13,2019-10-19,42,3016,state,Rhode Island,At or Above Threshold,2019,2019-42,RI
+59,NA,NA,0.067,0.938,0,12,178,12,43,State,All,2019-10-20,2019-10-26,43,3017,state,Rhode Island,At or Above Threshold,2019,2019-43,RI
+59,NA,NA,0.053,0.996,0,10,189,10,44,State,All,2019-10-27,2019-11-02,44,3018,state,Rhode Island,At or Above Threshold,2019,2019-44,RI
+59,NA,NA,0.042,0.996,0,8,189,8,45,State,All,2019-11-03,2019-11-09,45,3019,state,Rhode Island,At or Above Threshold,2019,2019-45,RI
+59,NA,NA,0.038,0.98,0,7,186,7,46,State,All,2019-11-10,2019-11-16,46,3020,state,Rhode Island,At or Above Threshold,2019,2019-46,RI
+59,NA,NA,0.051,1,0,11,215,11,47,State,All,2019-11-17,2019-11-23,47,3021,state,Rhode Island,At or Above Threshold,2019,2019-47,RI
+59,NA,NA,0.054,1,0,11,205,11,48,State,All,2019-11-24,2019-11-30,48,3022,state,Rhode Island,At or Above Threshold,2019,2019-48,RI
+59,NA,NA,0.066,1,0,14,213,14,49,State,All,2019-12-01,2019-12-07,49,3023,state,Rhode Island,At or Above Threshold,2019,2019-49,RI
+59,NA,NA,0.056,0.938,0,10,178,10,50,State,All,2019-12-08,2019-12-14,50,3024,state,Rhode Island,At or Above Threshold,2019,2019-50,RI
+59,NA,NA,0.062,1,1,12,211,13,51,State,All,2019-12-15,2019-12-21,51,3025,state,Rhode Island,At or Above Threshold,2019,2019-51,RI
+59,NA,NA,0.043,1,0,9,210,9,52,State,All,2019-12-22,2019-12-28,52,3026,state,Rhode Island,At or Above Threshold,2019,2019-52,RI
+59,NA,NA,0.072,1,1,15,223,16,1,State,All,2019-12-29,2020-01-04,1,3027,state,Rhode Island,At or Above Threshold,2019,2019-01,RI
+59,NA,NA,0.107,1,4,17,197,21,2,State,All,2020-01-05,2020-01-11,2,3028,state,Rhode Island,At or Above Threshold,2020,2020-2,RI
+59,NA,NA,0.049,1,2,8,205,10,3,State,All,2020-01-12,2020-01-18,3,3029,state,Rhode Island,At or Above Threshold,2020,2020-3,RI
+59,NA,NA,0.079,0.996,1,14,189,15,4,State,All,2020-01-19,2020-01-25,4,3030,state,Rhode Island,At or Above Threshold,2020,2020-4,RI
+59,NA,NA,0.039,1,2,6,204,8,5,State,All,2020-01-26,2020-02-01,5,3031,state,Rhode Island,At or Above Threshold,2020,2020-5,RI
+59,NA,NA,0.01,1,1,1,195,2,6,State,All,2020-02-02,2020-02-08,6,3032,state,Rhode Island,At or Above Threshold,2020,2020-6,RI
+59,NA,NA,0.087,0.727,2,10,138,12,7,State,All,2020-02-09,2020-02-15,7,3033,state,Rhode Island,At or Above Threshold,2020,2020-7,RI
+59,NA,NA,0.02,0.516,0,2,98,2,8,State,All,2020-02-16,2020-02-22,8,3034,state,Rhode Island,At or Above Threshold,2020,2020-8,RI
+59,NA,NA,0.1,0.211,0,4,40,4,9,State,All,2020-02-23,2020-02-29,9,3035,state,Rhode Island,At or Above Threshold,2020,2020-9,RI
+59,NA,NA,0.042,1,1,40,974,41,40,State,All,2019-09-29,2019-10-05,40,3014,state,South Carolina,At or Above Threshold,2019,2019-40,SC
+59,NA,NA,0.044,1,0,41,924,41,41,State,All,2019-10-06,2019-10-12,41,3015,state,South Carolina,At or Above Threshold,2019,2019-41,SC
+59,NA,NA,0.053,1,0,48,909,48,42,State,All,2019-10-13,2019-10-19,42,3016,state,South Carolina,At or Above Threshold,2019,2019-42,SC
+59,NA,NA,0.057,1,0,56,984,56,43,State,All,2019-10-20,2019-10-26,43,3017,state,South Carolina,At or Above Threshold,2019,2019-43,SC
+59,NA,NA,0.049,1,0,47,965,47,44,State,All,2019-10-27,2019-11-02,44,3018,state,South Carolina,At or Above Threshold,2019,2019-44,SC
+59,NA,NA,0.054,1,1,50,944,51,45,State,All,2019-11-03,2019-11-09,45,3019,state,South Carolina,At or Above Threshold,2019,2019-45,SC
+59,NA,NA,0.068,1,1,64,953,65,46,State,All,2019-11-10,2019-11-16,46,3020,state,South Carolina,At or Above Threshold,2019,2019-46,SC
+59,NA,NA,0.064,1,2,61,990,63,47,State,All,2019-11-17,2019-11-23,47,3021,state,South Carolina,At or Above Threshold,2019,2019-47,SC
+59,NA,NA,0.057,1,2,56,1024,58,48,State,All,2019-11-24,2019-11-30,48,3022,state,South Carolina,At or Above Threshold,2019,2019-48,SC
+59,NA,NA,0.058,1,4,58,1071,62,49,State,All,2019-12-01,2019-12-07,49,3023,state,South Carolina,At or Above Threshold,2019,2019-49,SC
+59,NA,NA,0.057,1,1,60,1064,61,50,State,All,2019-12-08,2019-12-14,50,3024,state,South Carolina,At or Above Threshold,2019,2019-50,SC
+59,NA,NA,0.06,1,0,64,1059,64,51,State,All,2019-12-15,2019-12-21,51,3025,state,South Carolina,At or Above Threshold,2019,2019-51,SC
+59,NA,NA,0.06,1,6,55,1022,61,52,State,All,2019-12-22,2019-12-28,52,3026,state,South Carolina,At or Above Threshold,2019,2019-52,SC
+59,NA,NA,0.087,1,13,82,1088,95,1,State,All,2019-12-29,2020-01-04,1,3027,state,South Carolina,At or Above Threshold,2019,2019-01,SC
+59,NA,NA,0.071,1,10,67,1084,77,2,State,All,2020-01-05,2020-01-11,2,3028,state,South Carolina,At or Above Threshold,2020,2020-2,SC
+59,NA,NA,0.072,1,9,67,1058,76,3,State,All,2020-01-12,2020-01-18,3,3029,state,South Carolina,At or Above Threshold,2020,2020-3,SC
+59,NA,NA,0.058,1,8,51,1023,59,4,State,All,2020-01-19,2020-01-25,4,3030,state,South Carolina,At or Above Threshold,2020,2020-4,SC
+59,NA,NA,0.066,1,9,57,1001,66,5,State,All,2020-01-26,2020-02-01,5,3031,state,South Carolina,At or Above Threshold,2020,2020-5,SC
+59,NA,NA,0.068,1,16,56,1061,72,6,State,All,2020-02-02,2020-02-08,6,3032,state,South Carolina,At or Above Threshold,2020,2020-6,SC
+59,NA,NA,0.082,1,13,63,925,76,7,State,All,2020-02-09,2020-02-15,7,3033,state,South Carolina,At or Above Threshold,2020,2020-7,SC
+59,NA,NA,0.051,0.9,6,35,809,41,8,State,All,2020-02-16,2020-02-22,8,3034,state,South Carolina,At or Above Threshold,2020,2020-8,SC
+59,NA,NA,0.049,0.688,5,25,618,30,9,State,All,2020-02-23,2020-02-29,9,3035,state,South Carolina,At or Above Threshold,2020,2020-9,SC
+59,NA,NA,0.082,1,0,13,159,13,40,State,All,2019-09-29,2019-10-05,40,3014,state,South Dakota,At or Above Threshold,2019,2019-40,SD
+59,NA,NA,0.082,0.999,0,12,146,12,41,State,All,2019-10-06,2019-10-12,41,3015,state,South Dakota,At or Above Threshold,2019,2019-41,SD
+59,NA,NA,0.091,1,0,15,165,15,42,State,All,2019-10-13,2019-10-19,42,3016,state,South Dakota,At or Above Threshold,2019,2019-42,SD
+59,NA,NA,0.104,1,0,16,154,16,43,State,All,2019-10-20,2019-10-26,43,3017,state,South Dakota,At or Above Threshold,2019,2019-43,SD
+59,NA,NA,0.063,1,0,10,160,10,44,State,All,2019-10-27,2019-11-02,44,3018,state,South Dakota,At or Above Threshold,2019,2019-44,SD
+59,NA,NA,0.065,1,0,11,168,11,45,State,All,2019-11-03,2019-11-09,45,3019,state,South Dakota,At or Above Threshold,2019,2019-45,SD
+59,NA,NA,0.055,1,0,10,181,10,46,State,All,2019-11-10,2019-11-16,46,3020,state,South Dakota,At or Above Threshold,2019,2019-46,SD
+59,NA,NA,0.035,1,0,6,173,6,47,State,All,2019-11-17,2019-11-23,47,3021,state,South Dakota,At or Above Threshold,2019,2019-47,SD
+59,NA,NA,0.074,0.93,0,10,136,10,48,State,All,2019-11-24,2019-11-30,48,3022,state,South Dakota,At or Above Threshold,2019,2019-48,SD
+59,NA,NA,0.098,1,0,17,173,17,49,State,All,2019-12-01,2019-12-07,49,3023,state,South Dakota,At or Above Threshold,2019,2019-49,SD
+59,NA,NA,0.062,0.992,0,9,145,9,50,State,All,2019-12-08,2019-12-14,50,3024,state,South Dakota,At or Above Threshold,2019,2019-50,SD
+59,NA,NA,0.101,1,0,15,148,15,51,State,All,2019-12-15,2019-12-21,51,3025,state,South Dakota,At or Above Threshold,2019,2019-51,SD
+59,NA,NA,0.065,1,1,10,168,11,52,State,All,2019-12-22,2019-12-28,52,3026,state,South Dakota,At or Above Threshold,2019,2019-52,SD
+59,NA,NA,0.1,1,0,17,170,17,1,State,All,2019-12-29,2020-01-04,1,3027,state,South Dakota,At or Above Threshold,2019,2019-01,SD
+59,NA,NA,0.094,1,1,14,159,15,2,State,All,2020-01-05,2020-01-11,2,3028,state,South Dakota,At or Above Threshold,2020,2020-2,SD
+59,NA,NA,0.099,1,1,15,161,16,3,State,All,2020-01-12,2020-01-18,3,3029,state,South Dakota,At or Above Threshold,2020,2020-3,SD
+59,NA,NA,0.087,1,2,11,150,13,4,State,All,2020-01-19,2020-01-25,4,3030,state,South Dakota,At or Above Threshold,2020,2020-4,SD
+59,NA,NA,0.061,1,0,10,164,10,5,State,All,2020-01-26,2020-02-01,5,3031,state,South Dakota,At or Above Threshold,2020,2020-5,SD
+59,NA,NA,0.118,0.985,3,14,144,17,6,State,All,2020-02-02,2020-02-08,6,3032,state,South Dakota,At or Above Threshold,2020,2020-6,SD
+59,NA,NA,0.064,1,3,7,157,10,7,State,All,2020-02-09,2020-02-15,7,3033,state,South Dakota,At or Above Threshold,2020,2020-7,SD
+59,NA,NA,0.054,0.889,1,6,130,7,8,State,All,2020-02-16,2020-02-22,8,3034,state,South Dakota,At or Above Threshold,2020,2020-8,SD
+59,NA,NA,0.075,0.547,1,5,80,6,9,State,All,2020-02-23,2020-02-29,9,3035,state,South Dakota,At or Above Threshold,2020,2020-9,SD
+59,NA,NA,0.056,1,1,72,1303,73,40,State,All,2019-09-29,2019-10-05,40,3014,state,Tennessee,At or Above Threshold,2019,2019-40,TN
+59,NA,NA,0.037,1,0,48,1290,48,41,State,All,2019-10-06,2019-10-12,41,3015,state,Tennessee,At or Above Threshold,2019,2019-41,TN
+59,NA,NA,0.06,1,0,83,1376,83,42,State,All,2019-10-13,2019-10-19,42,3016,state,Tennessee,At or Above Threshold,2019,2019-42,TN
+59,NA,NA,0.054,1,2,76,1443,78,43,State,All,2019-10-20,2019-10-26,43,3017,state,Tennessee,At or Above Threshold,2019,2019-43,TN
+59,NA,NA,0.046,1,0,60,1304,60,44,State,All,2019-10-27,2019-11-02,44,3018,state,Tennessee,At or Above Threshold,2019,2019-44,TN
+59,NA,NA,0.052,1,1,73,1421,74,45,State,All,2019-11-03,2019-11-09,45,3019,state,Tennessee,At or Above Threshold,2019,2019-45,TN
+59,NA,NA,0.055,1,0,76,1381,76,46,State,All,2019-11-10,2019-11-16,46,3020,state,Tennessee,At or Above Threshold,2019,2019-46,TN
+59,NA,NA,0.063,1,1,89,1419,90,47,State,All,2019-11-17,2019-11-23,47,3021,state,Tennessee,At or Above Threshold,2019,2019-47,TN
+59,NA,NA,0.058,1,5,76,1393,81,48,State,All,2019-11-24,2019-11-30,48,3022,state,Tennessee,At or Above Threshold,2019,2019-48,TN
+59,NA,NA,0.074,1,7,103,1483,110,49,State,All,2019-12-01,2019-12-07,49,3023,state,Tennessee,At or Above Threshold,2019,2019-49,TN
+59,NA,NA,0.087,1,7,121,1475,128,50,State,All,2019-12-08,2019-12-14,50,3024,state,Tennessee,At or Above Threshold,2019,2019-50,TN
+59,NA,NA,0.07,1,9,92,1433,101,51,State,All,2019-12-15,2019-12-21,51,3025,state,Tennessee,At or Above Threshold,2019,2019-51,TN
+59,NA,NA,0.085,1,12,117,1521,129,52,State,All,2019-12-22,2019-12-28,52,3026,state,Tennessee,At or Above Threshold,2019,2019-52,TN
+59,NA,NA,0.09,1,22,116,1541,138,1,State,All,2019-12-29,2020-01-04,1,3027,state,Tennessee,At or Above Threshold,2019,2019-01,TN
+59,NA,NA,0.105,1,26,141,1583,167,2,State,All,2020-01-05,2020-01-11,2,3028,state,Tennessee,At or Above Threshold,2020,2020-2,TN
+59,NA,NA,0.096,1,16,127,1482,143,3,State,All,2020-01-12,2020-01-18,3,3029,state,Tennessee,At or Above Threshold,2020,2020-3,TN
+59,NA,NA,0.084,1,17,103,1423,120,4,State,All,2020-01-19,2020-01-25,4,3030,state,Tennessee,At or Above Threshold,2020,2020-4,TN
+59,NA,NA,0.086,1,11,114,1456,125,5,State,All,2020-01-26,2020-02-01,5,3031,state,Tennessee,At or Above Threshold,2020,2020-5,TN
+59,NA,NA,0.078,1,12,102,1464,114,6,State,All,2020-02-02,2020-02-08,6,3032,state,Tennessee,At or Above Threshold,2020,2020-6,TN
+59,NA,NA,0.083,1,13,94,1286,107,7,State,All,2020-02-09,2020-02-15,7,3033,state,Tennessee,At or Above Threshold,2020,2020-7,TN
+59,NA,NA,0.07,1,9,81,1278,90,8,State,All,2020-02-16,2020-02-22,8,3034,state,Tennessee,At or Above Threshold,2020,2020-8,TN
+59,NA,NA,0.062,0.782,6,56,996,62,9,State,All,2020-02-23,2020-02-29,9,3035,state,Tennessee,At or Above Threshold,2020,2020-9,TN
+59,NA,NA,0.052,1,2,196,3798,198,40,State,All,2019-09-29,2019-10-05,40,3014,state,Texas,At or Above Threshold,2019,2019-40,TX
+59,NA,NA,0.059,1,2,225,3823,227,41,State,All,2019-10-06,2019-10-12,41,3015,state,Texas,At or Above Threshold,2019,2019-41,TX
+59,NA,NA,0.064,1,2,247,3893,249,42,State,All,2019-10-13,2019-10-19,42,3016,state,Texas,At or Above Threshold,2019,2019-42,TX
+59,NA,NA,0.057,1,4,218,3862,222,43,State,All,2019-10-20,2019-10-26,43,3017,state,Texas,At or Above Threshold,2019,2019-43,TX
+59,NA,NA,0.057,1,3,225,3983,228,44,State,All,2019-10-27,2019-11-02,44,3018,state,Texas,At or Above Threshold,2019,2019-44,TX
+59,NA,NA,0.055,1,5,217,4012,222,45,State,All,2019-11-03,2019-11-09,45,3019,state,Texas,At or Above Threshold,2019,2019-45,TX
+59,NA,NA,0.058,1,10,221,3990,231,46,State,All,2019-11-10,2019-11-16,46,3020,state,Texas,At or Above Threshold,2019,2019-46,TX
+59,NA,NA,0.061,1,8,247,4166,255,47,State,All,2019-11-17,2019-11-23,47,3021,state,Texas,At or Above Threshold,2019,2019-47,TX
+59,NA,NA,0.057,1,7,225,4053,232,48,State,All,2019-11-24,2019-11-30,48,3022,state,Texas,At or Above Threshold,2019,2019-48,TX
+59,NA,NA,0.063,1,17,236,4028,253,49,State,All,2019-12-01,2019-12-07,49,3023,state,Texas,At or Above Threshold,2019,2019-49,TX
+59,NA,NA,0.067,1,15,268,4214,283,50,State,All,2019-12-08,2019-12-14,50,3024,state,Texas,At or Above Threshold,2019,2019-50,TX
+59,NA,NA,0.071,1,17,280,4165,297,51,State,All,2019-12-15,2019-12-21,51,3025,state,Texas,At or Above Threshold,2019,2019-51,TX
+59,NA,NA,0.075,1,20,295,4220,315,52,State,All,2019-12-22,2019-12-28,52,3026,state,Texas,At or Above Threshold,2019,2019-52,TX
+59,NA,NA,0.079,1,39,292,4195,331,1,State,All,2019-12-29,2020-01-04,1,3027,state,Texas,At or Above Threshold,2019,2019-01,TX
+59,NA,NA,0.09,1,50,349,4416,399,2,State,All,2020-01-05,2020-01-11,2,3028,state,Texas,At or Above Threshold,2020,2020-2,TX
+59,NA,NA,0.077,1,40,279,4138,319,3,State,All,2020-01-12,2020-01-18,3,3029,state,Texas,At or Above Threshold,2020,2020-3,TX
+59,NA,NA,0.078,1,26,285,3988,311,4,State,All,2020-01-19,2020-01-25,4,3030,state,Texas,At or Above Threshold,2020,2020-4,TX
+59,NA,NA,0.069,1,27,248,3981,275,5,State,All,2020-01-26,2020-02-01,5,3031,state,Texas,At or Above Threshold,2020,2020-5,TX
+59,NA,NA,0.071,1,32,255,4049,287,6,State,All,2020-02-02,2020-02-08,6,3032,state,Texas,At or Above Threshold,2020,2020-6,TX
+59,NA,NA,0.075,1,36,259,3950,295,7,State,All,2020-02-09,2020-02-15,7,3033,state,Texas,At or Above Threshold,2020,2020-7,TX
+59,NA,NA,0.068,0.938,29,201,3387,230,8,State,All,2020-02-16,2020-02-22,8,3034,state,Texas,At or Above Threshold,2020,2020-8,TX
+59,NA,NA,0.075,0.668,19,163,2411,182,9,State,All,2020-02-23,2020-02-29,9,3035,state,Texas,At or Above Threshold,2020,2020-9,TX
+59,NA,NA,0.059,0.978,0,19,322,19,40,State,All,2019-09-29,2019-10-05,40,3014,state,Utah,At or Above Threshold,2019,2019-40,UT
+59,NA,NA,0.046,1,0,16,349,16,41,State,All,2019-10-06,2019-10-12,41,3015,state,Utah,At or Above Threshold,2019,2019-41,UT
+59,NA,NA,0.025,1,0,9,354,9,42,State,All,2019-10-13,2019-10-19,42,3016,state,Utah,At or Above Threshold,2019,2019-42,UT
+59,NA,NA,0.06,1,0,21,349,21,43,State,All,2019-10-20,2019-10-26,43,3017,state,Utah,At or Above Threshold,2019,2019-43,UT
+59,NA,NA,0.054,1,0,19,354,19,44,State,All,2019-10-27,2019-11-02,44,3018,state,Utah,At or Above Threshold,2019,2019-44,UT
+59,NA,NA,0.042,1,0,15,353,15,45,State,All,2019-11-03,2019-11-09,45,3019,state,Utah,At or Above Threshold,2019,2019-45,UT
+59,NA,NA,0.054,1,0,19,350,19,46,State,All,2019-11-10,2019-11-16,46,3020,state,Utah,At or Above Threshold,2019,2019-46,UT
+59,NA,NA,0.042,1,0,17,401,17,47,State,All,2019-11-17,2019-11-23,47,3021,state,Utah,At or Above Threshold,2019,2019-47,UT
+59,NA,NA,0.061,1,0,23,374,23,48,State,All,2019-11-24,2019-11-30,48,3022,state,Utah,At or Above Threshold,2019,2019-48,UT
+59,NA,NA,0.059,1,0,22,372,22,49,State,All,2019-12-01,2019-12-07,49,3023,state,Utah,At or Above Threshold,2019,2019-49,UT
+59,NA,NA,0.07,1,1,26,388,27,50,State,All,2019-12-08,2019-12-14,50,3024,state,Utah,At or Above Threshold,2019,2019-50,UT
+59,NA,NA,0.043,1,0,16,374,16,51,State,All,2019-12-15,2019-12-21,51,3025,state,Utah,At or Above Threshold,2019,2019-51,UT
+59,NA,NA,0.069,1,4,23,394,27,52,State,All,2019-12-22,2019-12-28,52,3026,state,Utah,At or Above Threshold,2019,2019-52,UT
+59,NA,NA,0.062,1,1,22,373,23,1,State,All,2019-12-29,2020-01-04,1,3027,state,Utah,At or Above Threshold,2019,2019-01,UT
+59,NA,NA,0.056,1,0,24,426,24,2,State,All,2020-01-05,2020-01-11,2,3028,state,Utah,At or Above Threshold,2020,2020-2,UT
+59,NA,NA,0.05,1,2,18,398,20,3,State,All,2020-01-12,2020-01-18,3,3029,state,Utah,At or Above Threshold,2020,2020-3,UT
+59,NA,NA,0.09,1,8,25,368,33,4,State,All,2020-01-19,2020-01-25,4,3030,state,Utah,At or Above Threshold,2020,2020-4,UT
+59,NA,NA,0.056,1,2,17,338,19,5,State,All,2020-01-26,2020-02-01,5,3031,state,Utah,At or Above Threshold,2020,2020-5,UT
+59,NA,NA,0.066,0.829,3,15,273,18,6,State,All,2020-02-02,2020-02-08,6,3032,state,Utah,At or Above Threshold,2020,2020-6,UT
+59,NA,NA,0.04,1,4,12,402,16,7,State,All,2020-02-09,2020-02-15,7,3033,state,Utah,At or Above Threshold,2020,2020-7,UT
+59,NA,NA,0.049,1,3,14,348,17,8,State,All,2020-02-16,2020-02-22,8,3034,state,Utah,At or Above Threshold,2020,2020-8,UT
+59,NA,NA,0.073,0.921,1,21,303,22,9,State,All,2020-02-23,2020-02-29,9,3035,state,Utah,At or Above Threshold,2020,2020-9,UT
+59,NA,NA,0.065,0.989,0,7,108,7,40,State,All,2019-09-29,2019-10-05,40,3014,state,Vermont,At or Above Threshold,2019,2019-40,VT
+59,NA,NA,0.028,0.979,0,3,107,3,41,State,All,2019-10-06,2019-10-12,41,3015,state,Vermont,At or Above Threshold,2019,2019-41,VT
+59,NA,NA,0.075,1,0,9,120,9,42,State,All,2019-10-13,2019-10-19,42,3016,state,Vermont,At or Above Threshold,2019,2019-42,VT
+59,NA,NA,0.044,1,0,5,114,5,43,State,All,2019-10-20,2019-10-26,43,3017,state,Vermont,At or Above Threshold,2019,2019-43,VT
+59,NA,NA,0.036,1,0,4,112,4,44,State,All,2019-10-27,2019-11-02,44,3018,state,Vermont,At or Above Threshold,2019,2019-44,VT
+59,NA,NA,0.109,1,0,14,129,14,45,State,All,2019-11-03,2019-11-09,45,3019,state,Vermont,At or Above Threshold,2019,2019-45,VT
+59,NA,NA,0.056,0.989,0,6,108,6,46,State,All,2019-11-10,2019-11-16,46,3020,state,Vermont,At or Above Threshold,2019,2019-46,VT
+59,NA,NA,0.051,1,0,6,117,6,47,State,All,2019-11-17,2019-11-23,47,3021,state,Vermont,At or Above Threshold,2019,2019-47,VT
+59,NA,NA,0.017,1,0,2,116,2,48,State,All,2019-11-24,2019-11-30,48,3022,state,Vermont,At or Above Threshold,2019,2019-48,VT
+59,NA,NA,0.01,0.943,0,1,103,1,49,State,All,2019-12-01,2019-12-07,49,3023,state,Vermont,At or Above Threshold,2019,2019-49,VT
+59,NA,NA,0.061,1,0,7,114,7,50,State,All,2019-12-08,2019-12-14,50,3024,state,Vermont,At or Above Threshold,2019,2019-50,VT
+59,NA,NA,0.079,1,1,9,126,10,51,State,All,2019-12-15,2019-12-21,51,3025,state,Vermont,At or Above Threshold,2019,2019-51,VT
+59,NA,NA,0.083,0.998,1,8,109,9,52,State,All,2019-12-22,2019-12-28,52,3026,state,Vermont,At or Above Threshold,2019,2019-52,VT
+59,NA,NA,0.05,0.924,0,5,101,5,1,State,All,2019-12-29,2020-01-04,1,3027,state,Vermont,At or Above Threshold,2019,2019-01,VT
+59,NA,NA,0.078,1,0,9,116,9,2,State,All,2020-01-05,2020-01-11,2,3028,state,Vermont,At or Above Threshold,2020,2020-2,VT
+59,NA,NA,0.08,1,2,9,137,11,3,State,All,2020-01-12,2020-01-18,3,3029,state,Vermont,At or Above Threshold,2020,2020-3,VT
+59,NA,NA,0.086,1,1,9,116,10,4,State,All,2020-01-19,2020-01-25,4,3030,state,Vermont,At or Above Threshold,2020,2020-4,VT
+59,NA,NA,0.084,0.979,3,6,107,9,5,State,All,2020-01-26,2020-02-01,5,3031,state,Vermont,At or Above Threshold,2020,2020-5,VT
+59,NA,NA,0.043,1,2,3,115,5,6,State,All,2020-02-02,2020-02-08,6,3032,state,Vermont,At or Above Threshold,2020,2020-6,VT
+59,NA,NA,0.069,1,1,8,130,9,7,State,All,2020-02-09,2020-02-15,7,3033,state,Vermont,At or Above Threshold,2020,2020-7,VT
+59,NA,NA,0.067,0.952,0,7,104,7,8,State,All,2020-02-16,2020-02-22,8,3034,state,Vermont,At or Above Threshold,2020,2020-8,VT
+59,NA,NA,0.116,0.787,0,10,86,10,9,State,All,2020-02-23,2020-02-29,9,3035,state,Vermont,At or Above Threshold,2020,2020-9,VT
+59,NA,NA,0.045,1,0,58,1289,58,40,State,All,2019-09-29,2019-10-05,40,3014,state,Virginia,At or Above Threshold,2019,2019-40,VA
+59,NA,NA,0.04,1,1,50,1261,51,41,State,All,2019-10-06,2019-10-12,41,3015,state,Virginia,At or Above Threshold,2019,2019-41,VA
+59,NA,NA,0.05,1,2,63,1307,65,42,State,All,2019-10-13,2019-10-19,42,3016,state,Virginia,At or Above Threshold,2019,2019-42,VA
+59,NA,NA,0.049,1,1,64,1315,65,43,State,All,2019-10-20,2019-10-26,43,3017,state,Virginia,At or Above Threshold,2019,2019-43,VA
+59,NA,NA,0.042,1,1,56,1346,57,44,State,All,2019-10-27,2019-11-02,44,3018,state,Virginia,At or Above Threshold,2019,2019-44,VA
+59,NA,NA,0.041,1,2,51,1293,53,45,State,All,2019-11-03,2019-11-09,45,3019,state,Virginia,At or Above Threshold,2019,2019-45,VA
+59,NA,NA,0.048,1,0,64,1347,64,46,State,All,2019-11-10,2019-11-16,46,3020,state,Virginia,At or Above Threshold,2019,2019-46,VA
+59,NA,NA,0.039,1,1,52,1344,53,47,State,All,2019-11-17,2019-11-23,47,3021,state,Virginia,At or Above Threshold,2019,2019-47,VA
+59,NA,NA,0.038,1,0,54,1433,54,48,State,All,2019-11-24,2019-11-30,48,3022,state,Virginia,At or Above Threshold,2019,2019-48,VA
+59,NA,NA,0.056,1,3,72,1349,75,49,State,All,2019-12-01,2019-12-07,49,3023,state,Virginia,At or Above Threshold,2019,2019-49,VA
+59,NA,NA,0.049,1,0,69,1405,69,50,State,All,2019-12-08,2019-12-14,50,3024,state,Virginia,At or Above Threshold,2019,2019-50,VA
+59,NA,NA,0.049,1,2,67,1422,69,51,State,All,2019-12-15,2019-12-21,51,3025,state,Virginia,At or Above Threshold,2019,2019-51,VA
+59,NA,NA,0.052,1,3,71,1419,74,52,State,All,2019-12-22,2019-12-28,52,3026,state,Virginia,At or Above Threshold,2019,2019-52,VA
+59,NA,NA,0.06,1,8,78,1428,86,1,State,All,2019-12-29,2020-01-04,1,3027,state,Virginia,At or Above Threshold,2019,2019-01,VA
+59,NA,NA,0.06,1,6,86,1524,92,2,State,All,2020-01-05,2020-01-11,2,3028,state,Virginia,At or Above Threshold,2020,2020-2,VA
+59,NA,NA,0.053,1,5,70,1421,75,3,State,All,2020-01-12,2020-01-18,3,3029,state,Virginia,At or Above Threshold,2020,2020-3,VA
+59,NA,NA,0.062,1,15,63,1264,78,4,State,All,2020-01-19,2020-01-25,4,3030,state,Virginia,At or Above Threshold,2020,2020-4,VA
+59,NA,NA,0.059,1,8,74,1391,82,5,State,All,2020-01-26,2020-02-01,5,3031,state,Virginia,At or Above Threshold,2020,2020-5,VA
+59,NA,NA,0.051,1,10,65,1484,75,6,State,All,2020-02-02,2020-02-08,6,3032,state,Virginia,At or Above Threshold,2020,2020-6,VA
+59,NA,NA,0.048,1,8,54,1303,62,7,State,All,2020-02-09,2020-02-15,7,3033,state,Virginia,At or Above Threshold,2020,2020-7,VA
+59,NA,NA,0.055,1,5,66,1301,71,8,State,All,2020-02-16,2020-02-22,8,3034,state,Virginia,At or Above Threshold,2020,2020-8,VA
+59,NA,NA,0.059,0.842,14,48,1054,62,9,State,All,2020-02-23,2020-02-29,9,3035,state,Virginia,At or Above Threshold,2020,2020-9,VA
+59,NA,NA,0.045,1,1,47,1058,48,40,State,All,2019-09-29,2019-10-05,40,3014,state,Washington,At or Above Threshold,2019,2019-40,WA
+59,NA,NA,0.055,1,0,61,1109,61,41,State,All,2019-10-06,2019-10-12,41,3015,state,Washington,At or Above Threshold,2019,2019-41,WA
+59,NA,NA,0.054,1,0,59,1090,59,42,State,All,2019-10-13,2019-10-19,42,3016,state,Washington,At or Above Threshold,2019,2019-42,WA
+59,NA,NA,0.049,1,1,56,1163,57,43,State,All,2019-10-20,2019-10-26,43,3017,state,Washington,At or Above Threshold,2019,2019-43,WA
+59,NA,NA,0.06,1,0,68,1136,68,44,State,All,2019-10-27,2019-11-02,44,3018,state,Washington,At or Above Threshold,2019,2019-44,WA
+59,NA,NA,0.057,1,1,63,1128,64,45,State,All,2019-11-03,2019-11-09,45,3019,state,Washington,At or Above Threshold,2019,2019-45,WA
+59,NA,NA,0.053,1,2,57,1112,59,46,State,All,2019-11-10,2019-11-16,46,3020,state,Washington,At or Above Threshold,2019,2019-46,WA
+59,NA,NA,0.05,1,2,52,1071,54,47,State,All,2019-11-17,2019-11-23,47,3021,state,Washington,At or Above Threshold,2019,2019-47,WA
+59,NA,NA,0.052,1,2,55,1089,57,48,State,All,2019-11-24,2019-11-30,48,3022,state,Washington,At or Above Threshold,2019,2019-48,WA
+59,NA,NA,0.048,1,2,54,1160,56,49,State,All,2019-12-01,2019-12-07,49,3023,state,Washington,At or Above Threshold,2019,2019-49,WA
+59,NA,NA,0.069,1,3,75,1131,78,50,State,All,2019-12-08,2019-12-14,50,3024,state,Washington,At or Above Threshold,2019,2019-50,WA
+59,NA,NA,0.058,1,8,58,1145,66,51,State,All,2019-12-15,2019-12-21,51,3025,state,Washington,At or Above Threshold,2019,2019-51,WA
+59,NA,NA,0.051,0.934,6,43,963,49,52,State,All,2019-12-22,2019-12-28,52,3026,state,Washington,At or Above Threshold,2019,2019-52,WA
+59,NA,NA,0.072,1,11,65,1050,76,1,State,All,2019-12-29,2020-01-04,1,3027,state,Washington,At or Above Threshold,2019,2019-01,WA
+59,NA,NA,0.072,1,12,77,1244,89,2,State,All,2020-01-05,2020-01-11,2,3028,state,Washington,At or Above Threshold,2020,2020-2,WA
+59,NA,NA,0.064,1,12,65,1206,77,3,State,All,2020-01-12,2020-01-18,3,3029,state,Washington,At or Above Threshold,2020,2020-3,WA
+59,NA,NA,0.068,1,5,75,1178,80,4,State,All,2020-01-19,2020-01-25,4,3030,state,Washington,At or Above Threshold,2020,2020-4,WA
+59,NA,NA,0.066,1,7,71,1180,78,5,State,All,2020-01-26,2020-02-01,5,3031,state,Washington,At or Above Threshold,2020,2020-5,WA
+59,NA,NA,0.065,1,6,70,1162,76,6,State,All,2020-02-02,2020-02-08,6,3032,state,Washington,At or Above Threshold,2020,2020-6,WA
+59,NA,NA,0.08,1,11,80,1132,91,7,State,All,2020-02-09,2020-02-15,7,3033,state,Washington,At or Above Threshold,2020,2020-7,WA
+59,NA,NA,0.059,0.926,4,52,955,56,8,State,All,2020-02-16,2020-02-22,8,3034,state,Washington,At or Above Threshold,2020,2020-8,WA
+59,NA,NA,0.062,0.718,5,41,741,46,9,State,All,2020-02-23,2020-02-29,9,3035,state,Washington,At or Above Threshold,2020,2020-9,WA
+59,NA,NA,0.053,1,0,24,449,24,40,State,All,2019-09-29,2019-10-05,40,3014,state,West Virginia,At or Above Threshold,2019,2019-40,WV
+59,NA,NA,0.068,1,0,30,439,30,41,State,All,2019-10-06,2019-10-12,41,3015,state,West Virginia,At or Above Threshold,2019,2019-41,WV
+59,NA,NA,0.058,1,0,26,448,26,42,State,All,2019-10-13,2019-10-19,42,3016,state,West Virginia,At or Above Threshold,2019,2019-42,WV
+59,NA,NA,0.083,0.98,0,35,423,35,43,State,All,2019-10-20,2019-10-26,43,3017,state,West Virginia,At or Above Threshold,2019,2019-43,WV
+59,NA,NA,0.061,1,0,27,443,27,44,State,All,2019-10-27,2019-11-02,44,3018,state,West Virginia,At or Above Threshold,2019,2019-44,WV
+59,NA,NA,0.066,1,0,29,437,29,45,State,All,2019-11-03,2019-11-09,45,3019,state,West Virginia,At or Above Threshold,2019,2019-45,WV
+59,NA,NA,0.065,0.957,0,27,413,27,46,State,All,2019-11-10,2019-11-16,46,3020,state,West Virginia,At or Above Threshold,2019,2019-46,WV
+59,NA,NA,0.059,1,1,26,458,27,47,State,All,2019-11-17,2019-11-23,47,3021,state,West Virginia,At or Above Threshold,2019,2019-47,WV
+59,NA,NA,0.076,0.98,0,32,423,32,48,State,All,2019-11-24,2019-11-30,48,3022,state,West Virginia,At or Above Threshold,2019,2019-48,WV
+59,NA,NA,0.056,1,0,26,465,26,49,State,All,2019-12-01,2019-12-07,49,3023,state,West Virginia,At or Above Threshold,2019,2019-49,WV
+59,NA,NA,0.074,1,1,34,470,35,50,State,All,2019-12-08,2019-12-14,50,3024,state,West Virginia,At or Above Threshold,2019,2019-50,WV
+59,NA,NA,0.064,1,1,28,452,29,51,State,All,2019-12-15,2019-12-21,51,3025,state,West Virginia,At or Above Threshold,2019,2019-51,WV
+59,NA,NA,0.086,0.948,1,34,409,35,52,State,All,2019-12-22,2019-12-28,52,3026,state,West Virginia,At or Above Threshold,2019,2019-52,WV
+59,NA,NA,0.089,1,1,41,473,42,1,State,All,2019-12-29,2020-01-04,1,3027,state,West Virginia,At or Above Threshold,2019,2019-01,WV
+59,NA,NA,0.087,1,2,38,462,40,2,State,All,2020-01-05,2020-01-11,2,3028,state,West Virginia,At or Above Threshold,2020,2020-2,WV
+59,NA,NA,0.066,1,2,32,513,34,3,State,All,2020-01-12,2020-01-18,3,3029,state,West Virginia,At or Above Threshold,2020,2020-3,WV
+59,NA,NA,0.096,1,3,39,439,42,4,State,All,2020-01-19,2020-01-25,4,3030,state,West Virginia,At or Above Threshold,2020,2020-4,WV
+59,NA,NA,0.07,1,2,29,442,31,5,State,All,2020-01-26,2020-02-01,5,3031,state,West Virginia,At or Above Threshold,2020,2020-5,WV
+59,NA,NA,0.087,0.985,4,33,425,37,6,State,All,2020-02-02,2020-02-08,6,3032,state,West Virginia,At or Above Threshold,2020,2020-6,WV
+59,NA,NA,0.09,0.797,5,26,344,31,7,State,All,2020-02-09,2020-02-15,7,3033,state,West Virginia,At or Above Threshold,2020,2020-7,WV
+59,NA,NA,0.13,0.392,6,16,169,22,8,State,All,2020-02-16,2020-02-22,8,3034,state,West Virginia,At or Above Threshold,2020,2020-8,WV
+59,NA,NA,NA,0.2,NA,NA,NA,NA,9,State,All,2020-02-23,2020-02-29,9,3035,state,West Virginia,Normal levels,2020,2020-9,WV
+59,NA,NA,0.044,1,1,42,972,43,40,State,All,2019-09-29,2019-10-05,40,3014,state,Wisconsin,At or Above Threshold,2019,2019-40,WI
+59,NA,NA,0.04,1,2,41,1086,43,41,State,All,2019-10-06,2019-10-12,41,3015,state,Wisconsin,At or Above Threshold,2019,2019-41,WI
+59,NA,NA,0.044,1,1,47,1088,48,42,State,All,2019-10-13,2019-10-19,42,3016,state,Wisconsin,At or Above Threshold,2019,2019-42,WI
+59,NA,NA,0.058,1,1,62,1093,63,43,State,All,2019-10-20,2019-10-26,43,3017,state,Wisconsin,At or Above Threshold,2019,2019-43,WI
+59,NA,NA,0.059,1,0,63,1076,63,44,State,All,2019-10-27,2019-11-02,44,3018,state,Wisconsin,At or Above Threshold,2019,2019-44,WI
+59,NA,NA,0.046,1,0,50,1089,50,45,State,All,2019-11-03,2019-11-09,45,3019,state,Wisconsin,At or Above Threshold,2019,2019-45,WI
+59,NA,NA,0.053,1,0,55,1040,55,46,State,All,2019-11-10,2019-11-16,46,3020,state,Wisconsin,At or Above Threshold,2019,2019-46,WI
+59,NA,NA,0.045,1,0,48,1064,48,47,State,All,2019-11-17,2019-11-23,47,3021,state,Wisconsin,At or Above Threshold,2019,2019-47,WI
+59,NA,NA,0.051,1,0,53,1032,53,48,State,All,2019-11-24,2019-11-30,48,3022,state,Wisconsin,At or Above Threshold,2019,2019-48,WI
+59,NA,NA,0.045,1,2,48,1102,50,49,State,All,2019-12-01,2019-12-07,49,3023,state,Wisconsin,At or Above Threshold,2019,2019-49,WI
+59,NA,NA,0.043,1,2,46,1117,48,50,State,All,2019-12-08,2019-12-14,50,3024,state,Wisconsin,At or Above Threshold,2019,2019-50,WI
+59,NA,NA,0.063,1,1,65,1055,66,51,State,All,2019-12-15,2019-12-21,51,3025,state,Wisconsin,At or Above Threshold,2019,2019-51,WI
+59,NA,NA,0.043,1,3,44,1091,47,52,State,All,2019-12-22,2019-12-28,52,3026,state,Wisconsin,At or Above Threshold,2019,2019-52,WI
+59,NA,NA,0.057,1,2,61,1112,63,1,State,All,2019-12-29,2020-01-04,1,3027,state,Wisconsin,At or Above Threshold,2019,2019-01,WI
+59,NA,NA,0.062,1,8,58,1068,66,2,State,All,2020-01-05,2020-01-11,2,3028,state,Wisconsin,At or Above Threshold,2020,2020-2,WI
+59,NA,NA,0.046,1,1,52,1142,53,3,State,All,2020-01-12,2020-01-18,3,3029,state,Wisconsin,At or Above Threshold,2020,2020-3,WI
+59,NA,NA,0.056,1,4,57,1086,61,4,State,All,2020-01-19,2020-01-25,4,3030,state,Wisconsin,At or Above Threshold,2020,2020-4,WI
+59,NA,NA,0.058,1,3,66,1181,69,5,State,All,2020-01-26,2020-02-01,5,3031,state,Wisconsin,At or Above Threshold,2020,2020-5,WI
+59,NA,NA,0.05,1,5,46,1029,51,6,State,All,2020-02-02,2020-02-08,6,3032,state,Wisconsin,At or Above Threshold,2020,2020-6,WI
+59,NA,NA,0.074,1,9,72,1092,81,7,State,All,2020-02-09,2020-02-15,7,3033,state,Wisconsin,At or Above Threshold,2020,2020-7,WI
+59,NA,NA,0.061,1,14,51,1074,65,8,State,All,2020-02-16,2020-02-22,8,3034,state,Wisconsin,At or Above Threshold,2020,2020-8,WI
+59,NA,NA,0.058,0.854,11,37,821,48,9,State,All,2020-02-23,2020-02-29,9,3035,state,Wisconsin,At or Above Threshold,2020,2020-9,WI
+59,NA,NA,0.052,1,0,5,96,5,40,State,All,2019-09-29,2019-10-05,40,3014,state,Wyoming,At or Above Threshold,2019,2019-40,WY
+59,NA,NA,0.033,1,0,3,92,3,41,State,All,2019-10-06,2019-10-12,41,3015,state,Wyoming,At or Above Threshold,2019,2019-41,WY
+59,NA,NA,0.094,1,0,9,96,9,42,State,All,2019-10-13,2019-10-19,42,3016,state,Wyoming,At or Above Threshold,2019,2019-42,WY
+59,NA,NA,0.028,1,0,3,108,3,43,State,All,2019-10-20,2019-10-26,43,3017,state,Wyoming,At or Above Threshold,2019,2019-43,WY
+59,NA,NA,0.092,1,0,9,98,9,44,State,All,2019-10-27,2019-11-02,44,3018,state,Wyoming,At or Above Threshold,2019,2019-44,WY
+59,NA,NA,0.054,1,0,5,92,5,45,State,All,2019-11-03,2019-11-09,45,3019,state,Wyoming,At or Above Threshold,2019,2019-45,WY
+59,NA,NA,0.059,1,0,6,102,6,46,State,All,2019-11-10,2019-11-16,46,3020,state,Wyoming,At or Above Threshold,2019,2019-46,WY
+59,NA,NA,0.079,0.992,0,7,89,7,47,State,All,2019-11-17,2019-11-23,47,3021,state,Wyoming,At or Above Threshold,2019,2019-47,WY
+59,NA,NA,0.058,1,0,7,121,7,48,State,All,2019-11-24,2019-11-30,48,3022,state,Wyoming,At or Above Threshold,2019,2019-48,WY
+59,NA,NA,0.059,1,0,6,101,6,49,State,All,2019-12-01,2019-12-07,49,3023,state,Wyoming,At or Above Threshold,2019,2019-49,WY
+59,NA,NA,0.059,1,0,6,102,6,50,State,All,2019-12-08,2019-12-14,50,3024,state,Wyoming,At or Above Threshold,2019,2019-50,WY
+59,NA,NA,0.025,1,0,3,121,3,51,State,All,2019-12-15,2019-12-21,51,3025,state,Wyoming,At or Above Threshold,2019,2019-51,WY
+59,NA,NA,0.044,1,0,4,90,4,52,State,All,2019-12-22,2019-12-28,52,3026,state,Wyoming,At or Above Threshold,2019,2019-52,WY
+59,NA,NA,0.065,1,2,8,154,10,1,State,All,2019-12-29,2020-01-04,1,3027,state,Wyoming,At or Above Threshold,2019,2019-01,WY
+59,NA,NA,0.045,0.98,0,4,88,4,2,State,All,2020-01-05,2020-01-11,2,3028,state,Wyoming,At or Above Threshold,2020,2020-2,WY
+59,NA,NA,0.1,1,0,11,110,11,3,State,All,2020-01-12,2020-01-18,3,3029,state,Wyoming,At or Above Threshold,2020,2020-3,WY
+59,NA,NA,0.031,1,0,3,98,3,4,State,All,2020-01-19,2020-01-25,4,3030,state,Wyoming,At or Above Threshold,2020,2020-4,WY
+59,NA,NA,0.069,1,1,6,102,7,5,State,All,2020-01-26,2020-02-01,5,3031,state,Wyoming,At or Above Threshold,2020,2020-5,WY
+59,NA,NA,0.12,1,1,11,100,12,6,State,All,2020-02-02,2020-02-08,6,3032,state,Wyoming,At or Above Threshold,2020,2020-6,WY
+59,NA,NA,0.084,0.925,1,6,83,7,7,State,All,2020-02-09,2020-02-15,7,3033,state,Wyoming,At or Above Threshold,2020,2020-7,WY
+59,NA,NA,0.056,1,0,5,90,5,8,State,All,2020-02-16,2020-02-22,8,3034,state,Wyoming,At or Above Threshold,2020,2020-8,WY
+59,NA,NA,0.056,0.791,0,4,71,4,9,State,All,2020-02-23,2020-02-29,9,3035,state,Wyoming,At or Above Threshold,2020,2020-9,WY
+59,NA,NA,0.064,1,0,66,1025,66,40,State,All,2019-09-29,2019-10-05,40,3014,state,New York City,At or Above Threshold,2019,2019-40,NA
+59,NA,NA,0.076,1,0,81,1068,81,41,State,All,2019-10-06,2019-10-12,41,3015,state,New York City,At or Above Threshold,2019,2019-41,NA
+59,NA,NA,0.087,1,0,91,1045,91,42,State,All,2019-10-13,2019-10-19,42,3016,state,New York City,At or Above Threshold,2019,2019-42,NA
+59,NA,NA,0.062,1,0,65,1045,65,43,State,All,2019-10-20,2019-10-26,43,3017,state,New York City,At or Above Threshold,2019,2019-43,NA
+59,NA,NA,0.075,0.963,0,74,982,74,44,State,All,2019-10-27,2019-11-02,44,3018,state,New York City,At or Above Threshold,2019,2019-44,NA
+59,NA,NA,0.091,1,0,99,1091,99,45,State,All,2019-11-03,2019-11-09,45,3019,state,New York City,At or Above Threshold,2019,2019-45,NA
+59,NA,NA,0.071,1,0,77,1084,77,46,State,All,2019-11-10,2019-11-16,46,3020,state,New York City,At or Above Threshold,2019,2019-46,NA
+59,NA,NA,0.07,1,2,71,1043,73,47,State,All,2019-11-17,2019-11-23,47,3021,state,New York City,At or Above Threshold,2019,2019-47,NA
+59,NA,NA,0.069,1,0,71,1023,71,48,State,All,2019-11-24,2019-11-30,48,3022,state,New York City,At or Above Threshold,2019,2019-48,NA
+59,NA,NA,0.074,1,2,82,1134,84,49,State,All,2019-12-01,2019-12-07,49,3023,state,New York City,At or Above Threshold,2019,2019-49,NA
+59,NA,NA,0.085,1,4,91,1120,95,50,State,All,2019-12-08,2019-12-14,50,3024,state,New York City,At or Above Threshold,2019,2019-50,NA
+59,NA,NA,0.072,1,2,77,1097,79,51,State,All,2019-12-15,2019-12-21,51,3025,state,New York City,At or Above Threshold,2019,2019-51,NA
+59,NA,NA,0.093,1,6,100,1143,106,52,State,All,2019-12-22,2019-12-28,52,3026,state,New York City,At or Above Threshold,2019,2019-52,NA
+59,NA,NA,0.085,1,11,77,1030,88,1,State,All,2019-12-29,2020-01-04,1,3027,state,New York City,At or Above Threshold,2019,2019-01,NA
+59,NA,NA,0.087,1,6,88,1082,94,2,State,All,2020-01-05,2020-01-11,2,3028,state,New York City,At or Above Threshold,2020,2020-2,NA
+59,NA,NA,0.097,1,14,95,1124,109,3,State,All,2020-01-12,2020-01-18,3,3029,state,New York City,At or Above Threshold,2020,2020-3,NA
+59,NA,NA,0.102,1,11,107,1162,118,4,State,All,2020-01-19,2020-01-25,4,3030,state,New York City,At or Above Threshold,2020,2020-4,NA
+59,NA,NA,0.1,1,19,95,1143,114,5,State,All,2020-01-26,2020-02-01,5,3031,state,New York City,At or Above Threshold,2020,2020-5,NA
+59,NA,NA,0.1,1,15,98,1134,113,6,State,All,2020-02-02,2020-02-08,6,3032,state,New York City,At or Above Threshold,2020,2020-6,NA
+59,NA,NA,0.086,1,12,83,1110,95,7,State,All,2020-02-09,2020-02-15,7,3033,state,New York City,At or Above Threshold,2020,2020-7,NA
+59,NA,NA,0.077,1,10,70,1033,80,8,State,All,2020-02-16,2020-02-22,8,3034,state,New York City,At or Above Threshold,2020,2020-8,NA
+59,NA,NA,0.088,0.993,7,82,1012,89,9,State,All,2020-02-23,2020-02-29,9,3035,state,New York City,At or Above Threshold,2020,2020-9,NA
