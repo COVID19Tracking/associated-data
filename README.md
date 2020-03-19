@@ -3,7 +3,14 @@ For associated data that can be linke to or combined with [CovidTracking](https:
 This includes data on ventilators, clinics and hospital beds, census demographics, flu rates, and city policies.
 
 # Data sets
-Collections of datasets.
+Collections of relevant datasets to combine with testing data.
+
+* **acs_health_insurance**: Health insurance rates by state from the American Community Survey, using 2013-2018 data (also includes data by age and employment status)
+* **cdc_flu_data_season_2019**: Data from the CDC Fluview data set for the current season (starting 2019), including state-level information on ILINet (influenza-like illness) surveillance data and pneumonia and influenza mortality, and national-level hospitalizations for influenza and pneumonia 
+* **kff_hospital_beds**: Hospital beds per capita by state from the Kaiser Family Foundation - 2018 data (the most recent available)
+* **us_census_data**: Estimated population data and population density by state and county (plus age breakdown) from 2018, courtesy of the US Census
+
+## Other Data :
 
 ## Global
 * [JHU primary data source](https://github.com/CSSEGISandData/COVID-19) 
@@ -12,7 +19,6 @@ Collections of datasets.
 
 ## National and local data
 * [Korean datasets](https://www.kaggle.com/kimjihoo/coronavirusdataset) on Kaggle
-* [US Census data](https://drive.google.com/drive/folders/1RW4RIdFvnibctFpmofEFwBAtfUn7sZHg)  c
 
 ## Other catalogs of data
 * [Geoff Hing](https://docs.google.com/document/d/198Boji2CYCEtbQ1OPc3swNnzD5cEudy4f8KKsMUI7F8/edit#)
