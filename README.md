@@ -53,5 +53,10 @@ Overviews and dashboards drawing from multiple data sources (to mine for sources
 
 # Data models and visualizations, static and dynamic
 
-* Tomas Pueyo: [Act Today](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) | 
+* Tomas Pueyo: [Why you must act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) | [The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 * [Don't be Italy](https://observablehq.com/@yurivish/dont-be-italy)
+
+## Using our data:
+*  [CovidCompare](http://covidcompare.com) ([discussion](https://forums.fast.ai/t/help-with-algorithm-for-covid19-relative-risk/65328))
+*  [Our World in Data, on COVID-19](https://ourworldindata.org/covid-testing)
+* Politico: [3/17](https://www.politico.com/interactives/2020/coronavirus-testing-by-state-chart-of-new-cases/)
