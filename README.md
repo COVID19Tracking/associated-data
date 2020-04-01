@@ -9,6 +9,7 @@ Collections of relevant datasets to combine with testing data.
 * **cdc_flu_data_season_2019**: Data from the CDC Fluview data set for the current season (starting 2019), including state-level information on ILINet (influenza-like illness) surveillance data and pneumonia and influenza mortality, and national-level hospitalizations for influenza and pneumonia 
 * **kff_hospital_beds**: Hospital beds per capita by state from the Kaiser Family Foundation - 2018 data (the most recent available)
 * **us_census_data**: Estimated population data and population density by state and county (plus age breakdown) from 2018, courtesy of the US Census
+* [hyperknot](https://github.com/hyperknot/country-levels/releases) : Full planet GeoJSON extracts, based on ISO and FIPS codes, with population data (to add)
 
 ## Other Data :
 
@@ -22,6 +23,7 @@ Collections of relevant datasets to combine with testing data.
 * [covid19italy](https://github.com/RamiKrispin/covid19Italy) on GitHub
 
 ## Other catalogs of data
+* [CORD-19](https://pages.semanticscholar.org/coronavirus-research) dataset
 * [Geoff Hing](https://docs.google.com/document/d/198Boji2CYCEtbQ1OPc3swNnzD5cEudy4f8KKsMUI7F8/edit#)
 * [Coronation](https://docs.google.com/spreadsheets/d/1pWQf05rVCyvnxV_Lxf8mBlqz4REIb6OVRYFH4uBwdX8/edit#gid=0)
 
