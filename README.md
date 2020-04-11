@@ -26,7 +26,7 @@ Collections of relevant datasets to combine with testing data.
 * [CORD-19](https://pages.semanticscholar.org/coronavirus-research) dataset
 * [Geoff Hing](https://docs.google.com/document/d/198Boji2CYCEtbQ1OPc3swNnzD5cEudy4f8KKsMUI7F8/edit#)
 * [Coronation](https://docs.google.com/spreadsheets/d/1pWQf05rVCyvnxV_Lxf8mBlqz4REIb6OVRYFH4uBwdX8/edit#gid=0)
-
+* [Polymath clearinghouse](https://asone.ai/polymath/index.php?title=COVID-19_dataset_clearinghouse)
 
 # Web datasets
 Scrapable catalogs, tables, and lists
@@ -61,4 +61,5 @@ Overviews and dashboards drawing from multiple data sources (to mine for sources
 ## Using our data:
 *  [CovidCompare](http://covidcompare.com) ([discussion](https://forums.fast.ai/t/help-with-algorithm-for-covid19-relative-risk/65328))
 *  [Our World in Data, on COVID-19](https://ourworldindata.org/covid-testing)
-* Politico: [3/17](https://www.politico.com/interactives/2020/coronavirus-testing-by-state-chart-of-new-cases/)
+*  Politico: [3/17](https://www.politico.com/interactives/2020/coronavirus-testing-by-state-chart-of-new-cases/)
+*  The new presentations linked from the website's main page: [NYT 3/17](https://www.nytimes.com/interactive/2020/03/17/us/coronavirus-testing-data.html), Politico [state map](https://www.politico.com/interactives/2020/coronavirus-testing-by-state-chart-of-new-cases/), WSJ [tests vs cases](https://www.wsj.com/articles/how-the-cdcs-restrictive-testing-guidelines-hid-the-coronavirus-epidemic-11584882001)
